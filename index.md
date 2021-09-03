@@ -30,5 +30,8 @@ Participants will be able to know and do the following by the end of this worksh
 10. Know how to use a free podcasting publishing service.
 11. Know how to publish a stand-alone audio interview or recording. 
 12. OPTIONAL: Use Zoom to record remote interviews.
- 
+
+
+[Image credit](https://www.flickr.com/photos/abletoven/3223086466){:target="_blank"}
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
