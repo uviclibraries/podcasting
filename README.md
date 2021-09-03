@@ -1,4 +1,4 @@
-# richmccue/podcasting 
+# Podcasting
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/podcasting/
