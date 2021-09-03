@@ -5,4 +5,4 @@ nav_order: 3
 has_children: true
 has_toc: true
 ---
-# Planning sheet and Podcasting tips
+# Planning Sheet and Podcasting Tips
