@@ -5,8 +5,10 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
-
+## Podcasting with Audacity
+- Faculty Rubrics & Tips (bottom of page): [https://guides.library.vcu.edu/podcast/resources](https://guides.library.vcu.edu/podcast/resources)
+- Andrew J. Salvati, “Podcasting the Past: Hardcore History, Fandom, and DIY Histories”, Journal of Radio & Audio Media 22. N.2 (2015): 231-239
+- Sterne, J., Morris, J., Baker, M. B., & Freire, A. M. (2008). The politics of podcasting. The Fibreculture Journal, 13. Retrieved from [http://thirteen.fibreculturejournal.org/fcj-087-thepolitics-of-podcasting/](http://thirteen.fibreculturejournal.org/fcj-087-thepolitics-of-podcasting/)
 
 ## Acknowledgements
 
