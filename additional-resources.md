@@ -15,6 +15,7 @@ nav_order: 10
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMENTS HERE**
+- [Rich McCue](https://richmccue.com/){:target="_blank"}
+- 
 
 [NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
