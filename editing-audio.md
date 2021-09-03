@@ -1,9 +1,10 @@
 ---
 layout: default
-title: 4-Editing Audio Transitions & Voiceovers
-nav_order: 5
+title: 3-Editing Audio in Audacity
+nav_order: 4
 parent: Workshop Activities
 ---
-# Editing Audio Transitions & Voiceovers
+# Editing Audio in Audacity
 
 [NEXT STEP: Editing Audio Transitions & Voiceovers](editing-audio-transitions-voiceovers.html){: .btn .btn-blue }
+
