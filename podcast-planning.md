@@ -6,4 +6,4 @@ parent: Planning and Tips
 ---
 # Planning your Podcast
 
-[NEXT STEP: Podcast Tips](podcasting-tips.html){: .btn .btn-blue }
+[NEXT STEP: Podcasting Tips](podcasting-tips.html){: .btn .btn-blue }
