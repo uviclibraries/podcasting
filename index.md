@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="podcasting-logo.png" style="float:right;width:180px;" alt="podcasting icon"> 
+<img src="images/podcasting-logo.png" style="float:right;width:180px;" alt="podcasting icon"> 
 
 # Introduction to Podcasting with Audacity
 
