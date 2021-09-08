@@ -38,8 +38,8 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
 - **Wear headphones** if possible. Headphones help isolate the audio, helping you catch any problems in your narration or audio.
 - **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is 6 to 12 inches. This prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get closer to the microphone.
 - **Check your levels** by selecting the “**Click to Start Monitoring**” text in the top navigation while wearing headphones or earbuds. 
-    - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
-    - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
+     - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
+     - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 - **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
   <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
