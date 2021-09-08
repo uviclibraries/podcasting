@@ -4,6 +4,7 @@ title: 6-Publishing Single Audio Interviews
 nav_order: 7
 parent: Workshop Activities
 ---
+<img src="images/single-audio.png" style="float:right;width:180px;" alt="soundcloud logo">
 # Publishing Single Audio Interviews
 When your podcast is completed, you need a place to host your episodes. Media hosts are services that store your audio and allow your listeners to listen and download.
 
