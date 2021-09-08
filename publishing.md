@@ -27,28 +27,26 @@ If you have any questions or get stuck as you work through this in-class exercis
 - When a dialogue box appears that says, **We’re submitting your podcast!** **Click** on the purple **Great, thanks!** Button. It will take a week or more for your new podcast to be listed on all 10 of the podcasting directories that Anchor.fm lists it in. iTunes will be one of the last directories that will make your podcast searchable on their platform. 
 
 3. If you have already recorded a podcast episode or promo, you can upload it now. If you don’t have audio to upload yet, it’s no problem to come back later and complete this step.
-Click on the purple Let’s do it button.
-Next click on the purple text on the right of the screen that says, Click to upload or drop audio here. Select the mp3 file you want to upload.
-Click on the purple, Save episode button after the mp3 file has uploaded.
-Enter the Episode title, Episode description, Publish date, Season number, and Episode number. Then click on the purple Publish now button at the top of the page.
-Congratulations the first episode of your podcast has been published!
+- **Click** on the purple **Let’s do it button**.
+- Next **click** on the purple text on the right of the screen that says, **Click to upload or drop audio here. Select** the **mp3 file** you want to upload.
+- **Click** on the purple, **Save episode** button after the mp3 file has uploaded.
+- **Enter** the **Episode title, Episode description, Publish date, Season number, and Episode number**. Then **click** on the purple **Publish now** button at the top of the page.
+- Congratulations the first episode of your podcast has been published!
 
+4. Promote your Podcast:  
+- **Podcast Website** - WordPress.com or Anchor.fm:
+        - The easiest option is to use the Anchor.fm website that comes with your account. You don’t have as much flexibility with it as you do with a Wordpress.com account, but it is a good place to start. You can always create a different website later.
+        - A WordPress website gives you more flexibility over both how your podcast website looks and how many pages it has. You can always attend a Digital Scholarship Commons Wordpress workshop to get some help getting started - [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops){:target="_blank"}
+- **Social Media**: 
+        - Don’t forget to promote your podcast and each episode on social media: Twitter, Instagram, Facebook, etc. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas to focus your efforts on. 
+        - Create images, clips and share quotes that listeners can share on social media. [Anchor.fm](http://bit.ly/anchor-vid){:target="_blank"} has a tool that helps you create short video and audio clips to share
+- Create an **Email List** using MailChimp: 
+        - Fans of your podcast not on social media may want to hear from you directly about new podcast episodes, news. [MailChimp](https://mailchimp.com/){:target="_blank"} is a great option - 
+        - Make sure to mention your mail list in each podcast episode, and on your podcast website.
+- Be a **guest on other related podcasts**. Ask friends or other podcasters with related podcasts to be a guest and use that opportunity to mention your podcast. Typically the host of the podcast will include your podcast name as they introduce you (photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"} on [Unsplash](https://unsplash.com/s/photos/podcast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){:target="_blank"}).
+- **Ask your listeners to review** and rate your episode in the iTunes store. Ratings and reviews are the best way to get traction and to make it onto iTunes charts. 
+- Publish consistently and on a schedule so listeners know when they will get new content.<br>
 
-Promote your Podcast:  
-Podcast Website - WordPress.com or Anchor.fm:
-The easiest option is to use the Anchor.fm website that comes with your account. You don’t have as much flexibility with it as you do with a Wordpress.com account, but it is a good place to start. You can always create a different website later.
-A WordPress website gives you more flexibility over both how your podcast website looks and how many pages it has. You can always attend a Digital Scholarship Commons Wordpress workshop to get some help getting started - http://bit.ly/dsc-workshops  
-Social Media: 
-Don’t forget to promote your podcast and each episode on social media: Twitter, Instagram, Facebook, etc. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas to focus your efforts on. 
-Create images, clips and share quotes that listeners can share on social media. Anchor.fm has a tool that helps you create short video and audio clips to share: http://bit.ly/anchor-vid 
-Create an Email List using MailChimp: 
-Fans of your podcast not on social media may want to hear from you directly about new podcast episodes, news. MailChimp is a great option - https://mailchimp.com/
-Make sure to mention your mail list in each podcast episode, and on your podcast website.
-Be a guest on other related podcasts. Ask friends or other podcasters with related podcasts to be a guest and use that opportunity to mention your podcast. Typically the host of the podcast will include your podcast name as they introduce you (photo by Austin Distel on Unsplash).
-Ask your listeners to review and rate your episode in the iTunes store. Ratings and reviews are the best way to get traction and to make it onto iTunes charts. 
-Publish consistently and on a schedule so listeners know when they will get new content.
-
-
-Great Job and Good Luck!
+Great Job and Good Luck!<br>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
