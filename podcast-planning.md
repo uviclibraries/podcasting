@@ -4,6 +4,7 @@ title: 1-Planning your Podcast
 nav_order: 2
 parent: Planning and Tips
 ---
+<img src="images/podcast-plan.png" style="float:right;width:180px;" alt="podcasting icon">
 # Planning your Podcast
 ### How to Start
 Planning, or pre-production, is an important part of podcast creation. The more time you put into preparation, the easier it will be to record and edit your audio. As you start thinking about a new podcast idea, consider a set of important initial decisions:
