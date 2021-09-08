@@ -14,7 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Check out notes from Soundcloud about uploading an [audio file](http://bit.ly/35zNY6J){:target="_blank"} 
 
 
-2. You can also publish your audio file to your personal UVic webspace:
+2. You can also publish your audio file to your **personal UVic webspace**:
 - [Create your personal UVic website](http://bit.ly/2QRZoQ){:target="_blank"} 
 - [Upload your MP3 audio file to your webspace](http://bit.ly/2qJdPd){:target="_blank"} 
 - Promote the URL for your audio file.<br>
