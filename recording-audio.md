@@ -41,7 +41,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
     - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
     - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 - **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
-<img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
+  <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
 ![Demonstration of step 3](images/podcast-recording-05.gif)
 
