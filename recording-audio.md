@@ -25,7 +25,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       - Change Speakers/ Headphones to **Microphone**. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
       - Change to **Speakers**.
-![Image of Windows Settings](images/podcast-recording-02.png)
+![Image of Windows Settings](images/podcast-recording-02.jpeg)
 - **Mac Settings** to record from an external microphone:
       - Make sure **Core Audio** is selected. 
       - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone. 
