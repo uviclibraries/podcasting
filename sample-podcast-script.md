@@ -4,6 +4,7 @@ title: 3-Sample Podcast Script
 nav_order: 4
 parent: Planning and Tips
 ---
+<img src="images/podcast-sample.png" style="float:right;width:180px;" alt="document icon">
 # Sample Podcast Script
 This is a sample script for you to use for recording some audio in case you don’t have a podcast topic in mind. It can also be a template for you to use when you eventually create your own podcast script. Have fun!
 
