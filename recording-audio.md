@@ -4,6 +4,7 @@ title: 2-Podcast Recording with Audacity
 nav_order: 3
 parent: Workshop Activities
 ---
+<img src="images/podcast-recording-01.png" style="float:right;width:180px;" alt="podcasting icon">
 # Podcast Recording with Audacity
 Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But you will produce a much higher quality podcast if you use better recording equipment. One option is to record in the editing room, like the one located at Music & Media (M&M) in the library. Studios are generally well sound-proofed and have high-quality equipment that is already set up. To use the M&M podcast studio, contact a staff member at the M&M desk.<br>
 
@@ -24,10 +25,12 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       - Change Speakers/ Headphones to **Microphone**. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
       - Change to **Speakers**.
+![Image of Windows Settings](images/podcast-recording-02.png)
 - **Mac Settings** to record from an external microphone:
       - Make sure **Core Audio** is selected. 
       - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
+![Image of Mac Settings](images/podcast-recording-03.png)
 - If the USB microphone is not in the Audacity menu, confirm the device is turned on and plugged in, then Exit Audacity, restart Audacity and try again.
 
 3. Record some test audio in Audacity in the location where you will be conducting your interview:
@@ -38,8 +41,9 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
     - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
     - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 - **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
+<img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
-
+![Demonstration of step 3](images/podcast-recording-05.gif)
 4. Review your audio:
 - To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play and pause the audio.
 - Determine if you are getting good quality video for both yourself, your co-host, and your interviewee. 
