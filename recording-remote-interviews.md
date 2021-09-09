@@ -20,7 +20,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Go to the [Zoom.us](https://uvic.zoom.us){:target="_blank"} website and click on the blue **SIGNUP, IT’S FREE** button on the top right.
 - Create a Zoom account with your email address or with your Google or Facebook account. 
 
-3. Setting up Zoom: <img src="images/podcast-zoom-02.png" style="float:right;width:2500px;" alt="zoom menu drop down under host a meeting"> 
+3. Setting up Zoom: <img src="images/podcast-zoom-02.png" style="float:right;width:250px;" alt="zoom menu drop down under host a meeting"> 
 - On the main Zoom.us webpage, click on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
 - If this is your first Zoom meeting, you will be prompted to **download** and **install** a small program. 
 - You will then be asked if you want to join a meeting. Press the **Cancel** button.
@@ -34,9 +34,10 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Image of zoom settings](images/podcast-zoom-04.png)
 5. Interviewing with Zoom:
 - On the main Zoom.us webpage, **click** on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
-- A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on.
+- A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on. <img src="images/podcast-zoom-05.png" style="float:right;width:220px;" alt="invite participats button"> 
 - **Click** on the **Invite** button at the bottom of the window, and then **click** on the **Copy URL** text on the bottom left of the screen.
 - Message your interviewee either by email or instant message and **paste** in the **URL** you just copied which will look something like this: https://zoom.us/j/532670881?pwd=Yyt3ZVZjQ2VFdzBCd21wN2s2QUVGUT09. When your interviewee clicks on the link it will ask them if they would like to join your meeting.
+ <img src="images/podcast-zoom-06.png" style="float:right;width:200px;" alt="record button"> 
 - Once they have joined your meeting, let them know that you are going to start recording, and then **click** on the **Record** button on the bottom right of the Zoom window.
 - If you haven’t already, **put on some headphones** so that you can make sure that the audio levels from your end and your interviewees end sound good. 
 - You may need to adjust your audio input settings, and you may need to walk your participant through how to do the same. It can be helpful to ask your interviewee to share their screen with you in order to adjust their audio levels.
@@ -45,7 +46,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Once everything sounds good, start your interview proper and officially welcome your guest. 
 - You can always edit out the introduction where you are getting everything set up, but you never know, you might record something interesting with your interviewee while taking care of pre-podcast technical details.
 
-6. Ending the interview & importing the interview audio into Audacity:
+6. Ending the interview & importing the interview audio into Audacity: <img src="images/podcast-zoom-07.png" style="float:right;width:200px;" alt="recording text button"> 
 - To end the recording of the interview **mouse over** the **Recording** text on the top left of the Zoom screen (see right) and then **press** the white square **stop icon**.
 - End the meeting by **pressing** the red **End Meeting** text at the bottom right of the Zoom screen (you may need to move your mouse to the Zoom screen to see the text).
 - A dialogue box will appear. **Press** the **End Meeting for All** button.
