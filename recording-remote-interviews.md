@@ -4,6 +4,7 @@ title: 5-Recording Remote Interviews using Zoom
 nav_order: 6
 parent: Workshop Activities
 ---
+<img src="images/podcast-zoom-01.png" style="float:right;width:180px;" alt="zoom logo"> 
 # Recording Remote Interviews using Zoom
 Many podcasters use Zoom.us to record their sessions if the co-host or interviewee is not in the same location. Zoom gives you higher audio quality than you’ll get on a regular phone call and in addition, you can have calls with multiple people at once.
 
@@ -19,18 +20,18 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Go to the [Zoom.us](https://uvic.zoom.us){:target="_blank"} website and click on the blue **SIGNUP, IT’S FREE** button on the top right.
 - Create a Zoom account with your email address or with your Google or Facebook account. 
 
-3. Setting up Zoom:
+3. Setting up Zoom: <img src="images/podcast-zoom-02.png" style="float:right;width:2500px;" alt="zoom menu drop down under host a meeting"> 
 - On the main Zoom.us webpage, click on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
 - If this is your first Zoom meeting, you will be prompted to **download** and **install** a small program. 
 - You will then be asked if you want to join a meeting. Press the **Cancel** button.
 - **Enter** the **email address** of the person you want to interview, and **press** the **I’m not a robot** checkbox, then **press** the orange **Invite** button. This will send an invite to them to joint Zoom which they will have to accept.
 - Once the interviewee has accepted the invite and created a Zoom account, or logged on to their existing zoom account, you can then invite them to a “meeting” where you can record your interview with them.
 
-4. Zoom Settings for Interviews:
+4. Zoom Settings for Interviews: <img src="images/podcast-zoom-03.png" style="float:right;width:220px;" alt="zoom preferences"> 
 - Open the Zoom client and click Settings (or Zoom -> Preferences on the top menu of a Mac).
 - Click the Recording tab on the left.
 - Enable Record a separate audio file for each participant.
-
+![Image of zoom settings](images/podcast-zoom-04.png)
 5. Interviewing with Zoom:
 - On the main Zoom.us webpage, **click** on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
 - A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on.
