@@ -34,7 +34,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 ![Image of zoom settings](images/podcast-zoom-04.png)
 5. Interviewing with Zoom:
 - On the main Zoom.us webpage, **click** on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
-- A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on. <img src="images/podcast-zoom-05.png" style="float:right;width:220px;" alt="invite participats button"> 
+- A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on. <img src="images/podcast-zoom-05.png" style="float:right;width:260px;" alt="invite participats button"> 
 - **Click** on the **Invite** button at the bottom of the window, and then **click** on the **Copy URL** text on the bottom left of the screen.
 - Message your interviewee either by email or instant message and **paste** in the **URL** you just copied which will look something like this: https://zoom.us/j/532670881?pwd=Yyt3ZVZjQ2VFdzBCd21wN2s2QUVGUT09. When your interviewee clicks on the link it will ask them if they would like to join your meeting.
  <img src="images/podcast-zoom-06.png" style="float:right;width:200px;" alt="record button"> 
