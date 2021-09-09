@@ -19,16 +19,16 @@ If you have any questions or get stuck as you work through this in-class exercis
     - Edit audio in a web browser, on a phone or tablet including transitions & sound effects.
     - Remote audio recording with up to 8 guests using the Anchor.fm app on iOS or Android.
 
-2. Create an account on Anchor.fm: <img src="images/podcast-publishing-02.png" style="float:right;width:200px;" alt="setup button"> 
+2. Create an account on Anchor.fm:  
 - Go to [**anchor.fm**](https://anchor.fm/){:target="_blank"} and click on the **Sign up** button on the top right of the screen.
 - **Fill out the signup form**, create a password and then **submit** the form, and you will be taken to the anchor dashboard.
-- Click on the **Go to podcast** setup button. 
+- Click on the **Go to podcast** setup button. <img src="images/podcast-publishing-02.png" style="float:right;width:220px;" alt="setup button">
 - Enter your **podcast name, description, category, and language.** Then press the **Continue** button.
 - Choose cover art for your podcast by clicking on either **Searching for a photo, Upload an image, or Choose one for me**. Follow the directions for the option you selected.
 - When a dialogue box appears that says, **We’re submitting your podcast!** **Click** on the purple **Great, thanks!** Button. It will take a week or more for your new podcast to be listed on all 10 of the podcasting directories that Anchor.fm lists it in. iTunes will be one of the last directories that will make your podcast searchable on their platform. 
 
 3. If you have already recorded a podcast episode or promo, you can upload it now. If you don’t have audio to upload yet, it’s no problem to come back later and complete this step.
-- **Click** on the purple **Let’s do it button**. <img src="images/podcast-publishing-03.png" style="float:right;width:250px;" alt="uploading area"> 
+- **Click** on the purple **Let’s do it button**. <img src="images/podcast-publishing-03.png" style="float:right;width:280px;" alt="uploading area"> 
 - Next **click** on the purple text on the right of the screen that says, **Click to upload or drop audio here. Select** the **mp3 file** you want to upload.
 - **Click** on the purple, **Save episode** button after the mp3 file has uploaded.
 - **Enter** the **Episode title, Episode description, Publish date, Season number, and Episode number**. Then **click** on the purple **Publish now** button at the top of the page.
