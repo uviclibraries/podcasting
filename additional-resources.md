@@ -7,6 +7,7 @@ nav_order: 10
 
 ## Podcasting with Audacity
 - [Audio Recording Cheatsheet](http://bit.ly/uvic_record){:target="_blank"}
+- [An Introduction to Scholarly Podcasting - Podcast](https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/){:target="_blank"}
 - [Audacity Users Manual](https://manual.audacityteam.org/index.html){:target="_blank"}
 - Faculty Rubrics & Tips (bottom of page): [https://guides.library.vcu.edu/podcast/resources](https://guides.library.vcu.edu/podcast/resources){:target="_blank"}
 - Andrew J. Salvati, “Podcasting the Past: Hardcore History, Fandom, and DIY Histories”, Journal of Radio & Audio Media 22. N.2 (2015): 231-239
