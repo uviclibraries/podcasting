@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Recording Remote Interviews using Zoom
+title: 4-Remote Interviews with Zoom
 nav_order: 6
 parent: Workshop Activities
 ---
