@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Publishing & Promotion
+title: 6-Publishing & Promotion
 nav_order: 8
 parent: Workshop Activities
 ---
