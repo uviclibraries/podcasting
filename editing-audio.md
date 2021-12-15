@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Editing Audio in Audacity
+title: 2-Editing Audio
 nav_order: 4
 parent: Workshop Activities
 ---
