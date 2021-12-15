@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Publishing & Promotion
+title: 6-Publishing & Promoting Podcasts
 nav_order: 8
 parent: Workshop Activities
 ---
