@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Publishing Single Audio Files
+title: 5-Publish Single Recordings
 nav_order: 7
 parent: Workshop Activities
 ---
