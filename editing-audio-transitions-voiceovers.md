@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Editing Audio Transitions & Voiceovers
+title: 3-Audio Transitions & Voiceovers
 nav_order: 5
 parent: Workshop Activities
 ---
