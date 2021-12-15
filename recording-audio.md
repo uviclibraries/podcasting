@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Podcast Recording with Audacity
+title: 1-Podcast Recording
 nav_order: 3
 parent: Workshop Activities
 ---
