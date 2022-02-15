@@ -9,9 +9,9 @@ parent: Workshop Activities
 Let’s add some music bumpers and voiceovers to your podcast audio. Many podcasts include music at the beginning and end, as well as during transitions. Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that are shared with no or low copyright limitations including:
+- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"}- CC-licensed music grouped by genre.
 - [Free Sound](https://freesound.org/browse/){:target="_blank"} - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music. 
 - [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"} - Non-profit digital library with collections of digitized free movies, music, images, websites and more.
-- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"}- CC-licensed music grouped by genre.
 - [ccMixter](http://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games.
 - [CCTrax](https://cctrax.com/){:target="_blank"} - CC-licensed music grouped by genre. 
 - [Soundcloud](https://soundcloud.com/wearecc){:target="_blank"} - Audio-sharing site with some CC-licensed music.
