@@ -45,7 +45,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
 - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
 ![Demonstration adding a mono track](images/podcast-transitions-13.gif)
-- <img src="images/podcast-transitions-14.png" style="float:right;width:100px;" alt="time shift tool"> **Click** on the grey bar at the top of your audio track, and **drag your voice over audio** to the part of the interview where you would like to place it.
+- **Click** on the grey bar at the top of your audio track, and **drag your voice over audio** to the part of the interview where you would like to place it.
 - To lower the volume on your primary podcast audio track in the same area where you have placed your voice-over audio, start by using the **selection tool** and **click** on the podcast voice track at the **beginning of where you want your voice over to start**.<img src="images/podcast-transitions-15.png" style="float:right;width:100px;" alt="volume voice track and boundaries"> 
 - Next in the menu, click **Edit -> Clip Boundaries -> Split**.
 - **Click on your podcast audio track** approximately **where your voice over will end**. Next click **Edit -> Clip Boundaries -> Split**.
