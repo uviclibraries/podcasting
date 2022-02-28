@@ -14,7 +14,6 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"} - Non-profit digital library with collections of digitized free movies, music, images, websites and more.
 - [ccMixter](http://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games.
 - [CCTrax](https://cctrax.com/){:target="_blank"} - CC-licensed music grouped by genre. 
-- [Soundcloud](https://soundcloud.com/wearecc){:target="_blank"} - Audio-sharing site with some CC-licensed music.
 <img src="images/podcast-transitions-02.png" style="float:right;width:300px;" alt="download icon"> 
 2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [http://bit.ly/2OgSUsS](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} 
 - Import the audio file you just downloaded going to **File -> Import -> Audio** and then selecting the mp3 file from the file manager. 
