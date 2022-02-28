@@ -26,8 +26,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - You should now be left with 8 seconds of music.
 ![Demonstration  of Step 3](images/podcast-transitions-04.gif)
 4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
-- **Click** on the **Time Shift Tool** on the top menu (see right). <img src="images/podcast-transitions-05.png" style="float:right;width:100px;" alt="time shift tool"> 
-- **Grab** your **voice audio track** and **drag it to the right** about **6-seconds**. 
+- **Grab** the grey bar at the top of your **voice audio track** and **drag it to the right** about **6-seconds**. 
 <img src="images/podcast-transitions-06.png" style="float:right;width:100px;" alt="selection tool"> 
 - Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect -> Fade in**.
 - **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect -> Fade out**.
