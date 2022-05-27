@@ -5,7 +5,7 @@ nav_order: 5
 parent: Workshop Activities
 ---
 <img src="images/podcast-transitions-01.png" style="float:right;width:180px;" alt="podcasting icon"> 
-# Editing Audio Transitions & Voiceovers
+# Editing Audio Transitions, Voiceovers, & Free Audio Clips
 Let’s add some music bumpers and voiceovers to your podcast audio. Many podcasts include music at the beginning and end, as well as during transitions. Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that are shared with no or low copyright limitations including:
