@@ -7,6 +7,7 @@ nav_order: 10
 
 ## Podcasting with Audacity
 - [Audio Recording Cheatsheet](http://bit.ly/uvic_record){:target="_blank"}
+- [Documenting Traditional Knowledge with Community Recording Checklist](https://library-indigitization-2020.sites.olt.ubc.ca/files/2020/06/Indigitization-Toolkit-Section-L-Appendix-C-Inspired-Practices-for-Audio-Recording.pdf){:target="_blank"} (UBC)
 - [An Introduction to Scholarly Podcasting - Podcast](https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/){:target="_blank"}
 - [Audacity Users Manual](https://manual.audacityteam.org/index.html){:target="_blank"}
 - Faculty Rubrics & Tips (bottom of page): [https://guides.library.vcu.edu/podcast/resources](https://guides.library.vcu.edu/podcast/resources){:target="_blank"}
