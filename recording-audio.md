@@ -3,6 +3,7 @@ layout: default
 title: 1-Podcast Recording
 nav_order: 3
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-recording-01.png" style="float:right;width:180px;" alt="podcasting icon">
 # Podcast Recording with Audacity
@@ -43,7 +44,12 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
 - **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
   <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
-![Demonstration of step 3](images/podcast-recording-05.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/podcast-recording-05.gif">
+</div>
+
 
 4. Review your audio:
 - To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play and pause the audio.
@@ -55,5 +61,17 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
 - Next begin editing your test interview audio.
 
 Great Job!
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Editing Audio in Audacity](editing-audio.html){: .btn .btn-blue }

@@ -3,6 +3,7 @@ layout: default
 title: 3-Audio Transitions & Voiceovers
 nav_order: 5
 parent: Workshop Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-transitions-01.png" style="float:right;width:180px;" alt="podcasting icon"> 
 # Editing Audio Transitions, Voiceovers, & Free Audio Clips
@@ -18,13 +19,23 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [http://bit.ly/2OgSUsS](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} 
 - Import the audio file you just downloaded going to **File -> Import -> Audio** and then selecting the mp3 file from the file manager. 
 - A new audio track with the music will appear in Audacity below your interview audio.
-![Demonstration  of Step 2](images/podcast-transitions-03.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/podcast-transitions-03.gif">
+</div>
+
 3. Create a music introduction and ending for your podcast: 
 - First, listen to the music track, so you can find part of the track you want to use. 
 - Delete all but the 8 seconds of music you want to use by **selecting the beginning of the music track** up to the point that you want to use and then press the **Delete** button on your keyboard. 
 - **Select** all but 8 seconds of the music and press the **Delete** key on your keyboard. 
 - You should now be left with 8 seconds of music.
-![Demonstration  of Step 3](images/podcast-transitions-04.gif)
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+<img src="images/podcast-transitions-04.gif">
+</div>
+
 4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
 - **Grab** the grey bar at the top of your **voice audio track** and **drag it to the right** about **6-seconds**. 
 <img src="images/podcast-transitions-06.png" style="float:right;width:100px;" alt="selection tool"> 
@@ -33,32 +44,69 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
 ![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
 - If you want to experiment further, use the same technique to create a music bumper in the middle of your podcast voice audio.<img src="images/podcast-transitions-07.png" style="float:right;width:100px;" alt="music bumper tool"> 
-![Demonstration  of Step 4](images/podcast-transitions-09.gif)
+
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+<img src="images/podcast-transitions-09.gif">
+</div>
+
 5. Lower the volume of the music intro and playout: <img src="images/podcast-transitions-10.png" style="float:right;width:100px;" alt="white handles"> 
 - The music is a bit loud so let’s lower the overall volume by **clicking** on the **Envelope Tool** on the top menu (see right).
 - **Select** the **music intro audio track**, then **grab** the **white handle** at the top of the audio wave and **drag it down** so that it looks something like the image to the right.
 - Do the same for the music at the end of the audio track.
-![Demonstration  of Step 5](images/podcast-transitions-11.gif)
+
+<button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+<img src="images/podcast-transitions-11.gif">
+</div>
+
 6. Let’s create and place some voice over audio in the middle of your podcast:
 - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/podcast-transitions-12.png" style="float:right;width:100px;" alt="selection tool"> 
 - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
 - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
 - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
-![Demonstration adding a mono track](images/podcast-transitions-13.gif)
+
+<button onclick="toggle('gif5')">Show / Hide Animation </button>
+<div id="gif5">
+<img src="images/podcast-transitions-13.gif">
+</div>
+
 - **Click** on the grey bar at the top of your audio track, and **drag your voice over audio** to the part of the interview where you would like to place it.
 - To lower the volume on your primary podcast audio track in the same area where you have placed your voice-over audio, start by using the **selection tool** and **click** on the podcast voice track at the **beginning of where you want your voice over to start**.<img src="images/podcast-transitions-15.png" style="float:right;width:100px;" alt="volume voice track and boundaries"> 
 - Next in the menu, click **Edit -> Clip Boundaries -> Split**.
 - **Click on your podcast audio track** approximately **where your voice over will end**. Next click **Edit -> Clip Boundaries -> Split**.
-![Demonstration editing clip boundaries and splitting](images/podcast-transitions-16.gif)
+
+<button onclick="toggle('gif6')">Show / Hide Animation </button>
+<div id="gif6">
+<img src="images/podcast-transitions-16.gif">
+</div>
+
 - **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/podcast-transitions-17.png" style="float:right;width:100px;" alt="envelope tool"> 
 - **Select** the **portion of the track you just isolated**, then **grab** the **white handle** at the top of the audio wave and **drag it down** to reduce the volume where your voice over will be.
 - Play the audio to make sure that the voice over is in the right place and adjust as necessary.
-![Demonstration of using the envelope tool](images/podcast-transitions-18.gif)
+
+<button onclick="toggle('gif7')">Show / Hide Animation </button>
+<div id="gif7">
+<img src="images/podcast-transitions-18.gif">
+</div>
+
 7. Export the audio in High MP3 quality:
 - Select on the top menu: **File -> Export -> Export as MP3** and then click the **Save** button.
 - Edit the meta-data for your podcast (this is optional). Click **OK**.
 - If you haven’t already installed the library to export MP3 files you will be prompted to download a free copy of “LAME” that will do this for you by pressing the Download button. Follow the installation directions for your operating system (ask for help if you have any problems).
 
 [Based on the CC-licensed VCU podcasting guide](https://guides.library.vcu.edu/podcast/editing){:target="_blank"}
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Recording Remote Interviews using Zoom](recording-remote-interviews.html){: .btn .btn-blue }
