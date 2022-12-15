@@ -39,8 +39,8 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
 - **Grab** the grey bar at the top of your **voice audio track** and **drag it to the right** about **6-seconds**. 
 <img src="images/podcast-transitions-06.png" style="float:right;width:100px;" alt="selection tool"> 
-- Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect -> Fade in**.
-- **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect -> Fade out**.
+- Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect -> Fade out**.
+- **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect -> Fade in**.
 - **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
 ![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
 - If you want to experiment further, use the same technique to create a music bumper in the middle of your podcast voice audio.<img src="images/podcast-transitions-07.png" style="float:right;width:100px;" alt="music bumper tool"> 
