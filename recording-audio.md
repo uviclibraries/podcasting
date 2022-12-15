@@ -38,7 +38,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
 - **Find a quiet place** to record without interruptions or fan noise (especially overhead vents).
 - **Wear headphones** if possible. Headphones help isolate the audio, helping you catch any problems in your narration or audio.
 - **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is 6 to 12 inches. This prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get closer to the microphone.
-- **Check your levels** by selecting the “**Click to Start Monitoring**” text in the top navigation while wearing headphones or earbuds. 
+- **Check your levels** by selecting the microphone icon on the top ribbon and the click on the “**Start Monitoring**” text. You should be wearing your headphones or earbuds to hear the audio.
      - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
      - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 - **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
