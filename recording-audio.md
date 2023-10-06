@@ -61,7 +61,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
 - To pause the audio, click the pause button. 
 - Determine if you are getting good quality video for both yourself, your co-host, and your interviewee. 
 - If you are not getting good quality sound, please refer to **Planning and Tips** and the **Podcasting Tips** for suggestions on how to improve audio quality.
-[Podcasting Tips](podcasting-tips.html){: .btn .btn-blue }
+[Podcasting Tips](podcasting-tips.html){: .btn .btn-green }
 5. Record your podcast audio:
 - Once you are happy with the quality of your audio, you can now start your interview. In this workshop setting, there will be a lot of background noise -- which is not ideal, but for the purposes of this workshop, we want you to record between 2 and 5 minutes of audio for you to edit in the next step. Do your best and have fun being a podcast host!
 - Next begin editing your test interview audio.
