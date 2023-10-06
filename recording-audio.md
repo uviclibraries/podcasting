@@ -26,7 +26,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       - Change Speakers/ Headphones to **Microphone**. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
       - Change to **Speakers**.
-  <img src="images/audacity-new-1.png">
+  <img src="images/audacity-new-01.png">
 
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
