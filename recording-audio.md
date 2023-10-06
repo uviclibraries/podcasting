@@ -26,8 +26,14 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       - Change Speakers/ Headphones to **Microphone**. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
       - Change to **Speakers**.
-![Image of Windows Settings](images/podcast-recording-02.jpeg)
-- **Mac Settings** to record from an external microphone:
+![Image of Windows Settings](images/audacity-new-1.png)
+
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/audacity-new-1.gif">
+      </div>
+
+ **Mac Settings** to record from an external microphone:
       - Make sure **Core Audio** is selected. 
       - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone. 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
