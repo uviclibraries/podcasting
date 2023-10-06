@@ -27,12 +27,14 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
       - Change to **Speakers**.
   <img src="images/audacity-new-01.png">
+  
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
       <img src="images/audacity-new-1.gif">
       </div>
+      
  **Mac Settings** to record from an external microphone:<b>
-      - Under Audio set up: Make sure **Core Audio** is selected. 
+      - Under Audio set up: Make sure **Core Audio** is selected.
       - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone, using your System Preferences and Sound settings (note you must re-launch Audacity after changing this setting.
       - Change 2 (stereo) recording channel to **1 (mono) recording** channel, under Audio Settings and Recording Channels.<br>
       
