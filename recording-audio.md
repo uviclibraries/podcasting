@@ -51,11 +51,10 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
   <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
-<img src="images/podcast-recording-05.gif">
-</div>
-
+      <img src="images/podcast-recording-05.gif">
+      </div>
 
 4. Review your audio:
 - To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play and pause the audio.
