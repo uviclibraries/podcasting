@@ -82,5 +82,7 @@ Great Job!<br>
     }
 </script>
 
+[Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
+
 [NEXT STEP: Editing Audio Transitions & Voiceovers](editing-audio-transitions-voiceovers.html){: .btn .btn-blue }
 
