@@ -33,11 +33,12 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       <img src="images/audacity-new-1.gif">
       </div>
 
- **Mac Settings** to record from an external microphone:
-      - Make sure **Core Audio** is selected. 
-      - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone. 
-      - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
-![Image of Mac Settings](images/podcast-recording-03.png)
+ **Mac Settings** to record from an external microphone:<b>
+      - Under Audio set up: Make sure **Core Audio** is selected. 
+      - Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone, using your System Preferences and Sound settings.
+      - Change 2 (stereo) recording channel to **1 (mono) recording** channel, under Audio Settings and Recording Channels.
+![Image of Mac Settings](images/audacity-new-2.png)
+
 - If the USB microphone is not in the Audacity menu, confirm the device is turned on and plugged in, then Exit Audacity, restart Audacity and try again.
 
 3. Record some test audio in Audacity in the location where you will be conducting your interview:
