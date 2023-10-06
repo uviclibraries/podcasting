@@ -57,8 +57,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
       </div>
 
 4. Review your audio:
-- To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play.
-- To pause the audio, click the pause button. 
+- To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play or to pause the audio. 
 - Determine if you are getting good quality video for both yourself, your co-host, and your interviewee. 
 - If you are not getting good quality sound, please refer to **Planning and Tips** and the [Podcasting Tips](podcasting-tips.html){: .btn .btn-green } for suggestions on how to improve audio quality.
 
