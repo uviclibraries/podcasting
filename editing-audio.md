@@ -27,6 +27,7 @@ Now that you have recorded some audio for your podcast, let’s do some editing!
 - **Select** a few seconds of audio from the middle of your recorded audio and, select **Edit -> Copy**. 
 - Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the audio clip.
 - You can also copy voice, music, or background “silence" audio from another track and paste it into your main podcast interview audio track.
+- For some versions of Audacity, there are buttons and others there are not, if there are no buttons, just use Edit on the top menu. 
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
