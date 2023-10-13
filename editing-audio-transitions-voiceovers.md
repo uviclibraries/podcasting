@@ -61,7 +61,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 </div>
 
 6. Let’s create and place some voice over audio in the middle of your podcast:
-- Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/podcast-transitions-12.png" style="float:right;width:100px;" alt="selection tool"> 
+- Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
 - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
 - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
 - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
@@ -81,7 +81,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 <img src="images/podcast-transitions-16.gif">
 </div>
 
-- **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/podcast-transitions-17.png" style="float:right;width:100px;" alt="envelope tool"> 
+- **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/envelope-tool.png" style="float:right;width:100px;" alt="envelope tool"> 
 - **Select** the **portion of the track you just isolated**, then **grab** the **white handle** at the top of the audio wave and **drag it down** to reduce the volume where your voice over will be.
 - Play the audio to make sure that the voice over is in the right place and adjust as necessary.
 
