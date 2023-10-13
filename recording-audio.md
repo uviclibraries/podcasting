@@ -30,7 +30,7 @@ NOTE: If you are participating in an online workshop, some find it difficult to 
   
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
-      <img src="images/camva-p1.gif">
+      <img src="images/audacity-new-1.gif">
       </div>
       
  **Mac Settings** to record from an external microphone:<b>
