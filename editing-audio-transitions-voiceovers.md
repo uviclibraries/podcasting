@@ -81,7 +81,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 <img src="images/podcast-transitions-16.gif">
 </div>
 
-- **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/envelope-tool.png" style="float:right;width:100px;" alt="envelope tool"> 
+- **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/envelope-tool .png" style="float:right;width:100px;" alt="envelope tool"> 
 - **Select** the **portion of the track you just isolated**, then **grab** the **white handle** at the top of the audio wave and **drag it down** to reduce the volume where your voice over will be.
 - Play the audio to make sure that the voice over is in the right place and adjust as necessary.
 
