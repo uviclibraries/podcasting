@@ -43,7 +43,6 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect -> Fade in**.
 - **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
 ![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
-- If you want to experiment further, use the same technique to create a music bumper in the middle of your podcast voice audio.
 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
