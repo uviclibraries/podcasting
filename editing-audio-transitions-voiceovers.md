@@ -59,7 +59,22 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 <img src="images/podcast-transitions-11.gif">
 </div>
 
-6. Let’s create and place some voice over audio in the middle of your podcast:
+6. Add a music bridge to your podcast:
+- First **find the region** you want to add a bridge. This could be between two topics in your podcasts, before introducing a new speaker, or when you need suspension, etc.
+- Put your **cursor** on the region you want to add the bridge in between. **Right click**, and choose **split clip**. This would divide your main track into half.
+- **Drag** the second part of your track until you make a **balnk gap** for the **duration of your bridge**. The duration of the bridge is up to you and could be different for every project, or even between bridges. Let's say you want this bridge to last 8 seconds.
+- Now that you have a blank region for your bridge, lets add some media (e.g., music). First **add** your desired audio file to a **new track**. You can do this by **dragging and dropping** the MP3 (or any other format) file of your desired audio to audacity. This would create a new track **below your main track**.
+- **Select** 8 seconds of your audio file that you want to put as your bridge:
+  1. With your mouse, **select** your desired **8 seconds** of the audio file.
+  2. **Right click** on the selected region and choose **split clip**. This would **detach** the selected region from the audio.
+  3. **Delete** the **other parts** that you do not need.
+- **Drag** the trimmed audio file and situate it exactly **below your gap**.
+- With your maouse, **drag** the edges of your audio file one at a time, and **extend the edges** until your audio completely **covers the bridge**. The amount of **overlap** between your bridge audio and your main vocal track depends on you. Generally, a **longer overlaps** result in **smoother transitions**.
+- Now its time for **fading in/out** your bridge audio:
+  1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
+  2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
+
+7. Let’s create and place some voice over audio in the middle of your podcast:
 - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
 - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
 - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
