@@ -59,7 +59,7 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 <img src="images/podcast-transitions-11.gif">
 </div>
 
-6. Add a music bridge to your podcast:
+6. Add a music bridge to your podcast: <img src="images/podcast-transitions-10.png" style="float:right;width:100px;" alt="white handles"> 
 - First **find the region** you want to add a bridge. This could be between two topics in your podcasts, before introducing a new speaker, or when you need suspension, etc.
 - Put your **cursor** on the region you want to add the bridge in between. **Right click**, and choose **split clip**. This would divide your main track into half.
 - **Drag** the second part of your track until you make a **balnk gap** for the **duration of your bridge**. The duration of the bridge is up to you and could be different for every project, or even between bridges. Let's say you want this bridge to last 8 seconds.
@@ -73,6 +73,11 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - Now its time for **fading in/out** your bridge audio:
   1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
   2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
+ 
+<button onclick="toggle('gif8')">Show / Hide Animation </button>
+<div id="gif5">
+<img src="images/audio-bridge.gif">
+</div>
 
 7. Let’s create and place some voice over audio in the middle of your podcast:
 - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
