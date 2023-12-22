@@ -65,14 +65,14 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 - **Drag** the second part of your track until you make a **balnk gap** for the **duration of your bridge**. The duration of the bridge is up to you and could be different for every project, or even between bridges. Let's say you want this bridge to last 8 seconds.
 - Now that you have a blank region for your bridge, lets add some media (e.g., music). First **add** your desired audio file to a **new track**. You can do this by **dragging and dropping** the MP3 (or any other format) file of your desired audio to audacity. This would create a new track **below your main track**.
 - **Select** 8 seconds of your audio file that you want to put as your bridge:
-  1. With your mouse, **select** your desired **8 seconds** of the audio file.
-  2. **Right click** on the selected region and choose **split clip**. This would **detach** the selected region from the audio.
-  3. **Delete** the **other parts** that you do not need.
+  a) With your mouse, **select** your desired **8 seconds** of the audio file.
+  b) **Right click** on the selected region and choose **split clip**. This would **detach** the selected region from the audio.
+  c) **Delete** the **other parts** that you do not need.
 - **Drag** the trimmed audio file and situate it exactly **below your gap**.
 - With your maouse, **drag** the edges of your audio file one at a time, and **extend the edges** until your audio completely **covers the bridge**. The amount of **overlap** between your bridge audio and your main vocal track depends on you. Generally, a **longer overlaps** result in **smoother transitions**.
 - Now its time for **fading in/out** your bridge audio:
-  1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
-  2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
+  a) **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
+  b) **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
  
 <button onclick="toggle('gif8')">Show / Hide Animation </button>
 <div id="gif5">
