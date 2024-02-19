@@ -11,7 +11,7 @@ As part of your editing or publishing process, you might be asked to install FFM
 
 1. Please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or Download this [Audacity Intructions for installing FFMPEG](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}, and then proceed to step 2 below.
 
-
+[Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
 
 <script>  
 
