@@ -53,6 +53,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 - Another dialogue box will appear asking you where you want Zoom to save the recordings from the meeting on your local hard drive. **Select a location** where you will be able to easily find the files and **press** the **Save** button.
 - A folder with the location you selected should now appear.
 - **Open Audacity. Drag and drop** the **m4a** file in the folder that Zoom opened for you **into Audacity**. If you get an error message you will need to install the ffmpeg driver that will allow you to import this file into Audacity.
+- Note: If you are using a Mac please follow these additional instructions for[Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
 - Now you’re ready to edit the interview!<br>
 
 Great Job and Happy interviewing!<br>
