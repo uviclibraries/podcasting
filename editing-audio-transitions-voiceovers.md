@@ -37,7 +37,7 @@ Note : If you are using a Mac please follow these additional instructions for [I
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
-<img src="images/podcast-transitions-04-2024Oct.gif">
+<img src="images/podcast-transitions-04-2024Oct-3.gif">
 </div>
 
 4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
@@ -50,7 +50,7 @@ Note : If you are using a Mac please follow these additional instructions for [I
 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
-<img src="images/podcast-transitions-09-2024Oct.gif">
+<img src="images/podcast-transitions-09-2024Oct-3.gif">
 </div>
 
 5. Lower the volume of the music intro and playout: <img src="images/podcast-transitions-10.png" style="float:right;width:100px;" alt="white handles"> 
@@ -60,7 +60,7 @@ Note : If you are using a Mac please follow these additional instructions for [I
 
 <button onclick="toggle('gif4')">Show / Hide Animation </button>
 <div id="gif4">
-<img src="images/podcast-transitions-11-2024Oct.gif">
+<img src="images/podcast-transitions-11-2024Oct-3.gif">
 </div>
 
 6. Add a music bridge to your podcast: <img src="images/bridging.png" style="float:right;width:100px;" alt="white handles"> 
