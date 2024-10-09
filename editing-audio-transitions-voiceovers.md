@@ -84,10 +84,10 @@ Note : If you are using a Mac please follow these additional instructions for [I
     </div>
 
 7. Let’s create and place some voice over audio in the middle of your podcast:
-- Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
-- Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
-- **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
-- **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
+    - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
+    - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
+    - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
+    - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
 
     <button onclick="toggle('gif6')">Show / Hide Animation </button>
     <div id="gif6">
