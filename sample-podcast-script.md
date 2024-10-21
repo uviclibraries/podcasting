@@ -9,9 +9,10 @@ parent: Planning and Tips
 This is a sample script for you to use for recording some audio in case you don’t have a podcast topic in mind. It can also be a template for you to use when you eventually create your own podcast script. Have fun!
 
 Here are some websites with suggestions on how to create your own podcast script:
-- [https://popuppodcasting.ca/blog/scripting](https://popuppodcasting.ca/blog/scripting){:target="_blank"}
-- [https://castos.com/podcast-script/](https://popuppodcasting.ca/blog/scripting){:target="_blank"}
-- [https://www.buzzsprout.com/blog/write-podcast-script-examples](https://popuppodcasting.ca/blog/scripting){:target="_blank"}
+- [Podcast script sections and elements (from Descript.com)](https://www.descript.com/blog/article/podcast-script){:target="_blank"}
+- [How to write podcast
+scripts: Tips and templates
+to structure your episodes (Spotify for Podcasters)](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts){:target="_blank"}
 
 ## Start of Script <br>
 Opening music <br>
