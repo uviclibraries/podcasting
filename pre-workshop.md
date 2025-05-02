@@ -12,6 +12,6 @@ This workshop is primarily hands-on practice with Audacity in order to learn to 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzLdlGDujZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Planning your Podcast](podcast-planning.html){:target="_blank"}(5 min) 
 - [Sample Podcast Script](sample-podcast-script.html){:target="_blank"}(2 min)
-- OPTIONAL: [Podcasting 101 from PRX & Google Podcasts](https://training.prx.org/videos/podcasting-101){:target="_blank"} - an excellent series of 10 short videos that cover the podcasting creation process from start to finish and includes a video on monetization that is a topic not covered in the DSC workshop
+- OPTIONAL: [Podcasting 101 from PRX & Google Podcasts](https://www.youtube.com/playlist?list=PL7I-Eysv4kq4P9a_942suQdE1_0WiFxFo){:target="_blank"} - an excellent series of 10 short videos that cover the podcasting creation process from start to finish and includes a video on monetization that is a topic not covered in the DSC workshop
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
