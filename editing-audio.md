@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Editing Audio in Audacity
 Now that you have recorded some audio for your podcast, let’s do some editing! If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
-1. Please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or Download this [sample podcast interview file](https://web.uvic.ca/~rmccue/battle-bot-interview.mp3){:target="_blank"}, and then proceed to step 2 below.
+1. Please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or Download this [sample podcast interview file](images/goat-girl.mp3){:target="_blank"}, and then proceed to step 2 below.
 - Note: If you are using a Mac please follow these additional instructions for [Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
 
 2. Deleting audio from a track: Don't worry about cutting out filler words (uhms and ahs). Do pay attention to where breaths lie between sentences. It can be easy to cut breaths in unnatural ways and cause a "hiccup" or double-breath effect. Be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings - "F", "H", "S" -are especially easy to accidentally cut). Let’s start by trimming the first few seconds of your audio track so that there isn’t an uncomfortable pause at the beginning and then do the same at the end: <img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
