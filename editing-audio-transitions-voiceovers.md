@@ -12,12 +12,10 @@ Let’s add some music bumpers and voiceovers to your podcast audio. Many podcas
 Note : If you are using a Mac please follow these additional instructions for [Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
 
 
-1. Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that are shared with no or low copyright limitations including:
-- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"}- CC-licensed music grouped by genre.
-- [Free Sound](https://freesound.org/browse/){:target="_blank"} - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music. 
+1. Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations, including:
+- [Free Sound](https://freesound.org/search/?f=license%3A%22Creative+Commons+0%22){:target="_blank"} - A collaborative database of CC-licensed sounds & music. 
 - [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"} - Non-profit digital library with collections of digitized free movies, music, images, websites and more.
 - [ccMixter](http://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games.
-- [CCTrax](https://cctrax.com/){:target="_blank"} - CC-licensed music grouped by genre.
 
     <img src="images/podcast-transitions-02.png" style="float:right;width:300px;" alt="download icon"> 
 2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [http://bit.ly/2OgSUsS](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} 
