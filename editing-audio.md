@@ -49,7 +49,7 @@ Now that you have recorded some audio for your podcast, let’s do some editing!
 
     <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu">
 
-5. Background noise: steady, constant background noises like fans and hums are easily taken out in Audacity following these directions. It is much harder to take out random noises like other people talking or sirens.
+5. **OPTIONAL** - Background noise: steady, constant background noises like fans and hums are easily taken out in Audacity following these directions. It is much harder to take out random noises like other people talking or sirens.
 - **Select** a “silent” section of your audio, where it’s just the background noise (like a fan).
 - On the top menu Go to **Effects -> Noise Reduction**.
 - **Click Get Noise Profile**.
