@@ -53,7 +53,7 @@ Note : If you are using a Mac please follow these additional instructions for [I
     </div>
 
 5. Lower the volume of the music intro and playout: <img src="images/podcast-transitions-10.png" style="float:right;width:100px;" alt="white handles"> 
-- The music is a bit loud so let’s lower the overall volume by **clicking** on the **Envelope Tool** on the top menu (see right).
+- The music is a bit loud, so let’s lower the overall volume by **clicking** on the **Envelope Tool** on the top menu (see right).
 - **Select** the **music intro audio track**, then **grab** the **white handle** at the top of the audio wave and **drag it down** so that it looks something like the image to the right.
 - Do the same for the music at the end of the audio track.
 
@@ -82,9 +82,9 @@ Note : If you are using a Mac please follow these additional instructions for [I
     <img src="images/audio-bridge-2024Oct.gif">
     </div>
 
-7. Let’s create and place some voice over audio in the middle of your podcast:
+7. Let’s create and place some voice-over audio in the middle of your podcast:
     - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
-    - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio you do not hear any of the audio you’ve already worked with).
+    - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio, you do not hear any of the audio you’ve already worked with).
     - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
     - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
 
