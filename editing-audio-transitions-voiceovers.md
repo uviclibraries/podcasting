@@ -16,9 +16,10 @@ Note : If you are using a Mac please follow these additional instructions for [I
 - [Free Sound](https://freesound.org/search/?f=license%3A%22Creative+Commons+0%22){:target="_blank"} - A collaborative database of CC-licensed sounds & music. 
 - [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"} - Non-profit digital library with collections of digitized free movies, music, images, websites and more.
 - [ccMixter](http://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games.
+- [Free Music Archive(https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} - A mix of CC-licensed and non-royalty free music.
 
     <img src="images/podcast-transitions-02.png" style="float:right;width:300px;" alt="download icon"> 
-2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [http://bit.ly/2OgSUsS](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} 
+2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [Music File](https://freemusicarchive.org/search/?quicksearch=kriss){:target="_blank"} 
 - Import the audio file you just downloaded going to **File -> Import -> Audio** and then selecting the mp3 file from the file manager. 
 - A new audio track with the music will appear in Audacity below your interview audio.
 
