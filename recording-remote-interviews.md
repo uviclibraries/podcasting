@@ -11,14 +11,15 @@ Many podcasters use Zoom.us to record their sessions if the co-host or interview
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 
 1. Key Zoom limitation & features of the free version:
-- 40-minute limit on meetings & recordings with 3 or more participants. As a UVic student, you have access to the paid version by logging on to Zoom via [https://uvic.zoom.us](https://uvic.zoom.us){:target="_blank"} 
-- No time limit on 1 to 1 meetings & recordings.
-- Host recordings of up to 100 participants.
-- Record audio, video, and desktop sharing.
+- 40-minute limit on meetings & recordings with 3 or more participants.
+- As a UVic student, you have access to the paid version by logging on to Zoom via [https://uvic.zoom.us](https://uvic.zoom.us){:target="_blank"} 
+   - No time limit on 1 to 1 meetings & recordings.
+   - Host recordings of up to 100 participants.
+   - Record audio, video, and desktop sharing.
 
-2. Create a Zoom.us account
+2. Log into Zoom one of two ways:
+- Using your UVic credentials. Make sure to click on the SSO button if you want to use your UVic credentials and have access to paid features: [Zoom Login](https://zoom.us/signin)
 - Go to the [Zoom.us](https://uvic.zoom.us){:target="_blank"} website and click on the blue **SIGNUP, IT’S FREE** button on the top right.
-- Create a Zoom account with your email address or with your Google or Facebook account. 
 
 3. Setting up Zoom: <img src="images/podcast-zoom-02.png" style="float:right;width:250px;" alt="zoom menu drop down under host a meeting"> 
 - On the main Zoom.us webpage, click on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
