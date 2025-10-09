@@ -49,22 +49,6 @@ Now that you have recorded some audio for your podcast, let’s do some editing!
 
     <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu">
 
-5. **OPTIONAL** - Background noise: steady, constant background noises like fans and hums are easily taken out in Audacity following these directions. It is much harder to take out random noises like other people talking or sirens.
-- **Select** a “silent” section of your audio, where it’s just the background noise (like a fan).
-- On the top menu Go to **Effects -> Noise Reduction**.
-- **Click Get Noise Profile**.
-- **Select** all of the audio from which you want that background noise removed.
-- Go to the **Effects -> Noise Reduction**.
-- Adjust the settings if necessary (defaults are fine) and click **OK**.
-- Listen to ensure your audio doesn’t sound like it’s underwater.
-- Below is what the before and after waveforms look like after applying the Noise Reduction effect:
-![Image of the noise reduction effect](images/podcast-edit-08.png)
-
-    <button onclick="toggle('gif4')">Show / Hide Animation </button>
-    <div id="gif4">
-    <img src="images/podcast-edit-09-2024Oct.gif">
-    </div>
-
 6. You may want to eventually include some music bumpers or voiceovers, but for now, let’s practice export the audio in High MP3 quality:
 - Select on the top menu: **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
 - Edit the meta-data for your podcast (this is optional). Click OK.
