@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with Audacity in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **8 minutes or less. Optional videos: 32 minutes**<br>
-- [Install Audacity on your laptop](https://www.audacityteam.org/download/){:target="_blank"}<br>
+- [Install Audacity on your laptop](https://www.audacityteam.org/download/){:target="_blank"}. For Mac computer select the **universal DMG** file, and for Windows, the **64-bit installer**. Do not install the ~~Audiacity installer via Muse hub~~!<br>
 ![Choosing the correct Audacity download link](./images/audacity-download.png)<br>
 - [Should I Make a Podcast?](https://www.youtube.com/watch?v=zzLdlGDujZc){:target="_blank"} (4 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzLdlGDujZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
