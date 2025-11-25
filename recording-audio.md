@@ -14,7 +14,10 @@ Another option is to borrow equipment from the M&M desk. This is a good option i
 NOTE: If you are participating in an online workshop, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in this activity, and use the optional audio file provided for you to edit in Activity #2. 
 
 1. Equipment:
-- If you are using your own laptop, [**download and install Audacity**](https://www.audacityteam.org/download/){:target="_blank"}. Make sure to select the correct version of Audacity for your laptop. Windows, Mac, or Linux.
+- if you haven't done so already, please download and install Audacity on your laptop:
+  - For Mac computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-macOS-3.7.5-universal.dmg){:target="_blank"}**.
+  - For a Windows 64 bit computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe){:target="_blank"}**.
+  - If you have a Windows ARM computer, which is quite unlikely in 2025, **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-arm64.exe){:target="_blank"}**.
 - If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. You can borrow USB microphones from the UVic Libraries Music & Media desk. 
 - It is often helpful to wear **over the ear headphones** when recording so that you can more easily hear any background noises that you do not want to be recorded.
 
