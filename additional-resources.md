@@ -6,7 +6,6 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Podcasting with Audacity
-- [UVic Libraries' Annual Podcast Contest](https://www.uvic.ca/library/about/awards-contests/podcast-contest/index.php){:target="_blank"}
 - [Audio Recording Cheatsheet](http://bit.ly/uvic_record){:target="_blank"}
 - [Documenting Traditional Knowledge with Community Recording Checklist](https://library-indigitization-2020.sites.olt.ubc.ca/files/2020/06/Indigitization-Toolkit-Section-L-Appendix-C-Inspired-Practices-for-Audio-Recording.pdf){:target="_blank"} (UBC)
 - [An Introduction to Scholarly Podcasting - Podcast](https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/){:target="_blank"}
