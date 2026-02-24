@@ -20,9 +20,9 @@ If you have any questions or get stuck as you work through this in-class exercis
 4. Promote your Podcast:  
 - **Podcast Website** - WordPress.com or OpenEd.ca (or any other website hosting service):
         - A WordPress website gives you  flexibility over both how your podcast website looks and how many pages it has. You can always attend a Digital Scholarship Commons Wordpress workshop to get some help getting started - [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops){:target="_blank"}
-- **Social Media**: <img src="images/podcast-publishing-05.png" style="float:right;width:180px;" alt="twitter logo"> 
-        - Don’t forget to promote your podcast and each episode on social media: Twitter, Instagram, Facebook, etc. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas to focus your efforts on. 
-        - Create images, clips and share quotes that listeners can share on social media. [Anchor.fm](http://bit.ly/anchor-vid){:target="_blank"} has a tool that helps you create short video and audio clips to share.
+- **Social Media**: 
+        - Don’t forget to promote your podcast and each episode on social media: Instagram, Bluesky, Facebook, etc. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas to focus your efforts on. 
+        - Create images, clips and share quotes that listeners can share on social media. [Spotify for Creators](https://creators.spotify.com/){:target="_blank"} has a tool that helps you create short video and audio clips to share.
 - Create an **Email List** using MailChimp: <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo"> 
         - Fans of your podcast not on social media may want to hear from you directly about new podcast episodes, news. [MailChimp](https://mailchimp.com/){:target="_blank"} is a great option.
         - Make sure to mention your mailing list in each podcast episode and on your podcast website.
