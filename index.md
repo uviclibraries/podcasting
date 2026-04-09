@@ -21,7 +21,7 @@ Participants will be able to know and do the following by the end of this worksh
 1. Understand the key features of an ongoing podcast or a one-off podcast.
 2. Understand best practices for interviewing people or panels of people for podcasts.
 3. Know where to borrow high-quality audio recording equipment on campus. 
-4. Know how to record high-quality audio using either a USB microphone 
+4. Know how to record high-quality audio using a USB-connected microphone. 
 5. Be able to trim and split recorded audio.
 6. Be able to find Creative Commons licensed music to use as audio “bumpers” in a podcast.
 7. Know how to create voiceovers.
