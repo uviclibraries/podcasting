@@ -6,7 +6,6 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Audacity in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**8 minutes or less. Optional videos: 32 minutes**<br>
 - Install Audacity on your laptop:
   - For Mac computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-macOS-3.7.5-universal.dmg)**.
   - For a Windows 64 bit computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe)**.
