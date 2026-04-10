@@ -7,8 +7,8 @@ nav_order: 2
 This workshop is primarily hands-on practice with Audacity in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 - Install Audacity on your laptop:
-  - For Mac computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-macOS-3.7.5-universal.dmg)**.
-  - For a Windows 64 bit computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe)**.
+  - For Mac computers **[Click Here](https://www.audacityteam.org/download/mac/)** and choose either the Apple Silicon DMG installer [newer Macs](https://support.apple.com/en-us/116943) or the Intel DMG installer [older Macs](https://en.wikipedia.org/wiki/List_of_Mac_models). 
+  - For a Windows 64 bit computer **[Click Here](https://www.audacityteam.org/download/windows/)** and choose the appropriate installer for your system.
   - If you have a Windows ARM computer, which is quite unlikely in 2025, **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-arm64.exe)**.
 - [Should I Make a Podcast?](https://www.youtube.com/watch?v=zzLdlGDujZc) (4 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzLdlGDujZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
