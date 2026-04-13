@@ -7,8 +7,10 @@ nav_order: 1
 
 # Introduction to Podcasting with Audacity
 
-Pre-workshop activities: 15 min 
+Pre-workshop activities: 15 min
+
 Introductory presentation: 10 min
+
 Hands-on activities: 80 min
 
 ## Why Audacity? 
@@ -24,13 +26,13 @@ In this workshop, **participants will learn about the following:**
 - the pros and cons of free and paid podcast publishing services
 
 In this workshop, **participants will learn to do the following:** 
-- to record high-quality audio using a USB-connected microphone 
-- to trim and split recorded audio
-- how to create voiceovers
-- how to fade audio in and out in separate audio tracks
-- to use a free podcasting publishing service
-- to publish a stand-alone audio interview or recording
-- OPTIONAL: Use Zoom to record remote interviews
+- record high-quality audio using a USB-connected microphone 
+- trim and split recorded audio
+- create voiceovers
+- fade audio in and out in separate audio tracks
+- use a free podcasting publishing service
+- publish a stand-alone audio interview or recording
+- OPTIONAL: use Zoom to record remote interviews
 
 [Image credit](https://www.flickr.com/photos/abletoven/3223086466)
 
