@@ -6,14 +6,23 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-recording-01.png" style="float:right;width:180px;" alt="podcasting icon">
-# Podcast Recording with Audacity
-Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But you will produce a much higher quality podcast if you use better recording equipment. One option is to record in the editing room, like the one located at Music & Media (M&M) in the library. Studios are generally well sound-proofed and have high-quality equipment that is already set up. To use the M&M podcast studio, contact a staff member at the M&M desk.<br>
+# Podcast recording with Audacity
 
-Another option is to borrow equipment from the M&M desk. This is a good option if you want to record interviews at an event. Equipment is available on a first-come, first-serve basis for students. Faculty and staff need to ask permission from the M&M manager to borrow M&M equipment. Let’s record some audio for your podcast with Audacity. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br>
+## Introduction
 
-NOTE: If you are participating in an online workshop, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in this activity, and use the optional audio file provided for you to edit in Activity #2. 
+Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location.  
 
-1. Equipment:
+> **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
+
+### 1. Location
+
+[Content coming soon!]
+
+> **NOTE for UVic students, staff, and faculty:** UVic offers resources for podcasting and audio recording, including bookable media-creation rooms. The Mearns Centre for Learning, in the McPherson Library, has a [dedicated podcast room](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). UVic students can also use the [podcast corner](https://www.uvic.ca/systems/labs/rooms-drop-ins/find-space/labs/podcast-corner.php) in the Human & Social Development Building. In addition, the McPherson Library and HSD building have dedicated [sound and video rooms](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). Another option is to [borrow media equipment from the McPherson Library](https://www.uvic.ca/library/rooms-technology/laptops-equipment/index.php#ipn-equipment-details-mearns-mcpherson-library-) by going to the [Ask Us Desk](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/index.php#ipn-ask-us-desk) on the main floor. 
+
+Let’s record some audio for your podcast with Audacity. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br>
+
+### 2. Equipment
 - if you haven't done so already, please download and install Audacity on your laptop:
   - For Mac computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-macOS-3.7.5-universal.dmg){:target="_blank"}**.
   - For a Windows 64 bit computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe){:target="_blank"}**.
