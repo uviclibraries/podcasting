@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with Audacity in order to learn to use key features of the software. 
 
-To participate fully, please do the following **before the workshop:**
+To participate fully, please do the following **before the workshop.**
 
 1. Install Audacity on your laptop:
   - For Mac computers **[Click Here](https://www.audacityteam.org/download/mac/)** and choose either the Apple Silicon DMG installer [newer Macs](https://support.apple.com/en-us/116943) or the Intel DMG installer [older Macs](https://en.wikipedia.org/wiki/List_of_Mac_models). 
