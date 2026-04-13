@@ -8,13 +8,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/podcast-recording-01.png" style="float:right;width:180px;" alt="podcasting icon">
 # Podcast recording with Audacity
 
-## Introduction
+### Introduction
 
 Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location. 
 
 > **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
 
-### 1. Location tips
+### Location tips
 
 [Content coming soon!]
 
@@ -22,9 +22,11 @@ Once you’ve planned out your show, you can begin recording audio. Podcasts can
 
 If you haven't done so already, please download and install Audacity on your laptop. If you missed it, [step 1 of the Pre-Workshop Activities page](https://uviclibraries.github.io/podcasting/pre-workshop.html) has download links for Mac and Windows computers.  
 
-Assuming that you have successfully installed Audacity, let’s record some audio for your podcast. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance.  Have fun!<br>
+Assuming that you have successfully installed Audacity, let’s take a look at some time-saving and recording-quality tips. After that, it will be time to do a test recording. 
 
-### 2. Equipment tips
+If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
+
+### Equipment tips
 
 - If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. You can borrow USB microphones from the UVic Libraries Music & Media desk. 
 - It is often helpful to wear **over the ear headphones** when recording so that you can more easily hear any background noises that you do not want to be recorded.
