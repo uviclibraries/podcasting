@@ -10,23 +10,22 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 ## Introduction
 
-Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location.  
+Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location. 
 
 > **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
 
-### 1. Location
+### 1. Location tips
 
 [Content coming soon!]
 
 > **NOTE for UVic students, staff, and faculty:** UVic offers resources for podcasting and audio recording, including bookable media-creation rooms. The Mearns Centre for Learning, in the McPherson Library, has a [dedicated podcast room](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). UVic students can also use the [podcast corner](https://www.uvic.ca/systems/labs/rooms-drop-ins/find-space/labs/podcast-corner.php) in the Human & Social Development Building. In addition, the McPherson Library and HSD building have dedicated [sound and video rooms](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). Another option is to [borrow media equipment from the McPherson Library](https://www.uvic.ca/library/rooms-technology/laptops-equipment/index.php#ipn-equipment-details-mearns-mcpherson-library-) by going to the [Ask Us Desk](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/index.php#ipn-ask-us-desk) on the main floor. 
 
-Let’s record some audio for your podcast with Audacity. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br>
+If you haven't done so already, please download and install Audacity on your laptop. If you missed it, [step 1 of the Pre-Workshop Activities page](https://uviclibraries.github.io/podcasting/pre-workshop.html) has download links for Mac and Windows computers.  
 
-### 2. Equipment
-- if you haven't done so already, please download and install Audacity on your laptop:
-  - For Mac computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-macOS-3.7.5-universal.dmg){:target="_blank"}**.
-  - For a Windows 64 bit computer **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-64bit.exe){:target="_blank"}**.
-  - If you have a Windows ARM computer, which is quite unlikely in 2025, **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-arm64.exe){:target="_blank"}**.
+Assuming that you have successfully installed Audacity, let’s record some audio for your podcast. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance.  Have fun!<br>
+
+### 2. Equipment tips
+
 - If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. You can borrow USB microphones from the UVic Libraries Music & Media desk. 
 - It is often helpful to wear **over the ear headphones** when recording so that you can more easily hear any background noises that you do not want to be recorded.
 
