@@ -16,7 +16,10 @@ Once you’ve planned out your show, you can begin recording audio. Podcasts can
 
 ### Location tips
 
-[Content coming soon!]
+- Find a quiet room. Typically, bedrooms and closets are good locations, as they already have features like beds and fabrics, which "baffle" sounds.
+- Pick a room free from background noises—which are often sounds we do not usually notice in daily life. Modern microphones are sensitive, so they will pickup the buzz of a fridge, or outside traffic noise, or the hum of a fan running in a nearby room.
+- Choose a smaller room with with minimal reflective surfaces, which can cause echos. One way to test for echos is to stand on the centre of your space and clap loudly. It might take a few claps to hear it, but rooms with a lot of flat surfaces will have a more sustained echo "flutter" than a smaller room with soft surfaces.
+- The goal is not to eliminate all echos, as that will make the room sound acoustically "dead." Little changes can make big differences. For example, placing a soft rug under your chair and sitting next to some thick curtains could be enough to provide a balanced acoustic space. 
 
 > **NOTE for UVic students, staff, and faculty:** UVic offers resources for podcasting and audio recording, including bookable media-creation rooms. The Mearns Centre for Learning, in the McPherson Library, has a [dedicated podcast room](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). UVic students can also use the [podcast corner](https://www.uvic.ca/systems/labs/rooms-drop-ins/find-space/labs/podcast-corner.php) in the Human & Social Development Building. In addition, the McPherson Library and HSD building have dedicated [sound and video rooms](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). Another option is to [borrow media equipment from the McPherson Library](https://www.uvic.ca/library/rooms-technology/laptops-equipment/index.php#ipn-equipment-details-mearns-mcpherson-library-) by going to the [Ask Us Desk](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/index.php#ipn-ask-us-desk) on the main floor. 
 
@@ -54,7 +57,6 @@ If you have any questions or get stuck as you work through these in-class exerci
 ![Image of Mac Settings](images/audacity-new-2.png)
 
 3. Record some test audio in Audacity in the location where you will be conducting your interview:
-- **Find a quiet place** to record without interruptions or fan noise (especially overhead vents).
 - **Wear headphones** if possible. Headphones help isolate the audio, helping you catch any problems in your narration or audio.
 - **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is 6 to 12 inches. This prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get closer to the microphone.
 - **Check your levels** by selecting the microphone icon on the top ribbon and the click on the “**Start Monitoring**” text. You should be wearing your headphones or earbuds to hear the audio.
