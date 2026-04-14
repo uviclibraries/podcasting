@@ -31,8 +31,12 @@ If you have any questions or get stuck as you work through these in-class exerci
 
 ### Equipment tips
 
-- If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. You can borrow USB microphones from the UVic Libraries Music & Media desk. 
-- It is often helpful to wear **over the ear headphones** when recording so that you can more easily hear any background noises that you do not want to be recorded.
+- If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. 
+- It is often helpful to wear **over the ear headphones** when recording, so that you can more easily hear any background noises that you do not want to be recorded.
+- **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is roughly 6 to 12 inches. This distance prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get slightly closer to the microphone.
+- **Speak clearly and articulate your words**, but try to speak conversationally, as if speaking to a friend. If you are sitting in a chair, try to sit up straight. Some people prefer to stand while recording, as this can help to give more energy to your voice.
+
+Now that we have some basics in hand, let's move on to the recording process in Audacity. 
 
 2. Setting your computer to record from an external microphone (if you are using one):
 - **Plug the USB microphone into your computer and turn it on before opening Audacity**. Audacity may not recognize the microphone unless you do this. If Audacity is already open, save your project, quit Audacity, turn on the microphone, and then re-open your project. 
@@ -57,12 +61,10 @@ If you have any questions or get stuck as you work through these in-class exerci
 ![Image of Mac Settings](images/audacity-new-2.png)
 
 3. Record some test audio in Audacity in the location where you will be conducting your interview:
-- **Wear headphones** if possible. Headphones help isolate the audio, helping you catch any problems in your narration or audio.
-- **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is 6 to 12 inches. This prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get closer to the microphone.
+
 - **Check your levels** by selecting the microphone icon on the top ribbon and the click on the “**Start Monitoring**” text. You should be wearing your headphones or earbuds to hear the audio.
      - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
      - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
-- **Speak clearly and articulate your words**. Remember to speak conversationally, as if speaking to a friend. Sit in a chair and sit up straight. Sound confident!
   <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 - **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
 
