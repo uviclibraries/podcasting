@@ -19,13 +19,13 @@ Hands-on activities: 80 min
 
 ## Learning objectives 
 
-In this workshop, **participants will learn about the following:** 
+In this workshop, participants will **learn about the following:** 
 - the key features of an ongoing podcast or a one-off podcast
 - best practices for interviewing people or panels of people for podcasts
 - where to borrow high-quality audio recording equipment on campus
 - the pros and cons of free and paid podcast publishing services
 
-In this workshop, **participants will learn to do the following:** 
+In this workshop, participants will **learn to do the following:** 
 - record high-quality audio using a USB-connected microphone 
 - trim and split recorded audio
 - create voiceovers
