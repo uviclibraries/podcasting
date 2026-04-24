@@ -48,11 +48,12 @@ Getting your computer to record from an external microphone (if you are using on
 
 1. **Plug your USB microphone into your computer and turn it on _before_ opening Audacity**. Audacity may not recognize the microphone unless you do this. If Audacity is already open, save your project, quit Audacity, turn on the microphone, and then re-open your project. 
 2. Change these Audacity settings:  
-- **Windows settings** to record from an external microphone:
-  - click on the **Audio Setup**, hover over **Host**, and select **MME**
-  - click on the **Audio Setup**, hover over **Playback Device**, and select **Speakers (USB Condenser Mic)** 
-  - click on the **Audio Setup**, hover over **Recording Device**, and select **Microphone (USB Condenser Mic)**
-  - click on the **Audio Setup**, hover over **Recording Channels**, and select **1 (Mono) Recording Channel** 
+- **Windows settings** to record from an external microphone. All the following changes are accessed using the **Audacity Setup menu button**
+  <img src="images/audio-setup-button-location.png" alt="Audacity Setup menu button">
+  - click on **Audio Setup** (menu button), hover over **Host**, select **MME**
+  - click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)** 
+  - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
+  - click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
   <!-- <img src="images/audacity-new-01.png"> KSS note: this image needs an update? -->
   
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
