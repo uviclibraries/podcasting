@@ -60,7 +60,7 @@ Getting your computer to record from an external microphone (if you are using on
 <div id="gif1">
       <img src="images/audacity-new-1.gif">
       </div>
-      
+ <!-- KSS stopped here 24APR2026 -->     
  **Mac Settings** to record from an external microphone:<b>
 -  Under Audio set up: Make sure **Core Audio** is selected.
 -  Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone, using your System Preferences and Sound settings (note you must re-launch Audacity after changing this setting.
