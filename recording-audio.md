@@ -8,11 +8,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/podcast-recording-01.png" style="float:right;width:180px;" alt="podcasting icon">
 # Podcast recording with Audacity
 
-### Introduction
+## Introduction
 
 Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location. 
 
 > **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
+
+## Getting things setup to record
+
+Before we use Audacity to record, we need to consider a few things to make the process easier and to produce higher quality audio. 
 
 ### Location tips
 
@@ -38,15 +42,18 @@ If you have any questions or get stuck as you work through these in-class exerci
 
 Now that we have some basics in hand, let's move on to the recording process in Audacity. 
 
-2. Setting your computer to record from an external microphone (if you are using one):
-- **Plug the USB microphone into your computer and turn it on before opening Audacity**. Audacity may not recognize the microphone unless you do this. If Audacity is already open, save your project, quit Audacity, turn on the microphone, and then re-open your project. 
-- Before you begin to record you will have to change the settings in Audacity if you are going to use an external microphone. 
-- **Windows Settings** to record from an external microphone:
-      - Select the Switch Windows WASAPM to **MME** 
-      - Change Speakers/ Headphones to **Microphone**. 
-      - Change 2 (stereo) recording channel to **1 (mono) recording** channel.
-      - Change to **Speakers**.
-  <img src="images/audacity-new-01.png">
+### Setting up the microphone
+
+Getting your computer to record from an external microphone (if you are using one) takes a bit of setup. 
+
+1. **Plug your USB microphone into your computer and turn it on _before_ opening Audacity**. Audacity may not recognize the microphone unless you do this. If Audacity is already open, save your project, quit Audacity, turn on the microphone, and then re-open your project. 
+2. Change these Audacity settings:  
+- **Windows settings** to record from an external microphone:
+  - click on the **Audio Setup**, hover over **Host**, and select **MME**
+  - click on the **Audio Setup**, hover over **Playback Device**, and select **Speakers (USB Condenser Mic)** 
+  - click on the **Audio Setup**, hover over **Recording Device**, and select **Microphone (USB Condenser Mic)**
+  - click on the **Audio Setup**, hover over **Recording Channels**, and select **1 (Mono) Recording Channel** 
+  <!-- <img src="images/audacity-new-01.png"> KSS note: this image needs an update? -->
   
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
