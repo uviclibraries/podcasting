@@ -31,8 +31,6 @@ If you haven't done so already, please download and install Audacity on your lap
 
 Assuming that you have successfully installed Audacity, let’s take a look at some time-saving and recording-quality tips. After that, it will be time to do a test recording. 
 
-If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
-
 ### Equipment tips
 
 - If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. 
@@ -40,7 +38,7 @@ If you have any questions or get stuck as you work through these in-class exerci
 - **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is roughly 6 to 12 inches. This distance prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get slightly closer to the microphone.
 - **Speak clearly and articulate your words**, but try to speak conversationally, as if speaking to a friend. If you are sitting in a chair, try to sit up straight. Some people prefer to stand while recording, as this can help to give more energy to your voice.
 
-Now that we have some basics in hand, let's move on to the recording process in Audacity. 
+Now that we have some basics in hand, let's move on to the recording process in Audacity. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
 
 ### Setting up the microphone
 
@@ -60,21 +58,28 @@ Getting your computer to record from an external microphone (if you are using on
 <div id="gif1">
       <img src="images/audacity-new-1.gif">
       </div>
- <!-- KSS stopped here 24APR2026 -->     
+     
  **Mac Settings** to record from an external microphone:<b>
--  Under Audio set up: Make sure **Core Audio** is selected.
--  Change Speakers/ Headphones to your **USB microphone** - not Built-in Microphone, using your System Preferences and Sound settings (note you must re-launch Audacity after changing this setting.
--   Change 2 (stereo) recording channel to **1 (mono) recording** channel, under Audio Settings and Recording Channels.
--   The USB microphone is not in the Audacity menu, confirm the device is turned on and plugged in, then Exit Audacity, restart Audacity and try again.<br>
-![Image of Mac Settings](images/audacity-new-2.png)
+ ![Image of Mac Settings](images/audacity-new-2.png)
+- click on **Audio Setup** (menu button), hover over **Host**, select **Core Audio**
+- click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)**; **<mark>tip</mark>**: if you do not find a USB mic as an option in the Audio Setup menu, confirm that the device is plugged in and turned on (if it has a power button), then exit and restart Audacity
+- click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
+- click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
 
-3. Record some test audio in Audacity in the location where you will be conducting your interview:
+Assuming that your Audacity settings are complete, let's try some test recording. 
 
-- **Check your levels** by selecting the microphone icon on the top ribbon and the click on the “**Start Monitoring**” text. You should be wearing your headphones or earbuds to hear the audio.
-     - Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red. 
-     - Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
-  <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
-- **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. NOTE: clear and Ignore any popups that talk about slow hard drive speed. Here is an optional [Sample Podcast Script](sample-podcast-script.html) you can use for your recording if you’d like.
+## Record some test audio in Audacity
+
+Ideally, you will record your test audio in the same location you intend to conduct your interview. Here are the steps to testing your recording: 
+
+1. Put on your headphones (or insert your earbuds) in order to hear the audio.
+2. In Audacity, **check your levels** by looking for the microphone icon on the top ribbon, click on the microphone icon and select “**Start Silent Monitoring**." 
+![Image of Mac Settings](images/audacity-enable-monitor.png)
+3. Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red.
+4. Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
+<img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
+5. **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. In case you do not know what to say, here is a [Sample Podcast Script](sample-podcast-script.html) to get you started.
+> **NOTE**: ignore and close any popups that report slow hard drive speed.
 
      <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
