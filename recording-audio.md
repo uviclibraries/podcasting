@@ -66,11 +66,11 @@ Getting your computer to record from an external microphone (if you are using on
 - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
 - click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
 
-Assuming that your Audacity settings are complete, let's try some test recording. 
+Assuming that your Audacity settings are complete, let's try a test recording. 
 
 ## Record some test audio in Audacity
 
-Ideally, you will record your test audio in the same location you intend to conduct your interview. Here are the steps to testing your recording: 
+Ideally, you will record your test audio in the same location you intend to conduct your interview. Here are the steps to testing your recording setup quality: 
 
 1. Put on your headphones (or insert your earbuds) in order to hear the audio.
 2. In Audacity, **check your levels** by looking for the microphone icon on the top ribbon, click on the microphone icon and select “**Start Silent Monitoring**." 
@@ -78,24 +78,33 @@ Ideally, you will record your test audio in the same location you intend to cond
 3. Talk into your microphone and make sure your audio levels do not peak into the red as you talk. The optimal point for your microphone levels is just below the red.
 4. Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
-5. **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image on the right). After 20 to 30 seconds, press the square “**stop**” button. In case you do not know what to say, here is a [Sample Podcast Script](sample-podcast-script.html) to get you started.
+5. **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image at right). After 20 to 30 seconds, press the square “**stop**” button. In case you do not know what to say, here is a [Sample Podcast Script](sample-podcast-script.html) to get you started.
 > **NOTE**: ignore and close any popups that report slow hard drive speed.
-
      <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
       <img src="images/podcast-recording-05.gif">
       </div>
 
-4. Review your audio:
-- To listen to your recorded audio, **Click at the beginning** of the blue audio timeline and then press the **spacebar** on the computer to play or to pause the audio. 
-- Determine if you are getting good quality video for both yourself, your co-host, and your interviewee. 
-- If you are not getting good quality sound, please refer to **Planning and Tips** and the [Podcasting Tips](podcasting-tips.html){: .btn .btn-green } for suggestions on how to improve audio quality.
+## Review your audio
 
-5. Record your podcast audio:
-- Once you are happy with the quality of your audio, you can now start your interview. In this workshop setting, there will be a lot of background noise -- which is not ideal, but for the purposes of this workshop, we want you to record between 2 and 5 minutes of audio for you to edit in the next step. Do your best and have fun being a podcast host!
-- Next begin editing your test interview audio.
+Now that we have recorded some test audio, it is time to see how it sounds. Here are the steps to listen to your recorded audio: 
 
-Great Job!
+1. In Audacity, **click your cursor at the beginning** of the blue audio timeline and then press the **spacebar** on the computer—hitting the spacebar is how we play or pause the track.
+2. Listen to the track to determine if determine if you are getting good quality audio. If you are recording with others, listen to see if their voices are clear and at roughly the same volume as the others.  for both yourself, your co-host, and your interviewee. 
+
+>TIP: If you are not getting the quality of sound you like, please refer to our **Planning and Tips** section for suggestions on how to improve audio quality: [Podcasting Tips](podcasting-tips.html){: .btn .btn-green }
+
+## Record your first podcast
+
+Assuming that you are happy with your audio levels and quality, **you can now record your first podcast**.
+
+> NOTE: if you are doing the in-person this workshop, there may be a lot of background noise. This noise is not ideal, but for the purposes of this workshop, it is fine.
+>
+> At this phase of the workshop, we want you to **record between 2 and 5 minutes of audio** for you to edit in the next step.
+
+Do your best and have fun being a podcast host!
+
+Once you have finished your recording, it is time to edit your audio...
 
 <script>  
 
