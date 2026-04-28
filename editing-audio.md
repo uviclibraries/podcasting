@@ -34,14 +34,17 @@ We will start by getting used to Audacity's editing features by trimming the fir
     <div id="gif1">
     <img src="images/podcast-edit-03-2024Oct.gif">
     </div>
+- As you did for trimming the beginning and end of the track, you can select audio from anywhere middle of your audio track, and then press the **Delete** button on your keyboard.
 
-    - Delete audio from the middle of your audio track by **selecting** the audio you want to delete, and then press the **Delete** button on your keyboard.
+### Inserting or copying audio into your audio track
 
-3. Insert audio into the middle of your main audio track:
-- **Select** a few seconds of audio from the middle of your recorded audio and, select **Edit -> Copy**. 
-- Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the audio clip.
+This is helpful in situations where you might want to move the order of your content around. For example, you might want to change the order, later, of a quesiton and answer. 
+
+- **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
+- Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
 - You can also copy voice, music, or background “silence" audio from another track and paste it into your main podcast interview audio track.
-- For some versions of Audacity, there are buttons and others there are not, if there are no buttons, just use Edit on the top menu. 
+
+> NOTE: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to copy/paste.  
 
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
     <div id="gif2">
@@ -50,7 +53,10 @@ We will start by getting used to Audacity's editing features by trimming the fir
 
     <img src="images/podcast-edit-05.png" style="float:right;width:200px;" alt="track example">
 
-4. Use fades and crossfades: Abrupt starts and stops sound unnatural. Use crossfades between sections of audio or use the room tone to mask the edits.
+### Adding fades and crossfades 
+
+We add fades and crossfades to address abrupt starts and stops in speaking, which can sound unnatural. 
+
 - Fade the beginning of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
 - Fade end of audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
 - You can also fade music bumpers in and out in the middle of your recording (this is covered in more detail in the **Music Bumpers & Voiceovers** handout).
@@ -62,7 +68,10 @@ We will start by getting used to Audacity's editing features by trimming the fir
 
     <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu">
 
-6. You may want to eventually include some music bumpers or voiceovers, but for now, let’s practice export the audio in High MP3 quality:
+### Exporting your audio in High MP3 quality
+
+We still have more to do for a finished product, like adding music "bumpers" (transition or break music), or voiceovers. For now, let’s practice exporting our file in order to get used to the process. 
+
 - Select on the top menu: **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
 - Edit the meta-data for your podcast (this is optional). Click OK.
 - If you haven’t already installed the free library to export MP3 files you will be prompted to download a free copy of “**LAME**” that will do this for you by pressing the Download button. Follow the installation directions for your operating system (ask for help if you have any problems).<br>
