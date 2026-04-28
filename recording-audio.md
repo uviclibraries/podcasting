@@ -54,10 +54,10 @@ Getting your computer to record from an external microphone (if you are using on
   - click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
   <!-- <img src="images/audacity-new-01.png"> KSS note: this image needs an update? -->
   
-      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
-      <img src="images/audacity-new-1.gif">
-      </div>
+<img src="images/audacity-new-1.gif"></div>
      
  **Mac Settings** to record from an external microphone:<b>
  ![Image of Mac Settings](images/audacity-new-2.png)
@@ -96,11 +96,11 @@ Now that we have recorded some test audio, it is time to see how it sounds. Here
 
 ## Record your first podcast
 
-Assuming that you are happy with your audio levels and quality, **you can now record your first podcast**.
+Assuming that you are happy with your audio levels and quality, **you can now record your first podcast** <span style='font-size:20px;'>&#127908;</span>
 
 > NOTE: if you are doing the in-person this workshop, there may be a lot of background noise. This noise is not ideal, but for the purposes of this workshop, it is fine.
->
-> At this phase of the workshop, we want you to **record between 2 and 5 minutes of audio** for you to edit in the next step.
+
+At this phase of the workshop, we want you to **record between 2 and 5 minutes of audio** for you to edit in the next step.
 
 Do your best and have fun being a podcast host!
 
