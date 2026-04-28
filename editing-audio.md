@@ -7,13 +7,26 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-edit-01.png" style="float:right;width:180px;" alt="podcasting icon">
 # Editing Audio in Audacity
-Now that you have recorded some audio for your podcast, let’s do some editing! If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+Now that you have recorded some audio for your podcast, let’s do some editing! 
+
+If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Have fun!
+
 
 1. Please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or Download this [sample podcast interview file](images/goat-girl.mp3){:target="_blank"}, and then proceed to step 2 below.
 - Note: If you are using a Mac please follow these additional instructions for [Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
 
-2. Deleting audio from a track: Don't worry about cutting out filler words (uhms and ahs). Do pay attention to where breaths lie between sentences. It can be easy to cut breaths in unnatural ways and cause a "hiccup" or double-breath effect. Be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings - "F", "H", "S" -are especially easy to accidentally cut). Let’s start by trimming the first few seconds of your audio track so that there isn’t an uncomfortable pause at the beginning and then do the same at the end: <img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
-- Go to the Audacity menu bar, click on **Select tool** (see 1 above).  Go down to audio recording “timeline” and click on the very beginning of the audio track to the left (2) **Hover your cursor at the 0.0 mark.** **Click, hold, and drag to highlight** the first moments of blank audio before you began speaking. The background will turn white (see right).
+## Deleting unwanted audio from a track
+
+For now, don't worry about cutting out filler words, like _uhms_ and _ahs_. But, do pay attention to where loud or disruptive breath sounds occur between sentences. It can be easy to cut breaths in unnatural ways and cause a "hiccup" or double-breath effect. 
+
+When trimming out breaths, be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings—like "F", "H", "S"—are especially easy to accidentally cut). 
+
+We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. Then, we will do the same at the end of the track. <img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
+
+### Trimming the track start and end
+
+- In Audacity, look in the main menu bar and click on the **Selection Tool** icon.
+- In the Audio Track, hover your cursor over the very beginning of the audio track (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. audio before you began speaking. Whatever you have selected will turn the background lighter in colour.
 - Press the **Delete** button on your keyboard to remove the audio.
 - Do the same for the end of your audio recording, by **selecting the audio** you don’t want, press the **Delete** button on your keyboard.
 
