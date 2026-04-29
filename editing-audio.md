@@ -21,7 +21,9 @@ For now, don't worry about cutting out filler words, like _uhms_ and _ahs_. But,
 
 When trimming out breaths, be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings—like "F", "H", "S"—are especially easy to accidentally cut). 
 
-We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. Then, we will do the same at the end of the track. <img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
+We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. Then, we will do the same at the end of the track. 
+
+<img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
 
 ### Trimming the track start and end
 
@@ -46,12 +48,12 @@ This is helpful in situations where you might want to move the order of your con
 
 > NOTE: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to copy/paste.  
 
-    <button onclick="toggle('gif2')">Show / Hide Animation </button>
-    <div id="gif2">
-    <img src="images/podcast-edit-04-2024Oct.gif">
-    </div>
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+<img src="images/podcast-edit-04-2024Oct.gif">
+</div>
 
-    <img src="images/podcast-edit-05.png" style="float:right;width:200px;" alt="track example">
+<img src="images/podcast-edit-05.png" style="float:right;width:200px;" alt="track example">
 
 ### Adding fades and crossfades 
 
