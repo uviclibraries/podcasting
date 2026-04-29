@@ -77,7 +77,9 @@ We still have more to do for a finished product, like adding music "bumpers" (tr
 - Select on the top menu: **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
 - Edit the meta-data for your podcast (this is optional). Click OK.
 - If you haven’t already installed the free library to export MP3 files you will be prompted to download a free copy of “**LAME**” that will do this for you by pressing the Download button. Follow the installation directions for your operating system (ask for help if you have any problems).<br>
-- Audacity might ask you to install FFMPEG in order to export an mp3 file. See these instructions for details: [Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
+- Audacity might ask you to install FFMPEG in order to export an mp3 file. See these instructions for details:
+
+[Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
 
 Great Job!<br>
 
