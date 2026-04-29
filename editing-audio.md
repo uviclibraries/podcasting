@@ -60,15 +60,15 @@ This is helpful in situations where you might want to move the order of your con
 We add fades and crossfades to address abrupt starts and stops in speaking, which can sound unnatural. 
 
 - Fade the beginning of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
-- Fade end of audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
-- You can also fade music bumpers in and out in the middle of your recording (this is covered in more detail in the **Music Bumpers & Voiceovers** handout).
+- Fade the end of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
+- You can also apply these fade techniques to any music you add to your track, which we will learn about later.
 
-    <button onclick="toggle('gif3')">Show / Hide Animation </button>
-    <div id="gif3">
-    <img src="images/podcast-edit-06-2024Oct.gif">
-    </div>
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+<img src="images/podcast-edit-06-2024Oct.gif">
+</div>
 
-    <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu">
+<!-- <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu"> KSS note: I commented out this image link becasue this page does not address Noice reduction -->
 
 ### Exporting your audio in High MP3 quality
 
