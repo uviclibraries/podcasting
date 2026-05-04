@@ -32,24 +32,26 @@ Then, we will trim the end of the track in the same way.
 
 ### Trimming the track start and end
 
-- In Audacity, look in the main menu bar and click on the **Selection Tool** icon.
-- In the Audio Track, hover your cursor over the very beginning of the audio track (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. audio before you began speaking. Whatever you have selected will turn the background lighter in colour.
-- On your keyboard, press the **Delete** button to remove the audio you selected.
-- Follow the same process at the end of your audio track by **selecting the audio** you don’t want and pressing the **Delete** button on your keyboard.
+1. In Audacity, look in the main menu bar and click on the **Selection Tool** icon.
+2. In the Audio Track, hover your cursor over the very beginning of the audio track (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. audio before you began speaking. Whatever you have selected will turn the background lighter in colour.
+3. On your keyboard, press the **Delete** button to remove the audio you selected.
+4. Follow the same process at the end of your audio track by **selecting the audio** you don’t want and pressing the **Delete** button on your keyboard.
 
     <button onclick="toggle('gif1')">Show / Hide Animation </button>
     <div id="gif1">
     <img src="images/podcast-edit-03-2024Oct.gif">
     </div>
-- As you did for trimming the beginning and end of the track, you can select audio from anywhere middle of your audio track, and then press the **Delete** button on your keyboard.
+
+As you did for trimming the beginning and end of the track, you can select audio from anywhere middle of your audio track, and then press the **Delete** button on your keyboard.
 
 ### Inserting or copying audio into your audio track
 
 This is helpful in situations where you might want to move the order of your content around. For example, in an interview recording, you might want to change the order of a quesiton and answer. 
 
-- **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
-- Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
-- You can follow this same copy/paste process to move any audio from any Audacity track to another.
+1. **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
+2. Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
+
+You can follow this same copy/paste process to move any audio from any Audacity track to another.
 
 > **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **edit -> copy/ edit -> paste**.  
 
@@ -64,9 +66,10 @@ This is helpful in situations where you might want to move the order of your con
 
 We add fades and crossfades to address abrupt starts and stops in speaking, which can sound unnatural. 
 
-- **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
-- **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
-- You can also apply these fade techniques to any part of an Audacity track, including music, which we will learn about later.
+1. **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
+2. **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
+
+You can also apply these fade techniques to any part of an Audacity track, including music, which we will learn about later.
 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
@@ -89,18 +92,30 @@ To get used to the export process, let’s **practice adding metadata (track inf
 >
 >As a file type, MP3 provides a good balance of sound quality and small file size.   
 
-- In Audacity's main/top menu, select **File -> Export Audio**. The first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
+1. In Audacity's main/top menu, select **File -> Export Audio**.
 
-<img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices">
+>**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
+>
+><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
 
-- Edit the meta-data for your podcast (this is optional). Click OK.
+2. In Audacity's "Export Audio" popup, **click on the "Edit Metadata" button**.
+
+<img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
+
+3. **Enter your metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
+
+<img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
+
+>**NOTE** that the information you put in these metadata fields will appear as track information in audio players and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on what your car's setup, of course. 
+>
+>Typically, most modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
+
 
 >**<mark>TIP</mark>**: <br>
 - Audacity might ask you to install FFMPEG in order to export an mp3 file. See these instructions for details:
 
 [Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
 
-Next, we will work on adding 
 
 <script>  
 
