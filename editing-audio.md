@@ -6,14 +6,16 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-edit-01.png" style="float:right;width:180px;" alt="podcasting icon">
+
 # Editing Audio in Audacity
+
 Now that you have recorded some audio for your podcast, let’s do some editing! 
 
-If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Have fun!
+If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
+Take your time and have fun <span style='font-size:20px;'>&#128512;</span>
 
-1. Please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or Download this [sample podcast interview file](images/goat-girl.mp3){:target="_blank"}, and then proceed to step 2 below.
-- Note: If you are using a Mac please follow these additional instructions for [Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
+For these exercises, please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or download this [sample podcast interview file](images/goat-girl.mp3)<!--{:target="_blank"}-->, and then proceed.
 
 ## Deleting unwanted audio from a track
 
@@ -46,7 +48,7 @@ This is helpful in situations where you might want to move the order of your con
 - Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
 - You can also copy voice, music, or background “silence" audio from another track and paste it into your main podcast interview audio track.
 
-> NOTE: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to copy/paste.  
+> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to copy/paste.  
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
@@ -72,16 +74,19 @@ We add fades and crossfades to address abrupt starts and stops in speaking, whic
 
 ### Exporting your audio in High MP3 quality
 
-We still have more to do for a finished product, like adding music "bumpers" (transition or break music), or voiceovers. For now, let’s practice exporting our file in order to get used to the process. 
+We still have more to do for a finished product, like adding music "bumpers" (transition or break music), or voiceovers. 
 
-- Select on the top menu: **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
+For now, let’s **practice adding metadata (track information)**, and **exporting your file** in order to get used to the process. 
+
+- In Audacity's main/top menu, select **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
 - Edit the meta-data for your podcast (this is optional). Click OK.
-- If you haven’t already installed the free library to export MP3 files you will be prompted to download a free copy of “**LAME**” that will do this for you by pressing the Download button. Follow the installation directions for your operating system (ask for help if you have any problems).<br>
+
+>**<mark>TIP</mark>**: <br>
 - Audacity might ask you to install FFMPEG in order to export an mp3 file. See these instructions for details:
 
 [Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
 
-Great Job!<br>
+Next, we will work on adding 
 
 <script>  
 
