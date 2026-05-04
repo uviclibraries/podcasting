@@ -18,7 +18,7 @@ Once you’ve planned out your show, you can begin recording audio. Podcasts can
 
 Before we use Audacity to record, we need to consider a few things to make the process easier and to produce higher quality audio. 
 
-Getting your room and equipment setup properly—for _your_ space—) will save you the hassle of having to tweak your recordings in "[post](https://en.wikipedia.org/wiki/Post-production)." 
+Getting your equipment setup properly for _your_ particular space will save you the hassle of having to tweak your recordings in "[post](https://en.wikipedia.org/wiki/Post-production)." 
 
 ### Location tips
 
