@@ -14,16 +14,18 @@ Once you’ve planned out your show, you can begin recording audio. Podcasts can
 
 > **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
 
-## Getting things setup to record
+## Before you record
 
 Before we use Audacity to record, we need to consider a few things to make the process easier and to produce higher quality audio. 
 
+Getting your room and equipment setup properly—for _your_ space—) will save you the hassle of having to tweak your recordings in "[post](https://en.wikipedia.org/wiki/Post-production)." 
+
 ### Location tips
 
-- Find a quiet room. Typically, bedrooms and closets are good locations, as they already have features like beds and fabrics, which "baffle" sounds.
-- Pick a room free from background noises—which are often sounds we do not usually notice in daily life. Modern microphones are sensitive, so they will pickup the buzz of a fridge, or outside traffic noise, or the hum of a fan running in a nearby room.
-- Choose a smaller room with with minimal reflective surfaces, which can cause echos. One way to test for echos is to stand on the centre of your space and clap loudly. It might take a few claps to hear it, but rooms with a lot of flat surfaces will have a more sustained echo "flutter" than a smaller room with soft surfaces.
-- The goal is not to eliminate all echos, as that will make the room sound acoustically "dead." Little changes can make big differences. For example, placing a soft rug under your chair and sitting next to some thick curtains could be enough to provide a balanced acoustic space. 
+- **Find a quiet room**. Typically, bedrooms and closets are good locations, as they already have features like beds and fabrics, which "baffle" sounds.
+- **Pick a room free from background noises**—which are often sounds we do not usually notice in daily life. Modern microphones are sensitive, so they will pickup the buzz of a fridge, or outside traffic noise, or the hum of a fan running in a nearby room.
+- **Choose a smaller room with with minimal reflective surfaces**, which can cause echos. One way to test for echos is to stand on the centre of your space and clap loudly. It might take a few claps to hear it, but rooms with a lot of flat surfaces will have a more sustained echo "flutter" than a smaller room with soft surfaces.
+- **Little acoustic changes can make big differences**: placing a soft rug under your chair and sitting next to some thick curtains could be enough to provide a balanced acoustic space. The goal is not to eliminate all echos, as that will make the room sound acoustically "dead." 
 
 > **NOTE for UVic students, staff, and faculty:** UVic offers resources for podcasting and audio recording, including bookable media-creation rooms. The Mearns Centre for Learning, in the McPherson Library, has a [dedicated podcast room](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). UVic students can also use the [podcast corner](https://www.uvic.ca/systems/labs/rooms-drop-ins/find-space/labs/podcast-corner.php) in the Human & Social Development Building. In addition, the McPherson Library and HSD building have dedicated [sound and video rooms](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). Another option is to [borrow media equipment from the McPherson Library](https://www.uvic.ca/library/rooms-technology/laptops-equipment/index.php#ipn-equipment-details-mearns-mcpherson-library-) by going to the [Ask Us Desk](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/index.php#ipn-ask-us-desk) on the main floor. 
 
@@ -38,9 +40,11 @@ Assuming that you have successfully installed Audacity, let’s take a look at s
 - **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is roughly 6 to 12 inches. This distance prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get slightly closer to the microphone.
 - **Speak clearly and articulate your words**, but try to speak conversationally, as if speaking to a friend. If you are sitting in a chair, try to sit up straight. Some people prefer to stand while recording, as this can help to give more energy to your voice.
 
+> **<mark>TIP</mark>**: once you get your room setup the way you like, take pictures of the space and setup. Most of us do not have dedicated recording rooms. Having reference pictures for later will make it easier to repeat your setup, and to capture a consistent sound for your recordings. 
+
 Now that we have some basics in hand, let's move on to the recording process in Audacity. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
 
-### Setting up the microphone
+### Setting up the microphone in Audacity
 
 Getting your computer to record from an external microphone (if you are using one) takes a bit of setup. 
 
