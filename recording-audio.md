@@ -33,6 +33,10 @@ If you haven't done so already, please download and install Audacity on your lap
 
 Assuming that you have successfully installed Audacity, let’s take a look at some time-saving and recording-quality tips. After that, it will be time to do a test recording. 
 
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Podcast.jpg/960px-Podcast.jpg" alt="podcast microphone in darkly lit studio" style="width:500px;">
+<figcaption>Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Podcast.jpg).</figcaption></figure>
+
+
 ### Equipment tips
 
 - If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. 
