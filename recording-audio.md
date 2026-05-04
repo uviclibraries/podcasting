@@ -49,22 +49,27 @@ Now that we have some basics in hand, let's move on to the recording process in 
 Getting your computer to record from an external microphone (if you are using one) takes a bit of setup. 
 
 1. **Plug your USB microphone into your computer and turn it on _before_ opening Audacity**. Audacity may not recognize the microphone unless you do this. If Audacity is already open, save your project, quit Audacity, turn on the microphone, and then re-open your project. 
-2. Change these Audacity settings:  
-- **Windows settings** to record from an external microphone. All the following changes are accessed using the **Audacity Setup menu button**
-  <img src="images/audio-setup-button-location.png" alt="Audacity Setup menu button">
+2. **Change Audacity's settings in Audio Setup**. All the following changes are accessed using the **Audio Setup menu button** (in both Windows and Mac computers). 
+
+<img src="images/audio-setup-button-location.png" alt="Audacity Setup menu button">
+
+Here is an animation of the general process in Windows, but the overall process is the same in all versions of Audacity: 
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+<img src="images/audacity-new-1.gif" alt="Audacity Setup menu button animation"></div>
+
+- **Windows settings** to record from an external microphone: 
   - click on **Audio Setup** (menu button), hover over **Host**, select **MME**
   - click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)** 
   - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
   - click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
   <!-- <img src="images/audacity-new-01.png"> KSS note: this image needs an update? -->
-  
-
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-<img src="images/audacity-new-1.gif"></div>
      
  **Mac Settings** to record from an external microphone:<b>
- ![Image of Mac Settings](images/audacity-new-2.png)
+ 
+<!-- ![Image of Mac Settings](images/audacity-new-2.png)-->
+
 - click on **Audio Setup** (menu button), hover over **Host**, select **Core Audio**
 - click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)**; **<mark>tip</mark>**: if you do not find a USB mic as an option in the Audio Setup menu, confirm that the device is plugged in and turned on (if it has a power button), then exit and restart Audacity
 - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
