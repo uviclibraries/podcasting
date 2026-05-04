@@ -105,13 +105,13 @@ Now that we have recorded some test audio, it is time to see how it sounds. Here
 1. In Audacity, **click your cursor at the beginning** of the blue audio timeline and then press the **spacebar** on the computer—hitting the spacebar is how we play or pause the track.
 2. Listen to the track to determine if determine if you are getting good quality audio. If you are recording with others, listen to see if their voices are clear and at roughly the same volume as the others.  for both yourself, your co-host, and your interviewee. 
 
->TIP: If you are not getting the quality of sound you like, please refer to our **Planning and Tips** section for suggestions on how to improve audio quality: [Podcasting Tips](podcasting-tips.html){: .btn .btn-green }
+> **<mark>TIP</mark>**: if you are not getting the quality of sound you like, please refer to our **Planning and Tips** section for suggestions on how to improve audio quality: [Podcasting Tips](podcasting-tips.html){: .btn .btn-green }
 
 ## Record your first podcast
 
 Assuming that you are happy with your audio levels and quality, **you can now record your first podcast** <span style='font-size:20px;'>&#127908;</span>
 
-> NOTE: if you are doing the in-person this workshop, there may be a lot of background noise. This noise is not ideal, but for the purposes of this workshop, it is fine.
+> **NOTE**: if you are doing the in-person this workshop, there may be a lot of background noise. This noise is not ideal, but for the purposes of this workshop, it is fine.
 
 At this phase of the workshop, we want you to **record between 2 and 5 minutes of audio** for you to edit in the next step.
 
