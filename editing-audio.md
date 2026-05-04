@@ -96,7 +96,7 @@ To get used to the export process, let’s **practice adding metadata (track inf
 >**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
 >
 ><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
-2. In Audacity's "Export Audio" popup, **click on the "Edit Metadata" button**.
+2. In Audacity's **"Export Audio" popup** click on the **"Edit Metadata" button**.
 <img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
 3. **Enter your metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
 <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
