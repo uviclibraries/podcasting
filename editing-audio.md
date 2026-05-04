@@ -23,16 +23,19 @@ For now, don't worry about cutting out filler words, like _uhms_ and _ahs_. But,
 
 When trimming out breaths, be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings—like "F", "H", "S"—are especially easy to accidentally cut). 
 
-We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. Then, we will do the same at the end of the track. 
+We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. 
+
+Then, we will trim the end of the track in the same way. 
 
 <img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
+
 
 ### Trimming the track start and end
 
 - In Audacity, look in the main menu bar and click on the **Selection Tool** icon.
 - In the Audio Track, hover your cursor over the very beginning of the audio track (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. audio before you began speaking. Whatever you have selected will turn the background lighter in colour.
-- Press the **Delete** button on your keyboard to remove the audio.
-- Do the same for the end of your audio recording, by **selecting the audio** you don’t want, press the **Delete** button on your keyboard.
+- On your keyboard, press the **Delete** button to remove the audio you selected.
+- Follow the same process at the end of your audio track by **selecting the audio** you don’t want and pressing the **Delete** button on your keyboard.
 
     <button onclick="toggle('gif1')">Show / Hide Animation </button>
     <div id="gif1">
@@ -42,13 +45,13 @@ We will start by getting used to Audacity's editing features by trimming the fir
 
 ### Inserting or copying audio into your audio track
 
-This is helpful in situations where you might want to move the order of your content around. For example, you might want to change the order, later, of a quesiton and answer. 
+This is helpful in situations where you might want to move the order of your content around. For example, in an interview recording, you might want to change the order of a quesiton and answer. 
 
 - **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
 - Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
-- You can also copy voice, music, or background “silence" audio from another track and paste it into your main podcast interview audio track.
+- You can follow this same copy/paste process to move any audio from any Audacity track to another.
 
-> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to copy/paste.  
+> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **edit -> copy/ edit -> paste**.  
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
@@ -61,24 +64,35 @@ This is helpful in situations where you might want to move the order of your con
 
 We add fades and crossfades to address abrupt starts and stops in speaking, which can sound unnatural. 
 
-- Fade the beginning of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
-- Fade the end of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
-- You can also apply these fade techniques to any music you add to your track, which we will learn about later.
+- **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
+- **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
+- You can also apply these fade techniques to any part of an Audacity track, including music, which we will learn about later.
 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
 <img src="images/podcast-edit-06-2024Oct.gif">
 </div>
 
-<!-- <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu"> KSS note: I commented out this image link becasue this page does not address Noice reduction -->
+<!-- <img src="images/podcast-edit-07.png" style="float:right;width:250px;" alt="noise reflection editing menu"> KSS note: I commented out this image link because this page does not address Noise reduction -->
 
 ### Exporting your audio in High MP3 quality
 
 We still have more to do for a finished product, like adding music "bumpers" (transition or break music), or voiceovers. 
 
-For now, let’s **practice adding metadata (track information)**, and **exporting your file** in order to get used to the process. 
+Before we begin, note that **"saving" your file is different than "exporting" an audio track**, in this case, our podcast.
 
-- In Audacity's main/top menu, select **File -> Export Audio -> Export to Computer -> Format: MP3 Files** and then click the **Export** button.
+In Audacity, selecting **File -> Save** will save the Audacity project, which has a ".aup" file extension. On the other hand, exporting your file combines, or mixes, everything in your Audacity tracks down into one audio file to be played on an audio player or audio software. 
+
+To get used to the export process, let’s **practice adding metadata (track information)** and then **exporting an MP3 file**. 
+
+>**NOTE** that [Audacity can export a variety of file types](https://manual.audacityteam.org/man/export_formats_supported_by_audacity.html). We are working with [MP3 files](https://simple.wikipedia.org/wiki/MP3) because they are a common file format, meaning that they can be played by nearly all music players and music software. 
+>
+>As a file type, MP3 provides a good balance of sound quality and small file size.   
+
+- In Audacity's main/top menu, select **File -> Export Audio**. The first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
+
+<img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices">
+
 - Edit the meta-data for your podcast (this is optional). Click OK.
 
 >**<mark>TIP</mark>**: <br>
