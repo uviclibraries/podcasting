@@ -93,19 +93,13 @@ To get used to the export process, let’s **practice adding metadata (track inf
 >As a file type, MP3 provides a good balance of sound quality and small file size.   
 
 1. In Audacity's main/top menu, select **File -> Export Audio**.
-
 >**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
 >
 ><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
-
 2. In Audacity's "Export Audio" popup, **click on the "Edit Metadata" button**.
-
 <img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
-
 3. **Enter your metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
-
 <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
-
 >**NOTE** that the information you put in these metadata fields will appear as track information in audio players and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on what your car's setup, of course. 
 >
 >Typically, most modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
