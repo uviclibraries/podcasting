@@ -9,7 +9,8 @@ This workshop is primarily hands-on practice with Audacity in order to learn to 
 To participate fully, please do the following **before the workshop.**
 
 1. Install Audacity on your laptop:
-  - For Mac computers **[Click Here](https://www.audacityteam.org/download/mac/)**, [newer Macs](https://support.apple.com/en-us/116943) use the "Apple Silicon DMG" installer; [older Macs](https://en.wikipedia.org/wiki/List_of_Mac_models) use the "Intel DMG installer." **IMPORTANT:** do _not_ use the "Audacity installer (recommended) via MuseHub." 
+  - For **newer Mac computers** (~2019 onward) use this [ARM 64 dmg (Apple Silicon) installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-arm64.dmg); for **older Macs** (typically before 2019, but check [this list](https://en.wikipedia.org/wiki/List_of_Mac_models)) use the [x86_64 dmg (Intel) installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg).
+      - **IMPORTANT:** do _not_ use the "Audacity installer (recommended) via MuseHub." 
   - For a Windows 64 bit computer **[Click Here](https://www.audacityteam.org/download/windows/)** and choose the appropriate installer for your system.
   - If you have a Windows ARM computer, which is quite unlikely in 2026, **[Click Here](https://github.com/audacity/audacity/releases/download/Audacity-3.7.5/audacity-win-3.7.5-arm64.exe)**.
 
