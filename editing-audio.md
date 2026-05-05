@@ -53,7 +53,7 @@ This is helpful in situations where you might want to move the order of your con
 
 You can follow this same copy/paste process to move any audio from any Audacity track to another.
 
-> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **edit -> copy/ edit -> paste**.  
+> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **Edit -> Copy / Edit -> Paste**.  
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
