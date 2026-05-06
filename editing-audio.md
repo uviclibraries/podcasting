@@ -9,19 +9,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Editing Audio in Audacity
 
-Now that you have recorded some audio for your podcast, let’s do some editing! 
+Now that you have recorded some audio for your podcast, let’s do some basic editing. 
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
 Take your time and have fun <span style='font-size:20px;'>&#128512;</span>
 
-For these exercises, please either use the audio you recorded in [Activty #1 - Podcast Recording with Audacity](recording-audio.html), or download this [sample podcast interview file](images/goat-girl.mp3)<!--{:target="_blank"}-->, and then proceed.
-
-## Deleting unwanted audio from a track
-
-For now, don't worry about cutting out filler words, like _uhms_ and _ahs_. But, do pay attention to where loud or disruptive breath sounds occur between sentences. It can be easy to cut breaths in unnatural ways and cause a "hiccup" or double-breath effect. 
-
-When trimming out breaths, be careful not to accidentally cut off the beginning of a word (words starting with soft beginnings—like "F", "H", "S"—are especially easy to accidentally cut). 
+For these exercises, please either use the audio you recorded in [Activity #1 - Podcast Recording with Audacity](recording-audio.html), or download this [sample podcast interview file](images/goat-girl.mp3)<!--{:target="_blank"}-->, and then proceed.
 
 We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. 
 
@@ -32,8 +26,12 @@ Then, we will trim the end of the track in the same way.
 
 ### Trimming the track start and end
 
-1. In Audacity, look in the main menu bar and click on the **Selection Tool** icon.
-2. In the Audio Track, hover your cursor over the very beginning of the audio track (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. audio before you began speaking. Whatever you have selected will turn the background lighter in colour.
+Nearly all recordings will have some preamble and closing sounds to remove. For example, the time between hitting the record button and beginning your introduction, you might have a light cough. Or, you might take a pause at the end of an interview to ensure that you don't cut things off too soon. 
+
+Here are the steps to removing the unwanted sounds from the beginning and end of your track:  
+
+1. In Audacity, look in the main menu bar and click on the **Selection Tool icon**.
+2. In the Audio Track, **hover your cursor over the very beginning of the audio track** (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. Whatever you have selected will turn the background lighter in colour.
 3. On your keyboard, press the **Delete** button to remove the audio you selected.
 4. Follow the same process at the end of your audio track by **selecting the audio** you don’t want and pressing the **Delete** button on your keyboard.
 
@@ -46,7 +44,9 @@ As you did for trimming the beginning and end of the track, you can select audio
 
 ### Inserting or copying audio into your audio track
 
-This is helpful in situations where you might want to move the order of your content around. For example, in an interview recording, you might want to change the order of a quesiton and answer. 
+This is helpful in situations where you might want to move the order of your content around. For example, in an interview recording, you might want to change the order of a question and answer. 
+
+Here are the steps to inserting or copy audio into your audio track: 
 
 1. **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
 2. Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
@@ -62,9 +62,13 @@ You can follow this same copy/paste process to move any audio from any Audacity 
 
 <img src="images/podcast-edit-05.png" style="float:right;width:200px;" alt="track example">
 
-### Adding fades and crossfades 
+### Adding fades
 
-We add fades and crossfades to address abrupt starts and stops in speaking, which can sound unnatural. 
+We add fades (moving from quiet to loud, or loud to quiet) to address abrupt starts and stops in your audio track, which can sound jarring. 
+
+Fading in and out of a track also signals to your listener that your track is about to start or end, respectively.  
+
+Here are the steps to add fades to your audio track:
 
 1. **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
 2. **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
@@ -91,6 +95,8 @@ To get used to the export process, let’s **practice adding metadata (track inf
 >**NOTE** that [Audacity can export a variety of file types](https://manual.audacityteam.org/man/export_formats_supported_by_audacity.html). We are working with [MP3 files](https://simple.wikipedia.org/wiki/MP3) because they are a common file format, meaning that they can be played by nearly all music players and music software. 
 >
 >As a file type, MP3 provides a good balance of sound quality and small file size.   
+
+Here are the steps for exporting your audio track:
 
 1. In Audacity's main/top menu, select **File -> Export Audio**.
 >**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
