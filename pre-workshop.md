@@ -10,7 +10,7 @@ To participate fully, please do the following **before the workshop.**
 
 1. Install Audacity on your laptop:
   - For **newer Mac computers** (~2019 onward), use this [ARM 64 dmg Apple Silicon installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-arm64.dmg).
->**NOTE**: for **older Macs** (typically before 2019), use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). If you end up on Audacity's Downloads page, **we do not recommend using the "Audacity installer (recommended) via MuseHub."** 
+>**NOTE**: for **older Macs** (typically before 2019), use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). If you end up on Audacity's [Downloads page](https://www.audacityteam.org/download/), **we do not recommend using any installers named "Audacity installer (recommended) via MuseHub**," becasue MuseHub is [bloatware](https://en.wikipedia.org/wiki/Software_bloat#Bloatware) that will be installed along with the Audacity installation.
   - For a **Windows computer**, use this [64 bit installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe).
   - Audacity also has a [Linux installer](https://www.audacityteam.org/download/linux/). See this [Installing and updating Audacity on Linux page](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html) for details as needed. 
   - If none of the above installers work, especially for an older computer or operating system, then choose from this list of [older Audacity versions](https://www.fosshub.com/Audacity-old.html).  
