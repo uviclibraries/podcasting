@@ -22,6 +22,9 @@ Getting your equipment setup properly for _your_ particular space will save you 
 
 ### Location tips
 
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Piece_of_peace%2C_the_bedroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="calming bedroom" style="width:600px;">
+<figcaption>Image source: <a href="https://commons.wikimedia.org/wiki/File:Piece_of_peace,_the_bedroom.jpg">Wikimedia Commons</a>.</figcaption></figure>
+
 - **Find a quiet room**. Typically, bedrooms and closets are good locations, as they already have features like beds and fabrics, which "baffle" sounds.
 - **Pick a room free from background noises**—which are often sounds we do not usually notice in daily life. Modern microphones are sensitive, so they will pickup the buzz of a fridge, or outside traffic noise, or the hum of a fan running in a nearby room.
 - **Choose a smaller room with with minimal reflective surfaces**, which can cause echos. One way to test for echos is to stand on the centre of your space and clap loudly. It might take a few claps to hear it, but rooms with a lot of flat surfaces will have a more sustained echo "flutter" than a smaller room with soft surfaces.
@@ -33,22 +36,25 @@ If you haven't done so already, please download and install Audacity on your lap
 
 Assuming that you have successfully installed Audacity, let’s take a look at some time-saving and recording-quality tips. After that, it will be time to do a test recording. 
 
-<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Podcast.jpg/960px-Podcast.jpg" alt="podcast microphone in darkly lit studio" style="width:600px;">
-<figcaption>Image source: <a href="https://commons.wikimedia.org/wiki/File:Podcast.jpg">Wikimedia Commons</a>.</figcaption></figure>
-
 
 ### Equipment tips
 
-- If possible use a **high-quality microphone** to record with rather than your laptop’s built-in microphone. 
-- It is often helpful to wear **over the ear headphones** when recording, so that you can more easily hear any background noises that you do not want to be recorded.
-- **Place your microphone strategically**. The appropriate distance between your mouth and the microphone is roughly 6 to 12 inches. This distance prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get slightly closer to the microphone.
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Podcast.jpg/960px-Podcast.jpg" alt="podcast microphone in darkly lit studio" style="width:600px;">
+<figcaption>Image source: <a href="https://commons.wikimedia.org/wiki/File:Podcast.jpg">Wikimedia Commons</a>.</figcaption></figure>
+
+- If possible, use a **high-quality microphone** to record with, rather than your laptop’s built-in microphone. 
+- We recommend **over the ear headphones** when recording, so that you can more easily hear any background noises that you do not want to be recorded.
+- **Place your microphone strategically**: the appropriate distance between your mouth and the microphone is roughly 6 to 12 inches. This distance prevents "popping" noises and heavy breathing in your recording. If you sound thin and distant, get slightly closer to the microphone.
 - **Speak clearly and articulate your words**, but try to speak conversationally, as if speaking to a friend. If you are sitting in a chair, try to sit up straight. Some people prefer to stand while recording, as this can help to give more energy to your voice.
 
-> **<mark>TIP</mark>**: once you get your room setup the way you like, take pictures of the space and setup. Most of us do not have dedicated recording rooms. Having reference pictures for later will make it easier to repeat your setup, and to capture a consistent sound for your recordings. 
+>**<mark>TIP</mark>**: once you get your room setup the way you like, take pictures of the space and setup. Most of us do not have dedicated recording rooms. Having reference pictures for later will make it easier to repeat your setup, and to capture a consistent sound for your recordings. 
 
 Now that we have some basics in hand, let's move on to the recording process in Audacity. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
 
 ### Setting up the microphone in Audacity
+
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/2014_Mikrofon_USB.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="USB microphone" style="width:600px;">
+<figcaption>Image source: <a href="https://commons.wikimedia.org/wiki/File:2014_Mikrofon_USB.jpg">Wikimedia Commons</a>.</figcaption></figure>
 
 Getting your computer to record from an external microphone (if you are using one) takes a bit of setup. 
 
@@ -57,7 +63,7 @@ Getting your computer to record from an external microphone (if you are using on
 
 <img src="images/audio-setup-button-location.png" alt="Audacity Setup menu button">
 
-Here is an animation of the general process in Windows, but the overall process is the same in all versions of Audacity: 
+Here is an **animation of the general process** in Windows, but the overall process is the same in all versions of Audacity: 
 
 <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
@@ -83,7 +89,11 @@ Assuming that your Audacity settings are complete, let's try a test recording.
 
 ## Record some test audio in Audacity
 
-Ideally, you will record your test audio in the same location you intend to conduct your interview. Here are the steps to testing your recording setup quality: 
+<img src="images/podcast-edit-example-track.png" alt="Audacity example track" style="width:600px;" >
+
+Ideally, you will record your test audio in the same location you intend to conduct your interview. 
+
+Here are the steps to testing your recording setup quality: 
 
 1. Put on your headphones (or insert your earbuds) in order to hear the audio.
 2. In Audacity, **check your levels** by looking for the microphone icon on the top ribbon, click on the microphone icon and select “**Start Silent Monitoring**." 
@@ -92,18 +102,24 @@ Ideally, you will record your test audio in the same location you intend to cond
 4. Stop talking for 10 or 20 seconds to determine if your recording spot has any background noise that would be disruptive to your podcast recording.
 <img src="images/podcast-recording-04.png" style="float:right;width:220px;" alt="record button">
 5. **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image at right). After 20 to 30 seconds, press the square “**stop**” button. In case you do not know what to say, here is a [Sample Podcast Script](sample-podcast-script.html) to get you started.
-> **NOTE**: ignore and close any popups that report slow hard drive speed.
-     <button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-      <img src="images/podcast-recording-05.gif">
-      </div>
+
+>**NOTE**: ignore and close any popups that report slow hard drive speed.
+    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+    <div id="gif2">
+    <img src="images/podcast-recording-05.gif">
+    </div>
 
 ## Review your audio
 
-Now that we have recorded some test audio, it is time to see how it sounds. Here are the steps to listen to your recorded audio: 
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg/960px-Headphones_on_wood_in_black_and_white_%28Unsplash%29.jpg" alt="black and white pic of headphones" style="width:600px;">
+<figcaption>Image source: <a href="https://commons.wikimedia.org/wiki/File:Headphones_on_wood_in_black_and_white_(Unsplash).jpg">Wikimedia Commons</a>.</figcaption></figure>
+
+Now that we have recorded some test audio, it is time to hear how it sounds. 
+
+Here are the steps to listen to your recorded audio: 
 
 1. In Audacity, **click your cursor at the beginning** of the blue audio timeline and then press the **spacebar** on the computer—hitting the spacebar is how we play or pause the track.
-2. Listen to the track to determine if determine if you are getting good quality audio. If you are recording with others, listen to see if their voices are clear and at roughly the same volume as the others.  for both yourself, your co-host, and your interviewee. 
+2. Listen to the track to determine that you are getting good quality audio. If you are recording with others, listen to see if their voices are clear and at roughly the same volume as the others.
 
 > **<mark>TIP</mark>**: if you are not getting the quality of sound you like, please refer to our **Planning and Tips** section for suggestions on how to improve audio quality: [Podcasting Tips](podcasting-tips.html){: .btn .btn-green }
 
@@ -115,7 +131,7 @@ Assuming that you are happy with your audio levels and quality, **you can now re
 
 At this phase of the workshop, we want you to **record between 2 and 5 minutes of audio** for you to edit in the next step.
 
-Do your best and have fun being a podcast host!
+Do your best and have fun being a podcast host <span style='font-size:20px;'>&#128526;</span>
 
 Once you have finished your recording, it is time to edit your audio...
 
