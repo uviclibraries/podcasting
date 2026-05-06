@@ -60,9 +60,10 @@ You can follow this same copy/paste process to move any audio from any Audacity 
 <img src="images/podcast-edit-04-2024Oct.gif">
 </div>
 
-<img src="images/podcast-edit-05.png" style="float:right;width:200px;" alt="track example">
 
 ### Adding fades
+
+<img src="images/podcast-edit-fade-example.png" alt="track fade in and out example" style="width:600px;">
 
 We add fades (moving from quiet to loud, or loud to quiet) to address abrupt starts and stops in your audio track, which can sound jarring. 
 
