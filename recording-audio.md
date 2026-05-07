@@ -69,17 +69,15 @@ Here is an **animation of the general process** in Windows, but the overall proc
 <div id="gif1">
 <img src="images/audacity-new-1.gif" alt="Audacity Setup menu button animation"></div>
 
-- **Windows settings** to record from an external microphone: 
+**Windows settings** to record from an external microphone: 
   - click on **Audio Setup** (menu button), hover over **Host**, select **MME**
   - click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)** 
   - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
   - click on **Audio Setup**, hover over **Recording Channels**, select **1 (Mono) Recording Channel** 
   <!-- <img src="images/audacity-new-01.png"> KSS note: this image needs an update? -->
      
- **Mac Settings** to record from an external microphone:<b>
- 
+**Mac Settings** to record from an external microphone:<b>
 <!-- ![Image of Mac Settings](images/audacity-new-2.png)-->
-
 - click on **Audio Setup** (menu button), hover over **Host**, select **Core Audio**
 - click on **Audio Setup**, hover over **Playback Device**, select **Speakers (USB Condenser Mic)**; **<mark>tip</mark>**: if you do not find a USB mic as an option in the Audio Setup menu, confirm that the device is plugged in and turned on (if it has a power button), then exit and restart Audacity
 - click on **Audio Setup**, hover over **Recording Device**, select **Microphone (USB Condenser Mic)**
@@ -104,10 +102,11 @@ Here are the steps to testing your recording setup quality:
 5. **Record some test audio** by clicking on the red “**record**” button on the top navigation bar (see image at right). After 20 to 30 seconds, press the square “**stop**” button. In case you do not know what to say, here is a [Sample Podcast Script](sample-podcast-script.html) to get you started.
 
 >**NOTE**: ignore and close any popups that report slow hard drive speed.
-    <button onclick="toggle('gif2')">Show / Hide Animation </button>
-    <div id="gif2">
-    <img src="images/podcast-recording-05.gif">
-    </div>
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+<img src="images/podcast-recording-05.gif">
+</div>
 
 ## Review your audio
 
