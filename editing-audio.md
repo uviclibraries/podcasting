@@ -21,7 +21,7 @@ We will start by getting used to Audacity's editing features by trimming the fir
 
 Then, we will trim the end of the track in the same way. 
 
-<img src="images/podcast-edit-02.png" style="float:right;width:2400px;" alt="select tool, hover curser">
+<img src="images/podcast-edit-02.png" style="width:800px;" alt="Audacity select tool, hover curser">
 
 
 ### Trimming the track start and end
