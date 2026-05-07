@@ -21,10 +21,9 @@ We will start by getting used to Audacity's editing features by trimming the fir
 
 Then, we will trim the end of the track in the same way. 
 
-<img src="images/podcast-edit-02.png" style="width:800px;" alt="Audacity select tool, hover curser">
-
-
 ### Trimming the track start and end
+
+<img src="images/podcast-edit-02.png" style="width:800px;" alt="Audacity select tool, hover curser">
 
 Nearly all recordings will have some preamble and closing sounds to remove. For example, the time between hitting the record button and beginning your introduction, you might have a light cough. Or, you might take a pause at the end of an interview to ensure that you don't cut things off too soon. 
 
@@ -87,9 +86,9 @@ You can also apply these fade techniques to any part of an Audacity track, inclu
 
 We still have more to do for a finished product, like adding music "bumpers" (transition or break music), or voiceovers. 
 
-Before we begin, note that **"saving" your file is different than "exporting" an audio track**, in this case, our podcast.
+Before we begin, note that **"saving" your file is different than "exporting" an audio track**—in this case our audio track is our podcast.
 
-In Audacity, selecting **File -> Save** will save the Audacity project, which has a ".aup" file extension. On the other hand, exporting your file combines, or mixes, everything in your Audacity tracks down into one audio file to be played on an audio player or audio software. 
+In Audacity, selecting **File -> Save** will save the Audacity project, which has a ".aup" file extension. On the other hand, "exporting" your file combines, or mixes, everything in your Audacity tracks down into one audio file. This file can then be played on an audio player or audio software, like any other digital audio file. 
 
 To get used to the export process, let’s **practice adding metadata (track information)** and then **exporting an MP3 file**. 
 
@@ -99,6 +98,8 @@ To get used to the export process, let’s **practice adding metadata (track inf
 
 Here are the steps for exporting your audio track:
 
+**<mark>TIP</mark>**: the latest version of Audacity (version 3.0 and up) will allow you to export MP3 files by default. However, if for some reason you are not able to update to the latest version of Audacity, or you are using particular versions of Linux, you may need to install something called the "LAME MP3 Encoder." See these instructions for details: [Installing LAME](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame).
+
 1. In Audacity's main/top menu, select **File -> Export Audio**.
 >**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
 >
@@ -107,15 +108,12 @@ Here are the steps for exporting your audio track:
 <img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
 3. **Enter your metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
 <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
->**NOTE** that the information you put in these metadata fields will appear as track information in audio players and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stero features, of course. 
->
->Typically, most modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
 
+The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stero features, of course. 
 
->**<mark>TIP</mark>**: <br>
-- Audacity might ask you to install FFMPEG in order to export an mp3 file. See these instructions for details:
+Typically, modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
 
-[Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
+See these instructions for details: [Installing FFMPEG](ffmpeg.html)
 
 
 <script>  
