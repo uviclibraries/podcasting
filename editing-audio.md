@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 2-Editing Audio
+title: 2-Editing and Exporting Audio
 nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-edit-01.png" style="float:right;width:180px;" alt="podcasting icon">
 
-# Editing Audio in Audacity
+# Editing and exporting audio in Audacity
 
-Now that you have recorded some audio for your podcast, let’s do some basic editing. 
+Now that you have recorded some audio for your podcast, let’s do some basic editing and export our first recording. 
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. 
 
@@ -20,6 +20,8 @@ For these exercises, please either use the audio you recorded in [Activity #1 - 
 We will start by getting used to Audacity's editing features by trimming the first few seconds of your audio track. We are doing this so that there isn’t an uncomfortable pause at the beginning of your track. 
 
 Then, we will trim the end of the track in the same way. 
+
+Finally, we will export our first audio file, to get used to the process. 
 
 ### Trimming the track start and end
 
@@ -106,15 +108,29 @@ Here are the steps for exporting your audio track:
 ><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
 2. In Audacity's **"Export Audio" popup** click on the **"Edit Metadata" button**.
 <img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
-3. **Enter your metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
+3. Enter your **metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
 <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
 
-The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stero features, of course. 
+The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stereo features, of course. 
 
 Typically, modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
 
-See these instructions for details: [Installing FFMPEG](ffmpeg.html)
+4. Add a **file name** and **select track export settings**. Let's take a moment to discuss each of the options from the top down in the Export Audio window: 
+    - **File Name**: choose as simple a name as possible. Note that the ".mp3" file extension, or suffix, will be automatically applied. 
+    - **Folder**: this is where on your computer that your exported file will be save. Use the "Browse..." button as needed to change the file-save location.  
+    - **Format**: the default should be "MP3 Files." If not, then select "MP3 FIles" from the menu. 
+    - **Audio options**: in the "Channels" options, be sure that "Mono" is selected. Leave all the other settings alone. 
+    - **Export Range**: be sure that "Entire Project" is selected. Leave the "Trim blank space before first clip" de-selected. 
 
+You will have a different file name and file path, but here is an image of the settings you should see in the "Export Audio" window before you export your file: 
+<img src="images/podcast-edit-export-dialog.png" alt="Audacity's export dialog settings" style="width:700px;">
+
+5. Click on the "Export" button. Once your file is exported, you can listen to it in whatever audio program you have installed on your computer.
+
+
+Congratulations <span style='font-size:20px;'>&#127881;</span>! You have now created your first podcast file. 
+
+Anything we do from here is a to add some extras. You already know how to trim, fade, and export your file, which are transferable skills for adding music, voiceovers, or effects to your podcast. 
 
 <script>  
 
