@@ -107,9 +107,12 @@ Here are the steps for exporting your audio track:
 >
 ><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
 2. In Audacity's **"Export Audio" popup** click on the **"Edit Metadata" button**.
-<img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
+
+    <img src="images/podcast-edit-edit-meta-button.png" alt="Audacity's edit metadata button location" style="width:700px;">
+    
 3. Enter your **metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
-<img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
+
+    <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
 
     The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stereo features, of course. 
 
@@ -123,7 +126,8 @@ Here are the steps for exporting your audio track:
     - **Export Range**: be sure that "Entire Project" is selected. Leave the "Trim blank space before first clip" de-selected. 
 
     You will have a different file name and file path, but here is an image of the settings you should see in the "Export Audio" window before you export your file: 
-<img src="images/podcast-edit-export-dialog.png" alt="Audacity's export dialog settings" style="width:700px;">
+
+    <img src="images/podcast-edit-export-dialog.png" alt="Audacity's export dialog settings" style="width:700px;">
 
 5. Click on the "Export" button. Once your file is exported, you can listen to it in whatever audio program you have installed on your computer.
 
