@@ -130,7 +130,9 @@ You will have a different file name and file path, but here is an image of the s
 
 Congratulations <span style='font-size:20px;'>&#127881;</span>! You have now created your first podcast file. 
 
-Anything we do from here is a to add some extras. You already know how to trim, fade, and export your file, which are transferable skills for adding music, voiceovers, or effects to your podcast. 
+Anything we do from here is to add some extra polish to your podcast. You already know how to trim, fade, and export your file, which are transferable skills for adding music, voiceovers, or effects. 
+
+When you are ready, move on to the final part of the basics for podcast creation: adding music and voiceovers... 
 
 <script>  
 
@@ -144,5 +146,5 @@ Anything we do from here is a to add some extras. You already know how to trim, 
     }
 </script>
 
-[NEXT STEP: Editing Audio Transitions & Voiceovers](editing-audio-transitions-voiceovers.html){: .btn .btn-blue }
+[NEXT STEP: Music & Voiceovers](editing-audio-transitions-voiceovers.html){: .btn .btn-blue }
 
