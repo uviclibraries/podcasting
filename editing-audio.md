@@ -111,9 +111,9 @@ Here are the steps for exporting your audio track:
 3. Enter your **metadata information** into Audacity's metadata (track information) popup and **click on the OK button**. Add as much or as little information as you like. We recommend adding at least the "Track Title" information. 
 <img src="images/podcast-edit-metadata-process-full.png" alt="Audacity's edit metadata process" style="width:700px;">
 
-The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stereo features, of course. 
+    The **information you put in these metadata fields will appear as track information in audio players** and audio player software. For example, if you connect your phone to your car's audio system, you will see some or all of your track's information in your car's audio display, depending on your car's stereo features, of course. 
 
-Typically, modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
+    Typically, modern digital audio software, like Spotify, YouTube Music, or VLC Media Player, etc., will display at least the following track information: Artist Name, Track Title, Album Title, Track Number, and Year. 
 
 4. Add a **file name** and **select track export settings**. Let's take a moment to discuss each of the options from the top down in the Export Audio window: 
     - **File Name**: choose as simple a name as possible. Note that the ".mp3" file extension, or suffix, will be automatically applied. 
@@ -122,7 +122,7 @@ Typically, modern digital audio software, like Spotify, YouTube Music, or VLC Me
     - **Audio options**: in the "Channels" options, be sure that "Mono" is selected. Leave all the other settings alone. 
     - **Export Range**: be sure that "Entire Project" is selected. Leave the "Trim blank space before first clip" de-selected. 
 
-You will have a different file name and file path, but here is an image of the settings you should see in the "Export Audio" window before you export your file: 
+    You will have a different file name and file path, but here is an image of the settings you should see in the "Export Audio" window before you export your file: 
 <img src="images/podcast-edit-export-dialog.png" alt="Audacity's export dialog settings" style="width:700px;">
 
 5. Click on the "Export" button. Once your file is exported, you can listen to it in whatever audio program you have installed on your computer.
