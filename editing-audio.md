@@ -134,7 +134,7 @@ Here are the steps for exporting your audio track:
 
 Congratulations <span style='font-size:20px;'>&#127881;</span>! You have now created your first podcast file. 
 
-Anything we do from here is to add some extra polish to your podcast. You already know how to trim, fade, and export your file, which are transferable skills for adding music, voiceovers, or effects. 
+Anything we do from here will add extra polish to your podcast. You already know the core skills of how to trim, fade, and export your audio file.
 
 When you are ready, move on to the final part of the basics for podcast creation: adding music and voiceovers... 
 
