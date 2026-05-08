@@ -49,7 +49,9 @@ Assuming that you have successfully installed Audacity, let’s take a look at s
 
 >**<mark>TIP</mark>**: once you get your room setup the way you like, take pictures of the space and setup. Most of us do not have dedicated recording rooms. Having reference pictures for later will make it easier to repeat your setup, and to capture a consistent sound for your recordings. 
 
-Now that we have some basics in hand, let's move on to the recording process in Audacity. If you have any questions or get stuck as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
+Now that we have some basics in hand, let's move on to the recording process in Audacity. 
+
+If you have any questions, or get stuck, as you work through these in-class exercises, please ask the instructor for assistance. Have fun <span style='font-size:20px;'>&#128512;</span><br>
 
 ### Setting up the microphone in Audacity
 
