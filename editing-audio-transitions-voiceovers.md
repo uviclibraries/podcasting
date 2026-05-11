@@ -1,32 +1,71 @@
 ---
 layout: default
-title: 3-Music, Transitions & Voiceovers
+title: 3-Music & Voiceovers
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-transitions-01.png" style="float:right;width:180px;" alt="podcasting icon"> 
-# Music, Audio Transitions, Voiceovers, & Free Audio Clips
-Let’s add some music bumpers and voiceovers to your podcast audio. Many podcasts include music at the beginning and end, as well as during transitions. Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+# Music and Voiceovers
 
-Note : If you are using a Mac please follow these additional instructions for [Importing or exporting audio using FFmpeg instructions](https://support.audacityteam.org/basics/installing-ffmpeg){:target="_blank"}
+Now that you have learned the basics of Audacity's recording, editing, and exporting process, as covered in [section 1](https://uviclibraries.github.io/podcasting/recording-audio.html) and [section 2](https://uviclibraries.github.io/podcasting/editing-audio.html), it is time to help your podcast sound a little more polished and dynamic. 
+
+Many podcasts include music at the beginning and end of an episode, as well as during transitions between segments. These short musical interludes, usually 5-10 seconds long, are called "bumpers." Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. 
 
 
-1. Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations, including:
-- [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"} - Non-profit digital library with collections of digitized free movies, music, images, websites and more.
-- [ccMixter](http://dig.ccmixter.org/free){:target="_blank"} - CC-licensed music for film, video and games.
-- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} - A mix of CC-licensed and non-royalty free music. (login required to downlaod)
-- [Free Sound](https://freesound.org/search/?f=license%3A%22Creative+Commons+0%22){:target="_blank"} - A collaborative database of CC-licensed sounds & music. (login required to downlaod) 
+Voiceovers are typically defined as adding additional narration or commentary to a podcast. For example, you might do a voiceover to introduce your interview segment, or chime in halfway through an interview to add commentary. 
 
-    <img src="images/podcast-transitions-02.png" style="float:right;width:300px;" alt="download icon"> 
-2. **Download** a music file from **Free Music Archive** that will be an audio bumper or audio introduction to your podcast by going to the following web address, and clicking on the “down arrow” button beside a music track (please make a note of where you save the mp3 file): [Music File](https://freemusicarchive.org/search/?quicksearch=kriss){:target="_blank"} 
-- Import the audio file you just downloaded going to **File -> Import -> Audio** and then selecting the mp3 file from the file manager. 
-- A new audio track with the music will appear in Audacity below your interview audio.
+Let's get started with music, and then work on adding a voiceover. 
 
-    <button onclick="toggle('gif1')">Show / Hide Animation </button>
-    <div id="gif1">
-    <img src="images/podcast-transitions-03-2024Oct.gif">
-    </div>
+As always, if you have any questions, or get stuck, as you work through these in-class exercises, please ask the instructor for assistance. Have fun 😀
+
+
+## Add music to your podcast track
+
+We are going to **add music in three places**. We will start by adding **introductory music** and then the closing "outroduction", or **outro music**. Finally, we will add some **transition** music between audio segments. 
+
+We are learning the basics at this point, so do not worry if your music clips are not perfect. Once you get a feel for the process, you can always tweak things later. 
+
+### Choose your music 
+
+Choosing music for podcasts is an art in itself. As a general approach to your introduction, closing, and transition clips, we recommend that you (1) **keep it simple**, and (2) **keep it short**. 
+
+Whatever music you end up using, be sure that you have the legal rights to do so. Websites that offer "free" music still often require some form of attribution. 
+
+Or, get creative with your own instruments! Even if you are not skilled at music, a little piano jingle, or ukulele riff, can sound great when used for short clips. And, since you created it, you avoid copyright issues altogether. 
+
+>**NOTE**: see our [Additional Resources](https://uviclibraries.github.io/podcasting/additional-resources.html) page for links to "creative commons" media, including music. 
+
+For now, we will all work with the same MP3 file. But, once you learn the steps, you can repeat them using a track of your choice. 
+
+Let's begin by downloading a free (and copyright free) MP3 file from the [Pixabay](https://pixabay.com/music/) free music website. 
+
+### Download and prepare your music file(s)
+
+Before we work with Audacity, we need to find our music and get organized. 
+
+Here are the steps to preparing your intro, outro, and transition clips: 
+
+1. In a web browser, **click on this link**: [No Copyright Music](https://pixabay.com/music/funk-no-copyright-music-201745/)
+2. **Download** the file by clicking on the "Free download" (green) button and saving the file to your computer. <br><img src="images/podcast-transitions-download-pixabay-clip.png" style="width:700px;" alt="Pixabay download process">
+3. On your computer's desktop, **create a folder called "Podcast Music."**
+4. **Make three copies** of your downloaded audio file. 
+5. **Move those MP3 file copies, and the original downloaded MP3 file, into the "Podcast Music" folder**. Next, we will rename each copied file differently.
+6. **Name your copied files as follows: "intro.mp3", "outro.mp3", "transition.mp3"**. By the end of this, you should have four audio files: the original download, and your three, renamed copies. 
+
+Here's an example of what your "Podcast Music" folder should look like:<br> <img src="images/podcast-transitions-MP3s-folder-example.png" style="width:700px;" alt="fiel storage and renaming process">
+
+
+### Add intro music to your podcast
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1"><img src="images/podcast-transitions-03-2024Oct.gif"></div>
+
+### Add outro music to your podcast
+
+### Add transition music to your podcast
+
+
 
 3. Create a music introduction and ending for your podcast: 
 - First, listen to the music track, so you can find part of the track you want to use. 
