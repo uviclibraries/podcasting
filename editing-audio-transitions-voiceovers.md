@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-transitions-01.png" style="float:right;width:180px;" alt="podcasting icon"> 
-# Music and Voiceovers
+# Adding music to your podcast
 
 Now that you have learned the basics of Audacity's recording, editing, and exporting process, as covered in [section 1](https://uviclibraries.github.io/podcasting/recording-audio.html) and [section 2](https://uviclibraries.github.io/podcasting/editing-audio.html), it is time to help your podcast sound a little more polished and dynamic. 
 
