@@ -10,10 +10,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Now that you have learned the basics of Audacity's recording, editing, and exporting process, as covered in [section 1](https://uviclibraries.github.io/podcasting/recording-audio.html) and [section 2](https://uviclibraries.github.io/podcasting/editing-audio.html), it is time to help your podcast sound a little more polished and dynamic. 
 
-Many podcasts include music at the beginning and end of an episode, as well as during transitions between segments. These short musical interludes, usually 5-10 seconds long, are called "bumpers." Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. 
+Many podcasts include music at the beginning and end of an episode, as well as during transitions between segments. These short musical interludes, usually 5-10 seconds long, are called "bumpers." 
 
 As always, if you have any questions, or get stuck, as you work through these in-class exercises, please ask the instructor for assistance. Have fun 😀
-
 
 ## Add music to your podcast track
 
