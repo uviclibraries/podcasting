@@ -48,22 +48,31 @@ Here are the steps to preparing your intro, outro, and transition clips:
 5. **Move those MP3 file copies, and the original downloaded MP3 file, into the "Podcast Music" folder**. Next, we will rename each copied file differently.
 6. **Name your copied files as follows: "intro.mp3", "outro.mp3", "transition.mp3"**. By the end of this, you should have four audio files: the original download, and your three, renamed copies. 
 
-Here's an example of what your "Podcast Music" folder should look like:<br> <img src="images/podcast-transitions-MP3s-folder-example.png" style="width:700px;" alt="fiel storage and renaming process">
+Here's an example of what your "Podcast Music" folder should look like:<br> <img src="images/podcast-transitions-MP3s-folder-example.png" style="width:700px;" alt="file storage and renaming process">
+
+### Adding music to your podcast: process overview
+
+Whether adding the intro, outro, or transition music, the **overall process** is the same in Audacity: you **(1) import an audio file**, to **(2) create a new track**, which you **(3) trim, align, and fade** as needed. 
+
+Here is an **animation of the process for importing another audio file**, in this case music (an MP3), into Audacity's track window: 
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1"><img src="images/podcast-transitions-03-2024Oct.gif"></div>
+
+Before you begin, know that you might have to adjust the volume of your music tracks so that they fit well with your interview audio. We will cover the volume adjustments in the next section, but these same steps apply to the outro and transition music. 
 
 
 ### Add intro music to your podcast
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1"><img src="images/podcast-transitions-03-2024Oct.gif"></div>
+
+
+
 
 ### Add outro music to your podcast
 
 ### Add transition music to your podcast
 
 
-
-3. Create a music introduction and ending for your podcast: 
-- First, listen to the music track, so you can find part of the track you want to use. 
 - Delete all but the 8 seconds of music you want to use by **selecting the beginning of the music track** up to the point that you want to use and then press the **Delete** button on your keyboard. 
 - **Select** all but 8 seconds of the music and press the **Delete** key on your keyboard. 
 - You should now be left with 8 seconds of music.
