@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Music & Voiceovers
+title: 3-Adding Music
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -11,11 +11,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 Now that you have learned the basics of Audacity's recording, editing, and exporting process, as covered in [section 1](https://uviclibraries.github.io/podcasting/recording-audio.html) and [section 2](https://uviclibraries.github.io/podcasting/editing-audio.html), it is time to help your podcast sound a little more polished and dynamic. 
 
 Many podcasts include music at the beginning and end of an episode, as well as during transitions between segments. These short musical interludes, usually 5-10 seconds long, are called "bumpers." Music can also be added into the background of an interview as a pleasant effect or to mask noisy background sounds. 
-
-
-Voiceovers are typically defined as adding additional narration or commentary to a podcast. For example, you might do a voiceover to introduce your interview segment, or chime in halfway through an interview to add commentary. 
-
-Let's get started with music, and then work on adding a voiceover. 
 
 As always, if you have any questions, or get stuck, as you work through these in-class exercises, please ask the instructor for assistance. Have fun 😀
 
@@ -121,40 +116,7 @@ Here's an example of what your "Podcast Music" folder should look like:<br> <img
     <img src="images/audio-bridge-2024Oct.gif">
     </div>
 
-7. Let’s create and place some voice-over audio in the middle of your podcast:
-    - Create a new audio track for a voice-over, by clicking on **Tracks -> Add New -> Mono Track**.  <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
-    - Using the **Selection Tool** (see right), **click** on your new track **to the right** of all of the voice and music audio that you have already recorded and edited (so that when you record your voice over audio, you do not hear any of the audio you’ve already worked with).
-    - **Click** on the red **Record** button on the top menu to start recording your voice-over audio.
-    - **Select** and **delete** all of the blank space at the **beginning** and **end** of your voice-over audio in your new audio track.
 
-    <button onclick="toggle('gif6')">Show / Hide Animation </button>
-    <div id="gif6">
-    <img src="images/podcast-transitions-13-2024Oct.gif">
-    </div>
-
-    - **Click** on the grey bar at the top of your audio track, and **drag your voice over audio** to the part of the interview where you would like to place it.
-    - To lower the volume on your primary podcast audio track in the same area where you have placed your voice-over audio, start by using the **selection tool** and **click** on the podcast voice track at the **beginning of where you want your voice over to start**.<img src="images/podcast-transitions-15.png" style="float:right;width:100px;" alt="volume voice track and boundaries"> 
-    - Next in the menu, click **Edit -> Clip Boundaries -> Split**.
-    - **Click on your podcast audio track** approximately **where your voice over will end**. Next click **Edit -> Clip Boundaries -> Split**.
-
-    <button onclick="toggle('gif7')">Show / Hide Animation </button>
-    <div id="gif7">
-    <img src="images/podcast-transitions-16-2024Oct.gif">
-    </div>
-
-    - **Click** on the **Envelope Tool** on the top menu (see right). <img src="images/envelope-tool .png" style="float:right;width:100px;" alt="envelope tool"> 
-    - **Select** the **portion of the track you just isolated**, then **grab** the **white handle** at the top of the audio wave and **drag it down** to reduce the volume where your voice over will be.
-    - Play the audio to make sure that the voice over is in the right place and adjust as necessary.
-
-    <button onclick="toggle('gif8')">Show / Hide Animation </button>
-    <div id="gif8">
-    <img src="images/podcast-transitions-18-2024Oct.gif">
-    </div>
-
-8. Export the audio in High MP3 quality:
-- Select on the top menu: **File -> Export -> Export as MP3** and then click the **Save** button.
-- Edit the meta-data for your podcast (this is optional). Click **OK**.
-- If you haven’t already installed the library to export MP3 files you will be prompted to download a free copy of “LAME” that will do this for you by pressing the Download button. Follow the installation directions for your operating system (ask for help if you have any problems).
 
 [Based on the CC-licensed VCU podcasting guide](https://guides.library.vcu.edu/podcast/editing){:target="_blank"}
 
