@@ -70,7 +70,7 @@ Having separate tracks will be especially important if you continue on with Auda
 
 Even if you end up with multiple tracks, we will use Audacity's export feature (as you did in the previous [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section) to export your finished podcast as a single, mono, MP3 file.
 
->**<mark>TIP</mark>**: before you begin any podcast project (or any sound-editing project) **create a backup copy of your core, or main track(s)**. That way, if you ever need to, you can (1)[remove the unwanted track](https://manual.audacityteam.org/man/tracks_menu.html#remove_tracks), (2)copy your backup original file, (3)import the fresh copy of the orginal file, and start over.
+>**<mark>TIP</mark>**: before you begin any podcast project (or any sound-editing project) **create a backup copy of your core, or main track(s)**. That way, if you ever need to, you can (1)[remove the unwanted track](https://manual.audacityteam.org/man/tracks_menu.html#remove_tracks), (2)copy your backup original file, (3)import the fresh copy of the original file, and start over.
 
 Before you begin, know that **you will likely have to adjust the alignment and volume of your music tracks**, so that the tracks line up the way you want, and that the relative volume between the music and your interview audio is well balanced. We will discuss both scenarios, and more, in the next part of the workshop. 
 
@@ -94,7 +94,7 @@ Here are the **steps to adding intro music to your podcast**:
 5. Click on the **Skip to Start** button and then click on the **Play** button to listen to your track(s). <img src="images/podcast-transitions-skip-to-start.png" style="float:right;width:300px;" alt="Audacity's skip to start and play buttons"> 
 
 
-How did it sound? Maybe you got lucky and it sounds the way you want already. Bonus! Do not expect things to sound perfect the first time. For example, the music could overalp your interview too soon or too late, or the volume of the music might overpower the volume of your spoken audio content. 
+How did it sound? Maybe you got lucky and it sounds the way you want already. Bonus! Do not expect things to sound perfect the first time. For example, the music could overlap your interview too soon or too late, or the volume of the music might overpower the volume of your spoken audio content. 
 
 Next, we will address the common issues in this process... 
 
@@ -102,7 +102,7 @@ Next, we will address the common issues in this process...
 
 Chances are you will need to tweak things to improve your track alignment, volume, or both. 
 
-#### Troubleshooting: track alignment
+#### **Troubleshooting: track alignment**
 
 **Problem**: you have faded your music track the way you want, but it is cutting in too early, or cutting off too late, for the timing with your main interview track. 
 
@@ -114,14 +114,23 @@ Chances are you will need to tweak things to improve your track alignment, volum
 
 Here is an animation of the click + hold and drag process in an Audacity audio:
 
-<button onclick="toggle('gif4')">Show / Hide Animation</button>
+<button onclick="toggle('gif5')">Show / Hide Animation</button>
 <div id="gif5">
 <img src="images/podcast-transitions-track-move.gif" style="width:800px;" alt="Audacity track move animation"> 
 </div>
 
 
-#### Troubleshooting: track volume
+#### **Troubleshooting: track volume**
 
+**Problem**: your music is either too loud or too quiet compared to your interview, or main track. 
+
+**Solution**: use Audacity's "Amplify" feature to change volume:  
+1. To select the whole track, click on the top of the track (officially the "clip-handle drag-bar"). You will see the track turn blue, compared to the other track, which indicates that the track is selected. 
+2. In Audacity's main menu, select **Effect -> Volume and Compression -> Amplify**. This will open the "Amplify" window. <img src="images/podcast-transitions-amplify-popup.png" style="width:400px;" alt="Audacity's Amplify popup"> 
+3. **Use the slider** in the Amplify pop to increase or decrease the volume of your track, then click the **Apply** button.<img src="images/podcast-transitions-amplify-slider.png" style="width:400px;" alt="Audacity's Amplify popup"> 
+4. Repeat steps 1-3 as needed. Remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
+
+>**NOTE** that you can apply the Amplify effect to any Audacity audio track. You can also select just a portion, or portions, of a track and apply the Amplify effect. 
 
 ## Add transition music to your podcast
 
