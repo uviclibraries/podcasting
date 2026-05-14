@@ -49,7 +49,7 @@ Here are the **steps to preparing your intro, outro, and transition clips**:
 
 Here's an example of what your "Podcast Music" folder should look like:<br> <img src="images/podcast-transitions-MP3s-folder-example.png" style="width:700px;" alt="file storage and renaming process">
 
-## Adding music to your podcast: process overview
+## Adding music to your podcast: process overview guide
 
 Whether adding the intro, outro, or transition music, the **overall process** is the same in Audacity: you **(1) import an audio file**, to **(2) create a new track**, which you **(3) trim, align, and fade** as needed. 
 
@@ -68,20 +68,19 @@ It is possible to merge your tracks into one. **We recommend that you keep your 
 
 Having separate tracks will be especially important if you continue on with Audacity's various effects and other features. 
 
-Finally, even if you end up with multiple tracks, we will use Audacity's export feature (as you did in the previous [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section) to export your finished podcast as a single, mono, MP3 file.
-
-
-## Add intro music to your podcast
-
-**The following instructions assume that you have Audacity open, and that you have your interview, or main audio track, visible in Audacity's track window.**
+Even if you end up with multiple tracks, we will use Audacity's export feature (as you did in the previous [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section) to export your finished podcast as a single, mono, MP3 file.
 
 ><mark>**IMPORTANT TIP**</mark>: before you begin any podcast project (or any sound-editing project) **create a backup copy of your core, or main track**. That way, if you ever need to, you can (1)[remove the unwanted track](https://manual.audacityteam.org/man/tracks_menu.html#remove_tracks), (2)copy your backup original file, (3)import the fresh copy of the orginal file, and start over.
 
-Before you begin, know that **you will likely have to adjust the alignment and volume of your music tracks**, so that the tracks line up the way you want, and that the relative volume between the music and your interview audio is well balanced. We will discuss both scenarios in the next part of the workshop. 
+Before you begin, know that **you will likely have to adjust the alignment and volume of your music tracks**, so that the tracks line up the way you want, and that the relative volume between the music and your interview audio is well balanced. We will discuss both scenarios, and more, in the next part of the workshop. 
 
 Note that **what we do in the steps to add intro music**—such as change the volume, add fades, and align the tracks—**will also apply to the transition and outro music**.  
 
+**The following instructions assume that you have Audacity open, and that you have your interview, or main audio track, visible in Audacity's track window.**
+
 ><mark>**IMPORTANT TIP**</mark>: no matter what changes you make in the following steps, remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
+
+## Add intro music to your podcast
 
 Here are the **steps to adding intro music to your podcast**: 
 
