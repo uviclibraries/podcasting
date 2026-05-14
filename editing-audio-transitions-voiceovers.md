@@ -70,7 +70,7 @@ Having separate tracks will be especially important if you continue on with Auda
 
 Even if you end up with multiple tracks, we will use Audacity's export feature (as you did in the previous [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section) to export your finished podcast as a single, mono, MP3 file.
 
-><mark>**IMPORTANT TIP**</mark>: before you begin any podcast project (or any sound-editing project) **create a backup copy of your core, or main track**. That way, if you ever need to, you can (1)[remove the unwanted track](https://manual.audacityteam.org/man/tracks_menu.html#remove_tracks), (2)copy your backup original file, (3)import the fresh copy of the orginal file, and start over.
+>**<mark>TIP</mark>**: before you begin any podcast project (or any sound-editing project) **create a backup copy of your core, or main track(s)**. That way, if you ever need to, you can (1)[remove the unwanted track](https://manual.audacityteam.org/man/tracks_menu.html#remove_tracks), (2)copy your backup original file, (3)import the fresh copy of the orginal file, and start over.
 
 Before you begin, know that **you will likely have to adjust the alignment and volume of your music tracks**, so that the tracks line up the way you want, and that the relative volume between the music and your interview audio is well balanced. We will discuss both scenarios, and more, in the next part of the workshop. 
 
@@ -78,7 +78,7 @@ Note that **what we do in the steps to add intro music**—such as change the vo
 
 **The following instructions assume that you have Audacity open, and that you have your interview, or main audio track, visible in Audacity's track window.**
 
-><mark>**IMPORTANT TIP**</mark>: no matter what changes you make in the following steps, remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
+>**<mark>TIP</mark>**: no matter what changes you make in the following steps, remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
 
 ## Add intro music to your podcast
 
@@ -107,14 +107,17 @@ Chances are you will need to tweak things to improve your track alignment, volum
 **Problem**: you have faded your music track the way you want, but it is cutting in too early, or cutting off too late, for the timing with your main interview track. 
 
 **Solution**: drag your main track into a better position: 
-1. Hover your mouse over the top of the track (officially the "clip-handle drag-bar") until you see a white hand icon appear. <img src="images/podcast-transitions-hand-icon.png" style="float:right;width:200px;" alt="Audacity's hand icon"> 
+1. Hover your mouse over the top of the track (officially the "clip-handle drag-bar") until you see a white hand icon appear. See image at right. <img src="images/podcast-transitions-hand-icon.png" style="float:right;width:200px;" alt="Audacity's hand icon"> 
 2. Click + hold and drag your track, either left or right. 
 3. Click on the **Skip to Start** button and listen to your the changes. 
 4. Repeat steps 1-3 as needed. 
 
 Here is an animation of the click + hold and drag process in an Audacity audio:
 
+<button onclick="toggle('gif4')">Show / Hide Animation</button>
+<div id="gif5">
 <img src="images/podcast-transitions-track-move.gif" style="width:800px;" alt="Audacity track move animation"> 
+</div>
 
 
 #### Troubleshooting: track volume
