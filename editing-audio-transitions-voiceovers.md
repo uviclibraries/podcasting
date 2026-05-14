@@ -100,7 +100,7 @@ Next, we will address the common issues in this process...
 
 ### Troubleshooting your music tracks 
 
-Chances are you will need to tweak things to improve your track alignment,volume, or both. 
+Chances are you will need to tweak things to improve your track alignment, volume, or both. 
 
 #### Troubleshooting: track alignment
 
@@ -108,11 +108,13 @@ Chances are you will need to tweak things to improve your track alignment,volume
 
 **Solution**: drag your main track into a better position: 
 1. Hover your mouse over the top of the track (officially the "clip-handle drag-bar") until you see a white hand icon appear. <img src="images/podcast-transitions-hand-icon.png" style="float:right;width:200px;" alt="Audacity's hand icon"> 
-2. Click + hold and drag your track either left or right. 
-3. Click on the **Skip to Start** button and listen for the changes. 
+2. Click + hold and drag your track, either left or right. 
+3. Click on the **Skip to Start** button and listen to your the changes. 
 4. Repeat steps 1-3 as needed. 
 
-Here is an animation of the click + hold and drag process in an Audacity audio   
+Here is an animation of the click + hold and drag process in an Audacity audio:
+
+<img src="images/podcast-transitions-track-move.gif" style="width:800px;" alt="Audacity track move animation"> 
 
 
 #### Troubleshooting: track volume
