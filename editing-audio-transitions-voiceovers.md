@@ -127,12 +127,34 @@ Here is an animation of the click + hold and drag process in an Audacity audio:
 **Solution**: use Audacity's "Amplify" feature to change volume:  
 1. To select the whole track, click on the top of the track (officially the "clip-handle drag-bar"). You will see the track turn blue, compared to the other track, which indicates that the track is selected. 
 2. In Audacity's main menu, select **Effect -> Volume and Compression -> Amplify**. This will open the "Amplify" window.<br><img src="images/podcast-transitions-amplify-popup.png" style="width:300px;" alt="Audacity's Amplify popup"> 
-3. **Use the slider** in the Amplify pop to increase or decrease the volume of your track, then click the **Apply** button.<br><img src="images/podcast-transitions-amplify-slider.png" style="width:300px;" alt="Audacity's Amplify popup"> 
+3. **Use the slider** in the Amplify popup to increase or decrease the volume of your track, then click the **Apply** button.<br><img src="images/podcast-transitions-amplify-slider.png" style="width:300px;" alt="Audacity's Amplify popup"> 
 4. Repeat steps 1-3 as needed. Remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
 
->**NOTE** that you can apply the Amplify effect to any Audacity audio track. You can also select a portion, or portions, of a track and apply the Amplify effect. 
+>**NOTE** that you can apply the Amplify effect to _any_ Audacity audio track. You can also select a portion, or portions, of a track and apply the Amplify effect. You can learn more about the [Amplify effect in Audacity's manual](https://manual.audacityteam.org/man/amplify.html). 
 
 ## Add transition music to your podcast
+
+The following instructions assume that you have already listened to your interview track, and that that you have picked at least one place to add transition music. 
+
+To interrupt our interview track with transition music, we need to make space for the music to fit in as seamlessly as possible. There are a few ways to approach this. 
+
+We could take the time to break up and save our interview into separate tracks altogether, naming each track differently, but this is needlessly complicated at this point. 
+
+We could also select a point in the interview track and use [Audacity's "Silence" feature](https://manual.audacityteam.org/man/silence.html) to literally insert a duration of complete silence into the track. While this feature can be very useful in some circumstances, it can be a little frustrating while we are still figuring out exactly where we want our transition(s) to land in the track. 
+
+Instead, we are going to "split" our interview track into separate parts. Then, we will drag those parts, and our transition music, around until they sound right—just as we did in the "adding intro music" part of this workshop.   
+
+Here are the **steps to adding transition music to your podcast**: 
+
+1. In Audacity's main menu, select **File -> Import -> Audio**. **Navigate to your "transition.mp3" music file** and select the **"Open" button**.
+
+
+
+
+
+
+
+
 
 
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
