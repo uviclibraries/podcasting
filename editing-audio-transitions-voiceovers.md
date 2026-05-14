@@ -102,7 +102,7 @@ Next, we will address the common issues in this process...
 
 Chances are you will need to tweak things to improve your track alignment, volume, or both. 
 
-#### **Troubleshooting: track alignment**
+### Troubleshooting: track alignment
 
 **Problem**: you have faded your music track the way you want, but it is cutting in too early, or cutting off too late, for the timing with your main interview track. 
 
@@ -120,17 +120,17 @@ Here is an animation of the click + hold and drag process in an Audacity audio:
 </div>
 
 
-#### **Troubleshooting: track volume**
+### Troubleshooting: track volume
 
 **Problem**: your music is either too loud or too quiet compared to your interview, or main track. 
 
 **Solution**: use Audacity's "Amplify" feature to change volume:  
 1. To select the whole track, click on the top of the track (officially the "clip-handle drag-bar"). You will see the track turn blue, compared to the other track, which indicates that the track is selected. 
-2. In Audacity's main menu, select **Effect -> Volume and Compression -> Amplify**. This will open the "Amplify" window. <img src="images/podcast-transitions-amplify-popup.png" style="width:400px;" alt="Audacity's Amplify popup"> 
-3. **Use the slider** in the Amplify pop to increase or decrease the volume of your track, then click the **Apply** button.<img src="images/podcast-transitions-amplify-slider.png" style="width:400px;" alt="Audacity's Amplify popup"> 
+2. In Audacity's main menu, select **Effect -> Volume and Compression -> Amplify**. This will open the "Amplify" window.<br><img src="images/podcast-transitions-amplify-popup.png" style="width:300px;" alt="Audacity's Amplify popup"> 
+3. **Use the slider** in the Amplify pop to increase or decrease the volume of your track, then click the **Apply** button.<br><img src="images/podcast-transitions-amplify-slider.png" style="width:300px;" alt="Audacity's Amplify popup"> 
 4. Repeat steps 1-3 as needed. Remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
 
->**NOTE** that you can apply the Amplify effect to any Audacity audio track. You can also select just a portion, or portions, of a track and apply the Amplify effect. 
+>**NOTE** that you can apply the Amplify effect to any Audacity audio track. You can also select a portion, or portions, of a track and apply the Amplify effect. 
 
 ## Add transition music to your podcast
 
