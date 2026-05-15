@@ -93,8 +93,13 @@ Here are the **steps to adding intro music to your podcast**:
 3. Still on the the "intro" track, use your mouse to click, hold, and drag to **select the last few seconds of the trimmed "intro" track**. Then, in Audacity's main menu, select **Effect -> Fading -> Fade Out**—just as you did, earlier, in the [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section.
 5. Click on the **Skip to Start** button and then click on the **Play** button to listen to your track(s). <img src="images/podcast-transitions-skip-to-start.png" style="float:right;width:300px;" alt="Audacity's skip to start and play buttons"> 
 
+Here is an example of my intro music trimmed and faded out. Notice in the [waveform](https://en.wikipedia.org/wiki/Waveform) how the intro music looks like it's fading down to smaller (quieter) as the interview track fades up to larger (louder). This is called a "crossfade." <br>
 
-How did it sound? Maybe you got lucky and it sounds the way you want already. Bonus! Do not expect things to sound perfect the first time. For example, the music could overlap your interview too soon or too late, or the volume of the music might overpower the volume of your spoken audio content. 
+<img src="images/podcast-transitions-intro-crossfade.png" style="width:700px;" alt="example of intro crossfade">
+
+How did it sound? Maybe you got lucky and it sounds the way you want already. Bonus! 
+
+**Do not expect things to sound perfect the first time**. For example, the music could overlap your interview too soon or too late, or the volume of the music might overpower the volume of your spoken audio content. 
 
 Next, we will address the common issues in this process... 
 
