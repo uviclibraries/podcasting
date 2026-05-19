@@ -78,19 +78,19 @@ Note that **what we do in the steps to add intro music**—such as change the vo
 
 **The following instructions assume that you have Audacity open, and that you have your interview, or main audio track, visible in Audacity's track window.**
 
->**<mark>TIP</mark>**: no matter what changes you make in the following steps, remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
+>**<mark>TIP</mark>**: no matter what changes you make in the following steps, remember to use **Edit > Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
 
 ## Add intro music to your podcast
 
 Here are the **steps to adding intro music to your podcast**: 
 
-1. In Audacity's main menu, select **File -> Import -> Audio**. **Navigate to your file** and select the **"Open" button**. You should now see two tracks: your interview track, and the "intro" track, as in the following example:<br>
+1. In Audacity's main menu, select **File > Import > Audio**. **Navigate to your file** and select the **"Open" button**. You should now see two tracks: your interview track, and the "intro" track, as in the following example:<br>
 <img src="images/podcast-transitions-intro-import.png" style="width:700px;" alt="example of intro file import">
 
 >**IMPORTANT**: learn to use [Audacity's zoom feature](https://manual.audacityteam.org/man/zooming.html) as needed to see the tracks more clearly.
 
 2. In the "intro" track, use your mouse to click, hold, and drag to **select all but roughly the first 8 seconds of the track**, then hit delete on the keyboard. 
-3. Still on the the "intro" track, use your mouse to click, hold, and drag to **select the last few seconds of the trimmed "intro" track**. Then, in Audacity's main menu, select **Effect -> Fading -> Fade Out**—just as you did, earlier, in the [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section.
+3. Still on the the "intro" track, use your mouse to click, hold, and drag to **select the last few seconds of the trimmed "intro" track**. Then, in Audacity's main menu, select **Effect > Fading > Fade Out**—just as you did, earlier, in the [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section.
 5. Click on the **Skip to Start** button and then click on the **Play** button to listen to your track(s). <img src="images/podcast-transitions-skip-to-start.png" style="width:500px;" alt="Audacity's skip to start and play buttons"> 
 
 Here is an example of my intro music trimmed and faded out. Notice in the [waveform](https://en.wikipedia.org/wiki/Waveform) how the intro music looks like it's fading down to smaller (quieter) as the interview track fades up to larger (louder). This is called a "crossfade." <br>
@@ -131,9 +131,9 @@ Here is an animation of the click + hold and drag process in an Audacity audio:
 
 **Solution**: use Audacity's "Amplify" feature to change volume:  
 1. To select the whole track, click on the top of the track (officially the "clip-handle drag-bar"). You will see the track turn blue, compared to the other track, which indicates that the track is selected. 
-2. In Audacity's main menu, select **Effect -> Volume and Compression -> Amplify**. This will open the "Amplify" window.<br><img src="images/podcast-transitions-amplify-popup.png" style="width:300px;" alt="Audacity's Amplify popup"> 
+2. In Audacity's main menu, select **Effect > Volume and Compression > Amplify**. This will open the "Amplify" window.<br><img src="images/podcast-transitions-amplify-popup.png" style="width:300px;" alt="Audacity's Amplify popup"> 
 3. **Use the slider** in the Amplify popup to increase or decrease the volume of your track, then click the **Apply** button.<br><img src="images/podcast-transitions-amplify-slider.png" style="width:300px;" alt="Audacity's Amplify popup"> 
-4. Repeat steps 1-3 as needed. Remember to use **Edit -> Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
+4. Repeat steps 1-3 as needed. Remember to use **Edit > Undo** (in the main menu), or CTRL (Windows)/ Command (Mac) + Z on your keyboard if you are not happy with the results. 
 
 >**NOTE** that you can apply the Amplify effect to _any_ Audacity audio track. You can also select a portion, or portions, of a track and apply the Amplify effect. You can learn more about the [Amplify effect in Audacity's manual](https://manual.audacityteam.org/man/amplify.html). 
 
@@ -151,18 +151,19 @@ Instead, **we are going to "split" our interview track into separate parts**. Th
 
 Here are the **steps to adding transition music to your podcast**: 
 
-1. In Audacity's tool menu, click on the **Selection Tool** button. <img src="images/podcast-transitions-slection-tool.png" style="width:300px;" alt="Audacity's Selection Tool icon">
+1. In Audacity's tool menu, click on the **Selection Tool** button. <img src="images/podcast-transitions-selection-tool.png" style="width:300px;" alt="Audacity's Selection Tool icon">
 2. In the waveform of the interview track, click on where you want to split your track. You should see a thin, black line appear where you clicked. This line indicates exactly where your track will be split. 
-3. Right-click with your mouse and select **Split Clip** from the popup menu's options. Alternatively, in the main menu, select **Edit -> Audio Clips -> Split**. You should now see two clips, with one to the left of the split and one to the right. 
+3. Right-click with your mouse and select **Split Clip** from the popup menu's options. **Alternatively**, in the main menu, select **Edit > Audio Clips > Split**. You should now see two clips, with one to the left of the split and one to the right. 
 4. Of the two split clips, drag the clip on the right toward the right, so that we can make some silent space for our transition clip to fill. Here is an animation of the whole process to this point: 
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
 <div id="gif6">
 <img src="images/podcast-transitions-split-track.gif" style="width:800px;" alt="Audacity track split animation"> 
 </div>
-
-5. 
-
-**File -> Import -> Audio**. **Navigate to your "transition.mp3" music file** and select the **"Open" button**.
+Now that we have made some space, we will import the music we will use for the transition clip. 
+5. In Audacity's main menu, select **File > Import > Audio**. Then, **navigate to your "transition.mp3" music file** and select the **"Open" button**. This will create another track in Audacity. 
+6. Listen to your "transition" track to find roughly 5-8 seconds of music you would like to use. 
+>**<mark>TIP</mark>**: to listen to _just_ the "transition" track (or any single track), you can click on the "Solo" button, or click on the "Mute" buttons in the other tracks. The muted tracks will appear to have a grey overlay. Click on either the "Solo" or "Mute" buttons, again, to deselect them. <img src="images/podcast-transitions-solo-button.png" style="width:300px;" alt="Audacity's Solo button">
+7. Trim and fade the beginning and ending of your transition clip.  
 
 
 
@@ -176,8 +177,8 @@ Here are the **steps to adding transition music to your podcast**:
 4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
 - **Grab** the grey bar at the top of your **voice audio track** and **drag it to the right** about **6-seconds**. 
 <img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
-- Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect -> Fade in**.
-- **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect -> Fade out**.
+- Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect > Fade in**.
+- **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect > Fade out**.
 - **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
 ![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
 
@@ -208,8 +209,8 @@ Here are the **steps to adding transition music to your podcast**:
     - **Drag** the trimmed audio file and situate it exactly **below your gap**.
     - With your mouse, **drag** the edges of your audio file one at a time, and **extend the edges** until your audio completely **covers the bridge**. The amount of **overlap** between your bridge audio and your main vocal track depends on you. Generally, a **longer overlaps** result in **smoother transitions**.
     - Now its time for **fading in/out** your bridge audio:
-        1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
-        2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
+        1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect > Fading > Fade in**.
+        2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect > Fading > Fade out**.
  
     <button onclick="toggle('gif5')">Show/Hide Animation </button>
     <div id="gif5">
