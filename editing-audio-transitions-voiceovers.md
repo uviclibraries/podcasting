@@ -55,7 +55,7 @@ Whether adding the intro, outro, or transition music, the **overall process** is
 
 Here is an **animation of the process for importing another audio file**, in this case music (an MP3), into Audacity's track window: 
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<button onclick="toggle('gif1')">Show/Hide Animation </button>
 <div id="gif1"><img src="images/podcast-transitions-03-2024Oct.gif"></div>
 
 At the end of this process, you will have **at least four tracks**: 
@@ -112,14 +112,14 @@ Chances are you will need to tweak things to improve your track alignment, volum
 **Problem**: you have faded your music track the way you want, but it is cutting in too early, or cutting off too late, for the timing with your main interview track. 
 
 **Solution**: drag your main track into a better position: 
-1. Hover your mouse over the top of the track (officially the "clip-handle drag-bar") until you see a white hand icon appear. See image at right. <img src="images/podcast-transitions-hand-icon.png" style="float:right;width:200px;" alt="Audacity's hand icon"> 
-2. Click + hold and drag your track, either left or right. 
+1. Hover your cursor over the top of the track (officially the "clip-handle drag-bar") until you see a white hand icon appear. See image at right. <img src="images/podcast-transitions-hand-icon.png" style="float:right;width:200px;" alt="Audacity's hand icon"> 
+2. Click + hold and **drag your track**, either left or right. 
 3. Click on the **Skip to Start** button and listen to your the changes. 
 4. Repeat steps 1-3 as needed. 
 
 Here is an animation of the click + hold and drag process in an Audacity audio:
 
-<button onclick="toggle('gif5')">Show / Hide Animation</button>
+<button onclick="toggle('gif5')">Show/Hide Animation</button>
 <div id="gif5">
 <img src="images/podcast-transitions-track-move.gif" style="width:800px;" alt="Audacity track move animation"> 
 </div>
@@ -143,26 +143,32 @@ The following instructions assume that you have already listened to your intervi
 
 To interrupt our interview track with transition music, we need to make space for the music to fit in as seamlessly as possible. There are a few ways to approach this. 
 
-We could take the time to break up and save our interview into separate tracks altogether, naming each track differently, but this is needlessly complicated at this point. 
+We could break up and save our interview into separate tracks, naming each track differently, but this is needlessly complicated at this point. 
 
-We could also select a point in the interview track and use [Audacity's "Silence" feature](https://manual.audacityteam.org/man/silence.html) to literally insert a duration of complete silence into the track. While this feature can be very useful in some circumstances, it can be a little frustrating while we are still figuring out exactly where we want our transition(s) to land in the track. 
+We could also select a point in the interview track and use [Audacity's "Silence" feature](https://manual.audacityteam.org/man/silence.html) to insert a duration of complete silence into the track. While this feature can be very useful in some circumstances, it can be a little frustrating while we are still figuring out exactly where we want our transition(s) to land in the track. 
 
-Instead, we are going to "split" our interview track into separate parts. Then, we will drag those parts, and our transition music, around until they sound right—just as we did in the "adding intro music" part of this workshop.   
+Instead, **we are going to "split" our interview track into separate parts**. Then, we will drag those parts, and our transition music, around until they both line up the way we want—just as we did in the "adding intro music" part of this workshop.   
 
 Here are the **steps to adding transition music to your podcast**: 
 
-1. In Audacity's main menu, select **File -> Import -> Audio**. **Navigate to your "transition.mp3" music file** and select the **"Open" button**.
+1. In Audacity's tool menu, click on the **Selection Tool** button. <img src="images/podcast-transitions-slection-tool.png" style="width:300px;" alt="Audacity's Selection Tool icon">
+2. In the waveform of the interview track, click on where you want to split your track. You should see a thin, black line appear where you clicked. This line indicates exactly where your track will be split. 
+3. Right-click with your mouse and select **Split Clip** from the popup menu's options. Alternatively, in the main menu, select **Edit -> Audio Clips -> Split**. You should now see two clips, with one to the left of the split and one to the right. 
+4. Of the two split clips, drag the clip on the right toward the right, so that we can make some silent space for our transition clip to fill. Here is an animation of the whole process to this point: 
+<button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
+<img src="images/podcast-transitions-split-track.gif" style="width:800px;" alt="Audacity track split animation"> 
+</div>
+
+5. 
+
+**File -> Import -> Audio**. **Navigate to your "transition.mp3" music file** and select the **"Open" button**.
 
 
 
 
 
-
-
-
-
-
-    <button onclick="toggle('gif2')">Show / Hide Animation </button>
+    <button onclick="toggle('gif2')">Show/Hide Animation </button>
     <div id="gif2">
     <img src="images/podcast-transitions-04-2024Oct-3.gif">
     </div>
@@ -175,7 +181,7 @@ Here are the **steps to adding transition music to your podcast**:
 - **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
 ![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
 
-    <button onclick="toggle('gif3')">Show / Hide Animation </button>
+    <button onclick="toggle('gif3')">Show/Hide Animation </button>
     <div id="gif3">
     <img src="images/podcast-transitions-09-2024Oct-3.gif">
     </div>
@@ -185,7 +191,7 @@ Here are the **steps to adding transition music to your podcast**:
 - **Select** the **music intro audio track**, then **grab** the **white handle** at the top of the audio wave and **drag it down** so that it looks something like the image to the right.
 - Do the same for the music at the end of the audio track.
 
-    <button onclick="toggle('gif4')">Show / Hide Animation </button>
+    <button onclick="toggle('gif4')">Show/Hide Animation </button>
     <div id="gif4">
     <img src="images/podcast-transitions-11-2024Oct-3.gif">
     </div>
@@ -205,7 +211,7 @@ Here are the **steps to adding transition music to your podcast**:
         1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect -> Fading -> Fade in**.
         2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect -> Fading -> Fade out**.
  
-    <button onclick="toggle('gif5')">Show / Hide Animation </button>
+    <button onclick="toggle('gif5')">Show/Hide Animation </button>
     <div id="gif5">
     <img src="images/audio-bridge-2024Oct.gif">
     </div>
