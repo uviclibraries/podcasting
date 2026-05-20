@@ -84,7 +84,7 @@ Note that **what we do in the steps to add intro music**—such as change the vo
 
 Here are the **steps to adding intro music to your podcast**: 
 
-1. In Audacity's main menu, select **File > Import > Audio**. **Navigate to your file** and select the **"Open" button**. You should now see two tracks: your interview track, and the "intro" track, as in the following example:<br>
+1. In Audacity's main menu, select **File > Import > Audio**. **Navigate to your "intro.mp3" file** and select the **"Open" button**. You should now see two tracks: your interview track, and the "intro" track, as in the following example:<br>
 <img src="images/podcast-transitions-intro-import.png" style="width:700px;" alt="example of intro file import">
 
 >**IMPORTANT**: learn to use [Audacity's zoom feature](https://manual.audacityteam.org/man/zooming.html) as needed to see the tracks more clearly.
@@ -169,7 +169,22 @@ Now that we have made some space, we will import the music we will use for the t
 9. Drag the transition clip into the best position. Remember to use **Edit > Undo** as needed. 
 10. **Save your Audacity project's file again** if you have not already done so, using CTRL or CMD + S on your keyboard. Or, in Audacity's main menu, select **File > Save**. 
 
+Here is an example of my transition music trimmed and faded in/out.<br>
+
+<img src="images/podcast-transitions-transition-clip-example.png" style="width:700px;" alt="example of transition clip">
+
 ## Add outro music to your podcast
+
+1. In Audacity's main menu, select **File > Import > Audio**. **Navigate to your "outro.mp3" file** and select the **"Open" button**. You should now see three tracks: your interview track, the "intro" track, and the "outro" track.
+2. In the "outro" track, use your mouse to click, hold, and drag to **select all but roughly the last 8 seconds of the track**, then **hit delete on the keyboard**—or, in the main menu, select **Edit > Delete**. 
+>**<mark>TIP</mark>**: remember to use [Audacity's zoom feature](https://manual.audacityteam.org/man/zooming.html) as needed to see your tracks more clearly.
+3. Still on the the "outro" track, as you did for the "transition" clip, **add a fade in and a fade out**: in Audacity's main menu, select **Effect > Fading > Fade Out**.
+4. **Drag your "outro" track into position** as needed, so that it lines up the way you want relative to your interview track. 
+5. **Save your Audacity project's file again** if you have not already done so, using CTRL or CMD + S on your keyboard. Or, in Audacity's main menu, select **File > Save**. 
+
+Here is an example of what your Audacity podcast project should look like at this point in the process, with an interview, intro, transition, and outro track:
+
+<img src="images/podcast-transitions-all-tracks.png" style="width:700px;" alt="example of podcast with all tracks">
 
 
 
