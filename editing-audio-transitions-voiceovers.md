@@ -155,10 +155,12 @@ Here are the **steps to adding transition music to your podcast**:
 2. In the waveform of the interview track, click on where you want to split your track. You should see a thin, black line appear where you clicked. This line indicates exactly where your track will be split. 
 3. Right-click with your mouse and select **Split Clip** from the popup menu's options. **Alternatively**, in the main menu, select **Edit > Audio Clips > Split**. You should now see two clips, with one to the left of the split and one to the right. 
 4. Of the two split clips, drag the clip on the right toward the right, so that we can make some silent space for our transition clip to fill. Here is an animation of the whole process to this point: 
+
     <button onclick="toggle('gif6')">Show/Hide Animation</button>
     <div id="gif6">
     <img src="images/podcast-transitions-split-track.gif" style="width:800px;" alt="Audacity track split animation"> 
     </div>
+    
 Now that we have made some space, we will import the music we will use for the transition clip. 
 5. In Audacity's main menu, select **File > Import > Audio**. Then, **navigate to your "transition.mp3" music file** and select the **"Open" button**. This will create another track in Audacity. 
 6. Listen to your "transition" track to find roughly 5-8 seconds of music you would like to use. 
