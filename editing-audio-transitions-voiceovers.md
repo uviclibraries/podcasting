@@ -89,7 +89,7 @@ Here are the **steps to adding intro music to your podcast**:
 
 >**IMPORTANT**: learn to use [Audacity's zoom feature](https://manual.audacityteam.org/man/zooming.html) as needed to see the tracks more clearly.
 
-2. In the "intro" track, use your mouse to click, hold, and drag to **select all but roughly the first 8 seconds of the track**, then hit delete on the keyboard. 
+2. In the "intro" track, use your mouse to click, hold, and drag to **select all but roughly the first 8 seconds of the track**, then **hit delete on the keyboard**—or, in the main menu, select **Edit > Delete**. 
 3. Still on the the "intro" track, use your mouse to click, hold, and drag to **select the last few seconds of the trimmed "intro" track**. Then, in Audacity's main menu, select **Effect > Fading > Fade Out**—just as you did, earlier, in the [Editing and exporting](https://uviclibraries.github.io/podcasting/editing-audio.html) section.
 5. Click on the **Skip to Start** button and then click on the **Play** button to listen to your track(s). <img src="images/podcast-transitions-skip-to-start.png" style="width:500px;" alt="Audacity's skip to start and play buttons"> 
 
@@ -169,61 +169,9 @@ Now that we have made some space, we will import the music we will use for the t
 9. Drag the transition clip into the best position. Remember to use **Edit > Undo** as needed. 
 10. **Save your Audacity project's file again** if you have not already done so, using CTRL or CMD + S on your keyboard. Or, in Audacity's main menu, select **File > Save**. 
 
-
-
-
-
-    <button onclick="toggle('gif2')">Show/Hide Animation </button>
-    <div id="gif2">
-    <img src="images/podcast-transitions-04-2024Oct-3.gif">
-    </div>
-
-4. Create 5 seconds of blank audio into the beginning of your voice track & fade intro music in & out:
-- **Grab** the grey bar at the top of your **voice audio track** and **drag it to the right** about **6-seconds**. 
-<img src="images/selecting-tool.png" style="float:right;width:100px;" alt="selection tool"> 
-- Using the **Selection Tool** (see right) **Select the first 3-seconds** of the **music audio** (the background will turn white), and then on the top menu: **Effect > Fade in**.
-- **Select the last 4-seconds** of the music audio (the background will turn white), and then on the top menu: **Effect > Fade out**.
-- **Copy** and **paste** your music audio to **near the end of the music track** just before where the voice audio track ends (see below).
-![Image of video timeline with copy and paste](images/podcast-transitions-08.png)
-
-    <button onclick="toggle('gif3')">Show/Hide Animation </button>
-    <div id="gif3">
-    <img src="images/podcast-transitions-09-2024Oct-3.gif">
-    </div>
-
-5. Lower the volume of the music intro and playout: <img src="images/podcast-transitions-10.png" style="float:right;width:100px;" alt="white handles"> 
-- The music is a bit loud, so let’s lower the overall volume by **clicking** on the **Envelope Tool** on the top menu (see right).
-- **Select** the **music intro audio track**, then **grab** the **white handle** at the top of the audio wave and **drag it down** so that it looks something like the image to the right.
-- Do the same for the music at the end of the audio track.
-
-    <button onclick="toggle('gif4')">Show/Hide Animation </button>
-    <div id="gif4">
-    <img src="images/podcast-transitions-11-2024Oct-3.gif">
-    </div>
-
-6. Add a music bridge to your podcast: <img src="images/bridging.png" style="float:right;width:100px;" alt="white handles"> 
-    - First **find the region** you want to add a bridge. This could be between two topics in your podcasts, before introducing a new speaker, or when you need suspension, etc.
-    - Put your **cursor** on the region you want to add the bridge in between. **Right click**, and choose **split clip**. This would divide your main track into half.
-    - **Drag** the second part of your track until you make a **blank gap** for the **duration of your bridge**. The duration of the bridge is up to you and could be different for every project, or even between bridges. Let's say you want this bridge to last 8 seconds.
-    - Now that you have a blank region for your bridge, lets add some media (e.g., music). First **add** your desired audio file to a **new track**. You can do this by **dragging and dropping** the MP3 (or any other format) file of your desired audio to audacity. This would create a new track **below your main track**.
-    - **Select** 8 seconds of your audio file that you want to put as your bridge:
-        1. With your mouse, **select** your desired **8 seconds** of the audio file.
-        2. **Right click** on the selected region and choose **split clip**. This would **detach** the selected region from the audio.
-        3. **Delete** the **other parts** that you do not need.
-    - **Drag** the trimmed audio file and situate it exactly **below your gap**.
-    - With your mouse, **drag** the edges of your audio file one at a time, and **extend the edges** until your audio completely **covers the bridge**. The amount of **overlap** between your bridge audio and your main vocal track depends on you. Generally, a **longer overlaps** result in **smoother transitions**.
-    - Now its time for **fading in/out** your bridge audio:
-        1. **Select** the **left side** of your audio up **until** the **left edge of the gap**, then on the top menu: **Effect > Fading > Fade in**.
-        2. **Select** the **right side** of your audio **from** the **right edge of the gap**, then on the top menu: **Effect > Fading > Fade out**.
- 
-    <button onclick="toggle('gif5')">Show/Hide Animation </button>
-    <div id="gif5">
-    <img src="images/audio-bridge-2024Oct.gif">
-    </div>
-
 ## Add outro music to your podcast
 
-[Based on the CC-licensed VCU podcasting guide](https://guides.library.vcu.edu/podcast/editing){:target="_blank"}
+
 
 <script>  
 
