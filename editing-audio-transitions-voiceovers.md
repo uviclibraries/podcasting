@@ -194,16 +194,24 @@ As you learned in the [Exporting your audio in High MP3 quality](https://uviclib
 
 >**NOTE**: remember to select "Mono" in the "Audio options" section of the Export Audio popup: <img src="images/podcast-transitions-select-mono.png" style="width:400px;" alt="select mono in Export Audio options">
 
-Here's a screenshot of my **metadata information** and **file export settings**: 
+Here's a screenshot of my **metadata information**:<br>
+<img src="images/podcast-transitions-metadata-example.png" style="width:600px;" alt="Audacity metadata example">
 
+And, my **file export settings**:<br> 
+<img src="images/podcast-transitions-export-example.png.png" style="width:600px;" alt="Audacity export example">
+<br>
+**Congratulations 🎉!** 
 
+You have now created your first basic podcast, with fades and music. 
 
+We have some options for what to do next... 
 
 ## Next steps
 
-You have now created your first basic podcast interview, with fades and music. Congratulations 🎉! 
 
-Where you go from here is up to you... 
+
+
+ 
 
 
 
