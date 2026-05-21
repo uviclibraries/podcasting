@@ -186,6 +186,19 @@ Here is what my Audacity podcast project looks like at this point in the process
 
 <img src="images/podcast-transitions-all-tracks.png" style="width:700px;" alt="example of podcast with all tracks">
 
+## Export your podcast to an MP3 file
+
+Now it's showtime! <span style='font-size:50px;'>&#127897;</span>
+
+As you learned in the [Exporting your audio in High MP3 quality](https://uviclibraries.github.io/podcasting/editing-audio.html#exporting-your-audio-in-high-mp3-quality) section, export your podcast as an MP3 file. 
+
+>**NOTE**: remember to select "Mono" in the "Audio options" section of the Export Audio popup: <img src="images/podcast-transitions-select-mono.png" style="width:400px;" alt="select mono in Export Audio options">
+
+Here's a screenshot of my **metadata information** and **file export settings**: 
+
+
+
+
 ## Next steps
 
 You have now created your first basic podcast interview, with fades and music. Congratulations 🎉! 
