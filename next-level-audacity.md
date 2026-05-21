@@ -17,7 +17,7 @@ We have curated this list to appeal to beginners, but, where appropriate we will
 
 # Audacity troubleshooting
 
-## Installing FFMPEG
+## Installing FFmpeg
 
 Depending on what type of files you import or export in Audacity, and your version of Audacity, you _might_ be prompted by Audacity to install a software suite call [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg). 
 
