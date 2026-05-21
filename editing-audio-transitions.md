@@ -211,11 +211,11 @@ We have some options for what to do next...
 
 From here, you can choose your own podcast adventure: 
 
-- move on to the [Remote Interviews with Zoom](https://uviclibraries.github.io/podcasting/recording-remote-interviews.html) section if you are using Zoom as part of your eventual process. 
-- get some advice on publishing your podcast in the [Publishing Single Audio Interviews](https://uviclibraries.github.io/podcasting/publishing-single-audio-interviews.html), if you intend to make only one or a couple of episodes. 
+- move on to the [Remote Interviews with Zoom](https://uviclibraries.github.io/podcasting/recording-remote-interviews.html) page if you are using Zoom as part of your eventual process. 
+- get some advice on publishing your podcast on the [Publishing Single Audio Interviews](https://uviclibraries.github.io/podcasting/publishing-single-audio-interviews.html) page, if you intend to make only one or a couple of episodes. 
 - check out the [Publishing & Promotion for Ongoing Podcasts](https://uviclibraries.github.io/podcasting/publishing.html) for advice on publishing a serial, or multi-season podcast series.
-- or, build on the skills you have learned to fine-tune your Audacity and audio-production chops in the 
-- finally, head to the [Planning and Tips](https://uviclibraries.github.io/podcasting/planning-tips.html) area for more podcast resources. 
+- or, build on the skills you have learned to fine-tune your Audacity and audio-production chops in the [Next Level Audacity Tips](https://uviclibraries.github.io/podcasting/next-level-audacity.html) page. 
+- finally, head to the [Planning and Tips](https://uviclibraries.github.io/podcasting/planning-tips.html) section for more podcast resources. 
 
 
 <script>  
