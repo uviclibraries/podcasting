@@ -182,13 +182,13 @@ Here is an example of my transition music trimmed and faded in/out.<br>
 4. **Drag your "outro" track into position** as needed, so that it lines up the way you want, relative to your interview track. 
 5. **Save your Audacity project's file again** if you have not already done so, using CTRL or CMD + S on your keyboard. Or, in Audacity's main menu, select **File > Save**. 
 
-Here is what my Audacity podcast project looks like at this point in the process, with an interview, intro, transition, and outro track. Yours might not look exactly the same, depending on where you placed your music tracks: 
+Here is what my Audacity podcast project looks like at this point in the process, with interview, intro, transition, and outro tracks. Yours might not look exactly the same, depending on where you placed your music tracks: 
 
 <img src="images/podcast-transitions-all-tracks.png" style="width:700px;" alt="example of podcast with all tracks">
 
 ## Export your podcast to an MP3 file
 
-Now it's showtime! <span style='font-size:50px;'>&#127897;</span>
+<span style='font-size:50px;'>&#127897;</span> Now, it's showtime! 
 
 As you learned in the [Exporting your audio in High MP3 quality](https://uviclibraries.github.io/podcasting/editing-audio.html#exporting-your-audio-in-high-mp3-quality) section, export your podcast as an MP3 file. 
 
@@ -198,8 +198,9 @@ Here's a screenshot of my **metadata information**:<br>
 <img src="images/podcast-transitions-metadata-example.png" style="width:600px;" alt="Audacity metadata example">
 
 And, my **file export settings**:<br> 
-<img src="images/podcast-transitions-export-example.png.png" style="width:600px;" alt="Audacity export example">
-<br>
+<img src="images/podcast-transitions-export-example.png" style="width:600px;" alt="Audacity export example">
+<br><br>
+
 **Congratulations 🎉!** 
 
 You have now created your first basic podcast, with fades and music. 
@@ -208,15 +209,13 @@ We have some options for what to do next...
 
 ## Next steps
 
+From here, you can choose your own podcast adventure: 
 
-
-
- 
-
-
-
-
-
+- move on to the [Remote Interviews with Zoom](https://uviclibraries.github.io/podcasting/recording-remote-interviews.html) section if you are using Zoom as part of your eventual process. 
+- get some advice on publishing your podcast in the [Publishing Single Audio Interviews](https://uviclibraries.github.io/podcasting/publishing-single-audio-interviews.html), if you intend to make only one or a couple of episodes. 
+- check out the [Publishing & Promotion for Ongoing Podcasts](https://uviclibraries.github.io/podcasting/publishing.html) for advice on publishing a serial, or multi-season podcast series.
+- or, build on the skills you have learned to fine-tune your Audacity and audio-production chops in the 
+- finally, head to the [Planning and Tips](https://uviclibraries.github.io/podcasting/planning-tips.html) area for more podcast resources. 
 
 
 <script>  
@@ -230,7 +229,5 @@ We have some options for what to do next...
         }
     }
 </script>
-
-[Installing FFMPEG](ffmpeg.html){: .btn .btn-green }
 
 [NEXT STEP: Recording Remote Interviews using Zoom](recording-remote-interviews.html){: .btn .btn-blue }
