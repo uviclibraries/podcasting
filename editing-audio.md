@@ -122,7 +122,7 @@ Here are the steps for exporting your audio track:
     - **File Name**: choose as simple a name as possible. Note that the ".mp3" file extension, or suffix, will be automatically applied. 
     - **Folder**: this is where on your computer that your exported file will be save. Use the "Browse..." button as needed to change the file-save location.  
     - **Format**: the default should be "MP3 Files." If not, then select "MP3 FIles" from the menu. 
-    - **Audio options**: in the "Channels" options, be sure that "Mono" is selected. Leave all the other settings alone. 
+    - **Audio options**: in the "Channels" options, **be sure that "Mono" is selected**. Leave all the other settings alone. 
     - **Export Range**: be sure that "Entire Project" is selected. Leave the "Trim blank space before first clip" de-selected. 
 
     You will have a different file name and file path, but here is an image of the settings you should see in the "Export Audio" window before you export your file:<br>
