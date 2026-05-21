@@ -19,7 +19,7 @@ We have curated this list to appeal to beginners, but, where appropriate we will
 
 ## Installing FFmpeg
 
-Depending on what type of files you import or export in Audacity, and your version of Audacity, you _might_ be prompted by Audacity to install a software suite call [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg). 
+Depending on what type of audio files you import or export in Audacity (and your version of Audacity), you might be prompted by Audacity to install a software suite called [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg). 
 
 Bascially, FFmpeg allows you to work with a variety of audio file types not already handled by Audacity by default. In other words, you will be able to import and export pretty much any file type you would ever need to if you have FFmpeg installed.  
 
