@@ -5,35 +5,55 @@ nav_order: 6
 parent: Workshop Activities
 ---
 <img src="images/podcast-zoom-01.png" style="float:right;width:180px;" alt="zoom logo"> 
+
 # Recording Remote Interviews using Zoom
-Many podcasters use Zoom.us to record their sessions if the co-host or interviewee is not in the same location. Zoom gives you higher audio quality than you’ll get on a regular phone call and in addition, you can have calls with multiple people at once.
 
-If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+Many podcasters use Zoom.us to record their sessions if the co-host or interviewee is not in the same location. Zoom gives you higher audio quality than you’ll get on a regular phone call, and it allows you to make calls with multiple people at once.
 
-1. Key Zoom limitation & features of the free version:
-- 40-minute limit on meetings & recordings with 3 or more participants.
-- As a UVic student, you have access to the paid version by logging on to Zoom via [https://uvic.zoom.us](https://uvic.zoom.us){:target="_blank"} 
-   - No time limit on 1 to 1 meetings & recordings.
-   - Host recordings of up to 100 participants.
-   - Record audio, video, and desktop sharing.
+If you are doing this as an in-person workshop, please ask the instructor for assistance if you get stuck on any of the follwing steps.  
 
-2. Log into Zoom one of two ways:
-- Using your UVic credentials. Make sure to click on the SSO button if you want to use your UVic credentials and have access to paid features: [Zoom Login](https://zoom.us/signin)
-- Go to the [Zoom.us](https://uvic.zoom.us){:target="_blank"} website and click on the blue **SIGNUP, IT’S FREE** button on the top right.
+## Zoom free vs paid
 
-3. Setting up Zoom: <img src="images/podcast-zoom-02.png" style="float:right;width:250px;" alt="zoom menu drop down under host a meeting"> 
-- On the main Zoom.us webpage, click on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
-- If this is your first Zoom meeting, you will be prompted to **download** and **install** a small program. 
-- You will then be asked if you want to join a meeting. Press the **Cancel** button.
-- **Enter** the **email address** of the person you want to interview, and **press** the **I’m not a robot** checkbox, then **press** the orange **Invite** button. This will send an invite to them to joint Zoom which they will have to accept.
-- Once the interviewee has accepted the invite and created a Zoom account, or logged on to their existing zoom account, you can then invite them to a “meeting” where you can record your interview with them.
+Zoom saves some of its features for the paid versions, but with the free version, here are the relevant features and limits for audio recordings: 
 
-4. Zoom Settings for Interviews: <img src="images/podcast-zoom-03.png" style="float:right;width:220px;" alt="zoom preferences"> 
-- Open the Zoom client and click Settings (or Zoom -> Preferences on the top menu of a Mac).
-- Click the Recording tab on the left.
+- meetings are capped at 40 minutes in duration
+- host up to 100 participants
+- no cloud storage, so ensure that you have enough local (on your own computer) storage prior to recording
+
+For most podcasters, the free verion of Zoom will suffice. You can work around the free versions's time limit by logging off after 40 minutes and restarting the meeting. But, if you need to assign co-hosts, or "break out rooms," then you will need the paid version.  
+
+See the [Zoom.us pricing page](https://zoom.us/pricing) for more information on the different versions. 
+
+To download Zoom, go to the [Zoom.us](https://uvic.zoom.us) website and click on the blue **Sign Up Free** button on the top right of the window.
+
+>**NOTE** that **current UVic students and staff have access to the paid version of Zoom**. To access the paid version, you must **login using the "SSO" button**. From there, you will asked for yout **Netlink ID and password** to complete the login. <img src="images/podcast-zoom-sso-button.png" style="400px;" alt="Zoom SSO button location"> 
+
+## Setting up Zoom 
+<img src="images/podcast-zoom-02.png" style="float:right;width:250px;" alt="zoom menu drop down under host a meeting"> 
+
+Once you have Zoom installed, you will need to get things setup. 
+
+1. On the main Zoom.us webpage, click on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
+>**NOTE**: If this is your first Zoom meeting, you will be prompted to **download** and **install** a small program. 
+You will then be asked if you want to join a meeting. Press the **Cancel** button.
+2. **Enter** the **email address** of the person you want to interview, and **press** the **I’m not a robot** checkbox, then **press** the orange **Invite** button. This will send an invite to your interviewee to join the Zoom meeting, which they will have to accept.
+
+Once the interviewee has accepted the invite, and created a Zoom account (or logged on to their existing zoom account), you can then invite them to a “meeting,” where you can record your interview with them.
+
+## Zoom settings for interviews
+<img src="images/podcast-zoom-03.png" style="float:right;width:220px;" alt="zoom preferences"> 
+
+Before you begin your interview, you can walk through these steps to get things setup to record. 
+
+**These steps assume that you have the Zoom application already installed**.  
+
+1. On your computer, **open the Zoom app** and sign in.
+2. **Click your profile picture**, then click **Settings**. Or, in Zoom versions 6.7.0 and higher, click on the gear icon at the bottom of the left menu (in the Zoom dashboard window). [stopped here]
+3. Click the "Recording" tab on the left of the Settings window.
 - Enable Record a separate audio file for each participant.
 ![Image of zoom settings](images/podcast-zoom-04.png)
-5. Interviewing with Zoom:
+
+## Interviewing with Zoom
 - On the main Zoom.us webpage, **click** on the **HOST A MEETING** drop down box on the top right of the web page, and then select, **With Video On**.
 - A popup box will appear with the title **Open zoom.us**. **Click** on the Open **zoom.us** button. This launches the Zoom program on your computer with your laptop’s camera turned on. <img src="images/podcast-zoom-05.png" style="float:right;width:260px;" alt="invite participats button"> 
 - **Click** on the **Invite** button at the bottom of the window, and then **click** on the **Copy URL** text on the bottom left of the screen.
