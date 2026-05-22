@@ -26,7 +26,7 @@ See the [Zoom.us pricing page](https://zoom.us/pricing) for more information on 
 
 To download Zoom, go to the [Zoom.us](https://uvic.zoom.us) website and click on the blue **Sign Up Free** button on the top right of the window.
 
->**NOTE** that **current UVic students and staff have access to the paid version of Zoom**. To access the paid version, you must **login using the "SSO" button**. From there, you will asked for yout **Netlink ID and password** to complete the login. <img src="images/podcast-zoom-sso-button.png" style="400px;" alt="Zoom SSO button location"> 
+>**NOTE** that **current UVic students and staff have access to the paid version of Zoom**. To access the paid version, you must **login using the "SSO" button**. From there, you will asked for yout **Netlink ID and password** to complete the login. <img src="images/podcast-zoom-sso-button.png" style="width:400px;" alt="Zoom SSO button location"> 
 
 ## Setting up Zoom 
 <img src="images/podcast-zoom-02.png" style="float:right;width:250px;" alt="zoom menu drop down under host a meeting"> 
