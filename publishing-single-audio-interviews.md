@@ -22,9 +22,7 @@ Here's a **list of hosting options**:
 
 3. **UVic webspace**: this **applies to University of Victoria students and employees, only**. You could create a web page to which you publish your audio file(s). See UVic's [Self-serve web hosting](https://www.uvic.ca/systems/services/pages/web-hosting.php) page for details. 
 
-Finally, the world of podcasting and podcast hosting changes constantly. 
-
-As of this writing, podcasters are using [YouTube](https://www.youtube.com/) (free), [Buzzsprout](https://www.buzzsprout.com/blog/how-to-start-a-podcast) (paid), [Spotify for Creators](https://creators.spotify.com/features/podcast) (free), and others. 
+The world of podcasting and podcast hosting changes constantly. As of this writing, podcasters are using [YouTube](https://www.youtube.com/) (free), [Buzzsprout](https://www.buzzsprout.com/blog/how-to-start-a-podcast) (paid), [Spotify for Creators](https://creators.spotify.com/features/podcast) (free), and others. 
 
 So, if you are not happy with the above suggestions, know that other options exist. Do some research, and be sure to read user reviews for each service.  
 
