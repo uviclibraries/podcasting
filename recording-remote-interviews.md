@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 <img src="images/podcast-zoom-01.png" style="float:right;width:180px;" alt="zoom logo"> 
 
-# Recording Remote Interviews using Zoom
+# Recording remote interviews using Zoom
 
 Many podcasters use Zoom.us to record their sessions if the co-host or interviewee is not in the same location. Zoom gives you higher audio quality than you’ll get on a regular phone call, and it allows you to make calls with multiple people at once.
 
@@ -67,7 +67,7 @@ Advanced settings:
 - Once everything sounds good in Zoom, start your interview proper, and officially welcome your guest. 
 - You can always edit out the introduction where you are getting everything set up, but you never know, you might record something interesting with your interviewee while taking care of pre-podcast technical details.
 
-## Ending the interview & importing the interview audio into Audacity 
+## Ending interviews and importing interview audio into Audacity 
 <img src="images/podcast-zoom-07.png" style="float:right;width:200px;" alt="recording text button"> 
 
 1. To end the recording of the interview **mouse over** the **Recording** text on the top left of the Zoom screen (see right) and then **press** the white square **stop icon**.
