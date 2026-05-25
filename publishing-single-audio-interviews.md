@@ -14,11 +14,11 @@ Here's a **list of hosting options**:
 
 1. **[Soundcloud](https://soundcloud.com/)**: many podcasters choose to store their podcasts on Soundcloud. **NOTE** that a free Soundcloud account has limits on storage space, but it is a good place to start. You can always upgrade to a pro account, later.  
 
-If you feel like Soundcloud could work for you, then you can [create a Soundcloud account](https://soundcloud.com/signin?redirect_url=/artists). Then, check out the [Soundcloud for Artists site](https://soundcloud.com/getstarted/home). 
+  If you feel like Soundcloud could work for you, then you can [create a Soundcloud account](https://soundcloud.com/signin?redirect_url=/artists). Then, check out the [Soundcloud for Artists site](https://soundcloud.com/getstarted/home). 
 
 2. **[GitHub](https://github.com/)**: normally a service for open source software development projects, you can use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) to create a basic website for free. Then, you could upload your podcast files(s) to that website. 
 
-We have a tutorial called [Publish Your Twine Story or HTML Files on the Web Using GitHub Pages](https://uviclibraries.github.io/twine/github.html). Although these instructions apply to creating your own "Twine Story" website, the process is the same for any GitHub Pages site creation. 
+  We have a tutorial called [Publish Your Twine Story or HTML Files on the Web Using GitHub Pages](https://uviclibraries.github.io/twine/github.html). Although these instructions apply to creating your own "Twine Story" website, the process is the same for any GitHub Pages site creation. 
 
 3. **UVic webspace**: this **applies to University of Victoria students and employees, only**. You could create a web page to which you publish your audio file(s). See UVic's [Self-serve web hosting](https://www.uvic.ca/systems/services/pages/web-hosting.php) page for details. 
 
