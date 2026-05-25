@@ -38,7 +38,7 @@ Before you record your interview, you need to setup some things in Zoom.
 2. **Click your profile picture**, then click **Settings**. Or, in Zoom versions 6.7.0 and higher, click on the gear icon at the bottom of the left menu (in the Zoom dashboard window).
 3. **Click on the "Recording" tab** on the left of the Settings window.
 4. In the Recording settings, confirm or select your **filepath**. This will set the location of your stored recordings. 
-   ><mark>**TIP**</mark>: we recommend that you toggle on the "Select local storage..." switch. Doing so will ensure, once your call finishes, that a pop-up window will appear to ask you to specify a folder location to store your recording.
+   >**TIP**: we recommend that you toggle on the "Select local storage..." switch. Doing so will ensure, once your call finishes, that a pop-up window will appear to ask you to specify a folder location to store your recording.
 5. Click on the "Advanced" settings button. 
 6. In Advanced settings, toggle on the "Enable Record a separate audio file for each participant" switch.
 
