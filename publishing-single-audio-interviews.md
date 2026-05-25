@@ -5,24 +5,29 @@ nav_order: 7
 parent: Workshop Activities
 ---
 <img src="images/single-audio.png" style="float:right;width:180px;" alt="soundcloud logo">
-# Publishing Single Audio Interviews
-When your podcast is completed, you need a place to host your episodes. Media hosts are services that store your audio and allow your listeners to listen and download.
 
-If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+# Publishing single audio interviews
 
-1. Many podcasters choose to store their podcasts on **Soundcloud**. 
-- A free account has limits on storage space but is a good place to start - you can always upgrade to a Pro account. 
-- Check out notes from Soundcloud about uploading an [audio file](http://bit.ly/35zNY6J){:target="_blank"} 
+When your podcast is complete, you will need a place to host your episodes. Media hosts are services that store your content, including audio files (podcasts), and that allow  listeners to listen or watch, and download your content.
 
-2. A great place to host audio files (and website) for free is [GitHub.com](https://uviclibraries.github.io/twine/github.html){:target="_blank"} 
+Here's a **list of hosting options**:
 
-3. You can also publish your audio file to your **personal UVic webspace**:
-- [Create your personal UVic website](http://bit.ly/2QRZoQ){:target="_blank"} 
-- [Upload your MP3 audio file to your webspace](http://bit.ly/2qJdPd){:target="_blank"} 
-- Promote the URL for your audio file.<br>
+1. **[Soundcloud](https://soundcloud.com/)**: many podcasters choose to store their podcasts on Soundcloud. **NOTE** that a free Soundcloud account has limits on storage space, but it is a good place to start. You can always upgrade to a pro account, later.  
 
-Great Job!<br>
+If you feel like Soundcloud could work for you, then you can [create a Soundcloud account](https://soundcloud.com/signin?redirect_url=/artists). Then, check out the [Soundcloud for Artists site](https://soundcloud.com/getstarted/home). 
 
-[Based on the CC-licensed VCU podcasting guide](https://guides.library.vcu.edu/podcast/editing){:target="_blank"}<br>
+2. **[GitHub](https://github.com/)**: normally a service for open source software development projects, you can use [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages) to create a basic website for free. Then, you could upload your podcast files(s) to that website. 
+
+We have a tutorial called [Publish Your Twine Story or HTML Files on the Web Using GitHub Pages](https://uviclibraries.github.io/twine/github.html). Although these instructions apply to creating your own "Twine Story" website, the process is the same for any GitHub Pages site creation. 
+
+3. **UVic webspace**: this **applies to University of Victoria students and employees, only**. You could create a web page to which you publish your audio file(s). See UVic's [Self-serve web hosting](https://www.uvic.ca/systems/services/pages/web-hosting.php) page for details. 
+
+Finally, the world of podcasting and podcast hosting changes constantly. 
+
+As of this writing, podcasters are using [YouTube](https://www.youtube.com/) (free), [Buzzsprout](https://www.buzzsprout.com/blog/how-to-start-a-podcast) (paid), [Spotify for Creators](https://creators.spotify.com/features/podcast) (free), and others. 
+
+So, if you are not happy with the above suggestions, know that other options exist. Do some research, and be sure to read user reviews for each service.  
+
+Good luck and happy podcasting! 
 
 [NEXT STEP: Publishing & Promotion for ongoing podcasts](publishing.html){: .btn .btn-blue }
