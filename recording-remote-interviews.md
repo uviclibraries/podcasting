@@ -26,7 +26,7 @@ See the [Zoom.us pricing page](https://zoom.us/pricing) for more information on 
 
 To download Zoom, go to the [Zoom.us](https://uvic.zoom.us) website and click on the blue **Sign Up Free** button on the top right of the window.
 
->**NOTE** that **current UVic students and staff have access to the paid version of Zoom**. To access the paid version, you must **login using the "SSO" button**. From there, you will asked for yout **Netlink ID and password** to complete the login. <img src="images/podcast-zoom-sso-button.png" style="400px;" alt="Zoom SSO button location"> 
+>**NOTE** that **current UVic students and staff have access to the paid version of Zoom**. To access the paid version, you must **login using the "SSO" button**. From there, you will asked for yout **Netlink ID and password** to complete the login. <img src="images/podcast-zoom-sso-button.png" style="300px;" alt="Zoom SSO button location"> 
 
 ## Zoom settings for interviews
 
@@ -38,17 +38,17 @@ Before you record your interview, you need to setup some things in Zoom.
 2. **Click your profile picture**, then click **Settings**. Or, in Zoom versions 6.7.0 and higher, click on the gear icon at the bottom of the left menu (in the Zoom dashboard window).
 3. **Click on the "Recording" tab** on the left of the Settings window.
 4. In the Recording settings, confirm or select your **filepath**. This will set the location of your stored recordings. 
-><mark>**TIP**</mark>: we recommend that you toggle on the "Select local storage..." switch. Doing so will ensure, once your call finishes, that a pop-up window will appear to ask you to specify a folder location to store your recording.
+   ><mark>**TIP**</mark>: we recommend that you toggle on the "Select local storage..." switch. Doing so will ensure, once your call finishes, that a pop-up window will appear to ask you to specify a folder location to store your recording.
 5. Click on the "Advanced" settings button. 
 6. In Advanced settings, toggle on the "Enable Record a separate audio file for each participant" switch.
 
 Here's a visual walk-through of the above steps. Note that these images are from Zoom installed on a Mac computer: 
 
-<img src="images/podcast-zoom-settings-01.png" style="width:600px;" alt="Zoom preferences part 1"> 
+<img src="images/podcast-zoom-settings-01.png" style="width:700px;" alt="Zoom preferences part 1"> 
 
 Advanced settings: 
 
-<img src="images/podcast-zoom-settings-02.png" style="width:600px;" alt="Zoom preferences part 1"> 
+<img src="images/podcast-zoom-settings-02.png" style="width:700px;" alt="Zoom preferences part 1"> 
 
 
 ## Interviewing with Zoom
