@@ -33,9 +33,11 @@ Here are some basic ways to promote your podcast content.
 
 3. **MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo"> Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
 
-   Make sure to mention your mailing list in each podcast episode and on your podcast website. <img src="images/podcast-publishing-07.png" style="float:right;width:220px;" alt="people podcasting"> 
+   Make sure to mention your mailing list in each podcast episode and on your podcast website.  
 
-4. **Be a guest on other related podcasts**: ask friends or other podcasters with related podcasts to be a guest, and use that opportunity to mention your podcast. Typically, the host of the podcast will include your podcast name as they introduce you (photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/podcast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)).
+4. **Be a guest on other related podcasts**: ask friends or other podcasters with related podcasts to be a guest, and use that opportunity to mention your podcast. <img src="images/podcast-publishing-07.png" style="float:right;width:220px;" alt="people podcasting">
+
+    Typically, the host of the podcast will include your podcast name as they introduce you (photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/podcast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)).
 
 
 ## Final tips
