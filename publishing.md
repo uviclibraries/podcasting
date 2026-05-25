@@ -25,7 +25,7 @@ Here are some basic ways to promote your podcast content.
 
     A WordPress website, for example, gives you flexibility over both how your podcast website looks and how many pages it has. 
 
->**NOTE**: you can always **attend a Digital Scholarship Commons Wordpress workshop** to get some help getting started. See our [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops)
+    >**NOTE**: you can always **attend a Digital Scholarship Commons Wordpress workshop** to get some help getting started. See our [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops)
 
 2. **Social Media**: sites like Instagram, Bluesky, Facebook,  etc. are useful to get the word, depending on your target audience. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas on which to focus your efforts. 
 
