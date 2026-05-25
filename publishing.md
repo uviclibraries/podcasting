@@ -23,17 +23,17 @@ Here are some basic ways to promote your podcast content.
 
 1. **Podcast website**: use a platform like [WordPress](https://wordpress.com/), [Substack](https://substack.com/), or [Beehiiv](https://www.beehiiv.com/) to write about and promote your work.
 
-A WordPress website, for example, gives you flexibility over both how your podcast website looks and how many pages it has. 
+        A WordPress website, for example, gives you flexibility over both how your podcast website looks and how many pages it has. 
 
 >**NOTE**: you can always **attend a Digital Scholarship Commons Wordpress workshop** to get some help getting started. See our [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops)
 
 2. **Social Media**: sites like Instagram, Bluesky, Facebook,  etc. are useful to get the word, depending on your target audience. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas on which to focus your efforts. 
 
-Create images and clips, and share quotes that listeners can share on social media. For example, [Spotify for Creators](https://creators.spotify.com/){:target="_blank"} has a tool that helps you create short video and audio clips to share.
+        Create images and clips, and share quotes that listeners can share on social media. For example, [Spotify for Creators](https://creators.spotify.com/){:target="_blank"} has a tool that helps you create short video and audio clips to share.
 
 3. **MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo"> Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
 
-Make sure to mention your mailing list in each podcast episode and on your podcast website. <img src="images/podcast-publishing-07.png" style="float:right;width:220px;" alt="people podcasting"> 
+        Make sure to mention your mailing list in each podcast episode and on your podcast website. <img src="images/podcast-publishing-07.png" style="float:right;width:220px;" alt="people podcasting"> 
 
 4. **Be a guest on other related podcasts**: ask friends or other podcasters with related podcasts to be a guest, and use that opportunity to mention your podcast. Typically, the host of the podcast will include your podcast name as they introduce you (photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/podcast?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)).
 
