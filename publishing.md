@@ -30,8 +30,8 @@ Here are some basic ways to promote your podcast content.
 2. **Social Media**: sites like Instagram, Bluesky, Facebook,  etc. are useful to get the word, depending on your target audience. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas on which to focus your efforts. 
 
    Create images and clips, and share quotes that listeners can share on social media. For example, [Spotify for Creators](https://creators.spotify.com/) has a tool that helps you create short, shareable video and audio clips.
-
-3. <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo">**MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
+<img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo">
+3. **MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
 
    Make sure to mention your mailing list in each podcast episode and on your podcast website.  
 
