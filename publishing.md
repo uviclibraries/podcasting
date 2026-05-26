@@ -25,13 +25,13 @@ Here are some basic ways to promote your podcast content.
 
     A WordPress website, for example, gives you flexibility over both how your podcast website looks and how many pages it has. 
 
-    >**NOTE**: you can always **attend a Digital Scholarship Commons Wordpress workshop** to get some help getting started. See our [Access Digital Scholarship Workshops here](http://bit.ly/dsc-workshops)
+    >**NOTE**: we offer a workshop called Personal websites with WordPress. See our [Digital Scholarship Commons Workshops page](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/digital-scholarship-commons/index.php#ipn-workshops) for more information on this and the other digital-skills workshops we offer.
 
 2. **Social Media**: sites like Instagram, Bluesky, Facebook,  etc. are useful to get the word, depending on your target audience. If there are specific hashtags or groups focused on the topic of your podcast, those would be good areas on which to focus your efforts. 
 
-   Create images and clips, and share quotes that listeners can share on social media. For example, [Spotify for Creators](https://creators.spotify.com/){:target="_blank"} has a tool that helps you create short video and audio clips to share.
+   Create images and clips, and share quotes that listeners can share on social media. For example, [Spotify for Creators](https://creators.spotify.com/) has a tool that helps you create short, shareable video and audio clips.
 
-3. **MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo"> Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
+3. <img src="images/podcast-publishing-06.png" style="float:right;width:200px;" alt="mailchip logo">**MailChimp**: create an **email List** using [MailChimp](https://mailchimp.com/). Fans of your podcast who are _not_ on social media may want to hear from you directly about new episodes.
 
    Make sure to mention your mailing list in each podcast episode and on your podcast website.  
 
