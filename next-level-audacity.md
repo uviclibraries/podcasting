@@ -95,14 +95,9 @@ For the purposes of this demonstration, we will apply the Compressor effect to a
 5. Assuming that you are happy with the results, **click on the Apply button** to complete your changes. 
 
 
-**Tips**: 
+**Tips**: assuming that you are working with spoken word voice tracks from your podcast interview(s), try other Compressor Factory Presets to see if they work better for you. For example, Audacity has **Vocal Touch-Up** and **Voice Memos Balancer**, which might work well for spoken word recordings.  
 
 **More info**: see the [Audacity Manual page on Compressor](https://manual.audacityteam.org/man/compressor.html) for more details. Using compression is a huge subject with many varied opinions, but if you want to play with the finer points of the process in Audacity, see their [Reducing dynamic range (Compressor / Limiter) Support page](https://support.audacityteam.org/audio-editing/reducing-dynamic-range-compressor-limiter). 
-
-## Beyond the Audacity basics
-
-For those that wish to refine their sound even more, here's a list of other Audacity features to investigate: 
-
 
 
 # Audacity troubleshooting
