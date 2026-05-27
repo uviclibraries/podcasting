@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 This section is our Audacity tips and troubleshooting guide. It is intended for folks who have some practice with the basics of working in Audacity, as described in the [Podcast recording with Audacity workshop](https://uviclibraries.github.io/podcasting/recording-audio.html) and who want to learn more tricks and tips to improve audio quality, or level-up their Audacity skills a little more.  
 
-We have curated this list to appeal to beginners. Where helpful, we provide links to [Audacity's Manual](https://manual.audacityteam.org/index.html) pages, and other resources, for those wishing to dive deeper into certain Audacity features. 
+We have curated this list to appeal to beginners. Where helpful, we provide links to [Audacity's Manual](https://manual.audacityteam.org/index.html) pages, for those wishing to dive deeper into certain Audacity features. 
 
 # Audacity tips
 
@@ -40,15 +40,13 @@ In overall terms, we first have to teach Noise Reduction tool to identify the no
 
 **Tips**: remember to use CTRL/CMD + Z to undo any unwanted changes. Closing Audacity will remove the saved Get Noise Profile. So, if you need to start again, and get a new noise profile, save your project, close Audacity, and reopen it. 
 
-See the [Audacity Manual page on Noise Reduction](https://manual.audacityteam.org/man/noise_reduction.html) for more details.
+**More info**: see the [Audacity Manual page on Noise Reduction](https://manual.audacityteam.org/man/noise_reduction.html) for more details.
 
 ## Normalize
 
-**Purpose**: The Normalize effect, among other things, sets the same peak amplitude (volume) within a track, or selection of a track. Think of it as "regularizing" the loud and quiet sections within an audio track. 
+**Purpose**: The Normalize effect, among other things, sets the same peak amplitude (volume) within a track, or selection of a track. You can apply this effect to multiple tracks (or all your tracks) to make sure that they all have the same peak level. 
 
-This effect is different than [Amplify](https://manual.audacityteam.org/man/amplify.html), and is very helpful in cases where you have, for example, conducted an interview with someone who speaks inconsistently: they are quiet sometimes, then suddenly loud for a while, but throughout the whole recording. 
-
-Or, maybe both you and the interviewee burst out laughing, which created a spike in volume that you want to reduce, relative to the rest of the track.  
+This effect is different than [Amplify](https://manual.audacityteam.org/man/amplify.html), and is very helpful in cases where you have, for example, multiple interview and music tracks, each with their own amplification levels (loudness), and you want them to all have the same peak levels.   
 
 **Menu location**: Effect > Volume and Compression > Normalize...
 
@@ -59,15 +57,53 @@ For this **example**, we will use a **selection of a mono audio track** that is 
 The goal is to make sure that this section of audio sounds similar to the rest, and to make sure that it does not [clip](https://en.wikipedia.org/wiki/Clipping_(audio)), or be so loud as to be distorted.
 
 1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of loud audio**. 
-2. In Audacity's main menu, select Effect > Volume and Compression > **Normalize**. You will see the Normalize popup. 
+2. In Audacity's main menu, **select Effect > Volume and Compression > Normalize**. You will see the Normalize popup. 
 3. **Leave the default settings** alone and click on the **Apply** button. Here is an image of the process: <br><img src="images/audacity-nextlevel-normalize-process.png" style="width:700px;" alt="Audacity normalize process"><br> And here is an image of the results on the selected audio. Notice how the clip we selected has peaks much closer to the audio on either side of it: <img src="images/audacity-nextlevel-normalize-result.png" style="width:700px;" alt="Audacity normalize result">
 
 **Tips**: you can apply Normalize to an entire clip (mono or stereo) by double-clicking anywhere in the track to select it (the track will have a blue overlay to show it is selected), and applying Normalize. 
 
-Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This approach can be helpful in cases where you want to preserve the relative balance of levels in each track independently.<br>
+Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This option can be helpful when you want to preserve the relative balance of levels in each track independently.<br>
 <img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:500px;" alt="Audacity normalize stereo option">
 
-See the [Audacity Manual page on Normalize](https://manual.audacityteam.org/man/normalize.html) for more details. 
+**More info**: see the [Audacity Manual page on Normalize](https://manual.audacityteam.org/man/normalize.html) for more details. See also Audacity's [Amplify and Normalize](https://manual.audacityteam.org/man/amplify_and_normalize.html) guide for the differences between Amplify and Normalize, and ideal times to use each. 
+
+## Compressor
+
+The Compressor compression effect literally "compresses" the dynamic range (the differences between loud and quiet/low and high amplification) of audio. Put another way, **it brings the loud and the quiet parts of a track closer together**. 
+
+This effect can be useful in interview audio tracks that have a mix of quiet and loud parts. Were you to use the Amplify effect on the track to hear the quiet parts better, you might force the louder parts to [clip](https://en.wikipedia.org/wiki/Clipping_(audio)), or be so loud as to be distorted. 
+
+Using the Compressor effect will press the loud parts down and lift the quiet parts up, so that the next time you apply Amplify, the whole track can be amplified without the same risk of clipping. 
+
+Finally, compression, as an effect on vocals, **tends to make  voices sound "closer" to the mic, or more rich and full of depth**. A classic example of compression used in popular music is the way Thom Yorke's vocals sound in _Radiohead_. 
+
+As with all effects, **overdoing it can have strange and unwanted consequences**. So, for the purposes of this tutorial, we will use one of Audacity's built-in presets.  
+
+
+**Menu location**: Effect > Volume and Compression > Compressor...
+
+### How to use Compressor 
+
+For the purposes of this demonstration, we will apply the Compressor effect to an entire mono audio track (and interview recording). 
+
+1. Double-click anywhere in the track to select it (the track will have a blue overlay to show it is selected). 
+2. In Audacity's main menu, **select Effect > Volume and Compression > Compressor**. You will see the Compressor popup. 
+3. **Click** on the **Presets & settings** button, hover over **Factory Presets**, then select **Podcast/Radio**. <br>
+<img src="images/audacity-nextlevel-compressor-select.png" style="width:700px;" alt="Audacity Compressor select process"> This will return you to the Compressor popup, so we can preview the effect before applying it. 
+4. In the Compressor popup, **click on the Preview button**.<br>
+<img src="images/audacity-nextlevel-compressor-preview.png" style="width:700px;" alt="Audacity Compressor preview process"> 
+5. Assuming that you are happy with the results, **click on the Apply button** to complete your changes. 
+
+
+**Tips**: 
+
+**More info**: see the [Audacity Manual page on Compressor](https://manual.audacityteam.org/man/compressor.html) for more details. Using compression is a huge subject with many varied opinions, but if you want to play with the finer points of the process in Audacity, see their [Reducing dynamic range (Compressor / Limiter) Support page](https://support.audacityteam.org/audio-editing/reducing-dynamic-range-compressor-limiter). 
+
+## Beyond the Audacity basics
+
+For those that wish to refine their sound even more, here's a list of other Audacity features to investigate: 
+
+
 
 # Audacity troubleshooting
 
