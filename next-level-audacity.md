@@ -15,17 +15,48 @@ We have curated this list to appeal to beginners. Where helpful, we provide link
 
 # Audacity tips
 
+## Noise Reduction
+
+**Purpose**: to remove unwanted background noise(s), like the hums of background traffic, or the hiss of a fan or other electronics. The Noise Reduction effect generally works best with consistent noise, not sharp spikes in sound. 
+
+**Menu location**: Effect > Noise Removal and Repair > Noise Reduction...
+
+### How to use Noise Reduction
+
+In overall terms, we first have to teach Noise Reduction tool to identify the noise we want to remove, then we apply the effect. 
+
+1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of the waveform that contains only the noise we want to remove**. For example, in the case of a buzzing sound during an interview, you would select the part of the waveform between people talking. <br><img src="images/audacity-nextlevel-noise-selection.png" style="width:700px;" alt="Audacity noise portion selection"><br>
+2. In Audacity's main menu, **select Effect > Volume and Compression > Noise Reduction**. You will see the Noise Reduction popup. 
+3. In Noise Reduction popup, click on the **Get Noise Profile** button. **NOTE** that the popup window will close. This is normal: **it has now gathered a noise profile that will remain until you close Audacity**. 
+4. Select all or some of the track to which you want to apply  the Noise Reduction effect. 
+5. In Audacity's main menu, **select Effect > Volume and Compression > Noise Reduction**. You will see the Noise Reduction popup again. 
+6. Experiment with the Noise Reduction option (the sliders) to produce the desired effect:
+    - **Noise Reduction (dB)**: controls the volume of reduction to be applied to the noise, in other words, how much of the noise to remove, relative to the rest of the sounds. The default setting is 6, but this will likely need to change. 
+    - **Sensitivity**: determines how much of the audio is  considered "noise." This setting is important to get right. If you set this too high, then your track will have "artifacts," like strange tones or chirps. The default setting is setting is 6.00, but experiment with this. 
+    - **Frequency Smoothing (bands)**: sounds are collections of various frequencies, and this tool allows you to tweak which ranges of frequencies are changed by the Noise Reduction effect, based on the noise profile you gathered when you clicked on the Get Noise Profile button. If your noise is light, try setting this to 0 (off). In general, settings lower than 6 (the default) favour music and higher settings favour spoken word. 
+    - <mark>**TIP**</mark>: to preview _just_ the noise being removed, select on the **Residue** button, then the **Preview** button. <br><img src="images/audacity-nextlevel-noise-popup.png" style="width:700px;" alt="Audacity noise reduction popup"><br>
+7. Assuming that you are happy with the results of your tweaks, click on the **OK button** to apply your effect. 
+
+
+**Tips**: remember to use CTRL/CMD + Z to undo any unwanted changes. Closing Audacity will remove the saved Get Noise Profile. So, if you need to start again, and get a new noise profile, save your project, close Audacity, and reopen it. 
+
+See the [Audacity Manual page on Noise Reduction](https://manual.audacityteam.org/man/noise_reduction.html) for more details.
+
 ## Normalize
 
 **Purpose**: The Normalize effect, among other things, sets the same peak amplitude (volume) within a track, or selection of a track. Think of it as "regularizing" the loud and quiet sections within an audio track. 
 
-This effect is different than [Amplify](https://manual.audacityteam.org/man/amplify.html), and is very helpful in cases where you have, for example, conducted an interview with someone who speaks inconsistently: they are quiet sometimes, then suddenly loud for a while, but throughout the whole recording. Or, maybe both you and the interviewee burst out laughing, which created a spike in volume that you want to reduce, relative to the rest of the track.  
+This effect is different than [Amplify](https://manual.audacityteam.org/man/amplify.html), and is very helpful in cases where you have, for example, conducted an interview with someone who speaks inconsistently: they are quiet sometimes, then suddenly loud for a while, but throughout the whole recording. 
+
+Or, maybe both you and the interviewee burst out laughing, which created a spike in volume that you want to reduce, relative to the rest of the track.  
 
 **Menu location**: Effect > Volume and Compression > Normalize...
 
 ### How to use Normalize 
 
-For this **example**, we will use a **selection of a mono audio track** that is much louder than the audio on either side of it. The goal is to make sure that this section of audio sounds similar to the rest, and to make sure that it does not [clip](https://en.wikipedia.org/wiki/Clipping_(audio)), or be so loud as to be distorted.
+For this **example**, we will use a **selection of a mono audio track** that is much louder than the audio on either side of it. 
+
+The goal is to make sure that this section of audio sounds similar to the rest, and to make sure that it does not [clip](https://en.wikipedia.org/wiki/Clipping_(audio)), or be so loud as to be distorted.
 
 1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of loud audio**. 
 2. In Audacity's main menu, select Effect > Volume and Compression > **Normalize**. You will see the Normalize popup. 
