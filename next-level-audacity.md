@@ -34,7 +34,7 @@ In overall terms, we first have to teach Noise Reduction tool to identify the no
     - **Noise Reduction (dB)**: controls the volume of reduction to be applied to the noise, in other words, how much of the noise to remove, relative to the rest of the sounds. The default setting is 6, but this will likely need to change. 
     - **Sensitivity**: determines how much of the audio is  considered "noise." This setting is important to get right. If you set this too high, then your track will have "artifacts," like strange tones or chirps. The default setting is setting is 6.00, but experiment with this. 
     - **Frequency Smoothing (bands)**: sounds are collections of various frequencies, and this tool allows you to tweak which ranges of frequencies are changed by the Noise Reduction effect, based on the noise profile you gathered when you clicked on the Get Noise Profile button. If your noise is light, try setting this to 0 (off). In general, settings lower than 6 (the default) favour music and higher settings favour spoken word. 
-    - <mark>**TIP**</mark>: to preview _just_ the noise being removed, select on the **Residue** button, then the **Preview** button. <br><img src="images/audacity-nextlevel-noise-popup.png" style="width:700px;" alt="Audacity noise reduction popup"><br>
+    - **<mark>TIP</mark>**: to preview _just_ the noise being removed, select on the **Residue** button, then the **Preview** button. <br><img src="images/audacity-nextlevel-noise-popup.png" style="width:700px;" alt="Audacity noise reduction popup"><br>
 7. Assuming that you are happy with the results of your tweaks, click on the **OK button** to apply your effect. 
 
 
