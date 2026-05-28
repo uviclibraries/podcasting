@@ -148,4 +148,4 @@ Once you have finished your recording, it is time to edit your audio...
     }
 </script>
 
-[NEXT STEP: Editing Audio in Audacity](editing-audio.html){: .btn .btn-blue }
+[NEXT STEP: Editing audio in Audacity](editing-audio.html){: .btn .btn-blue }
