@@ -230,4 +230,4 @@ From here, you can choose your own podcast adventure:
     }
 </script>
 
-[NEXT STEP: Recording Remote Interviews using Zoom](recording-remote-interviews.html){: .btn .btn-blue }
+[NEXT STEP: Recording remote interviews using Zoom](recording-remote-interviews.html){: .btn .btn-blue }
