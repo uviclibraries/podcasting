@@ -15,4 +15,4 @@ If you are are participating online (remotely) or in-person for this workshop, p
 <iframe width="700" height="500" src="https://www.youtube.com/embed/hZS852digDc" title="Podcasting with Audacity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[NEXT STEP: Recording Audio in Audacity](recording-audio.html){: .btn .btn-blue }
+[NEXT STEP: Recording audio in Audacity](recording-audio.html){: .btn .btn-blue }
