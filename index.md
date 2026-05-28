@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/podcasting-logo.png" style="float:right;width:180px;" alt="podcasting icon"> 
 
-# Introduction to Podcasting with Audacity
+# Introduction to podcasting with Audacity
 
 Pre-workshop activities: 15 min
 
