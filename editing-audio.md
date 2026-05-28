@@ -29,7 +29,7 @@ Finally, we will export our first audio file, to get used to the process.
 
 Nearly all recordings will have some preamble and closing sounds to remove. For example, the time between hitting the record button and beginning your introduction, you might have a light cough. Or, you might take a pause at the end of an interview to ensure that you don't cut things off too soon. 
 
-Here are the steps to removing the unwanted sounds from the beginning and end of your track:  
+**Here are the steps to removing the unwanted sounds from the beginning and end of your track:** 
 
 1. In Audacity, look in the main menu bar and click on the **Selection Tool icon**.
 2. In the Audio Track, **hover your cursor over the very beginning of the audio track** (to the farthest left, near the left "0.0" mark), then **click, hold, and drag to highlight** the part of the track you want to remove. Whatever you have selected will turn the background lighter in colour.
@@ -47,14 +47,14 @@ As you did for trimming the beginning and end of the track, you can select audio
 
 This is helpful in situations where you might want to move the order of your content around. For example, in an interview recording, you might want to change the order of a question and answer. 
 
-Here are the steps to inserting or copy audio into your audio track: 
+**Here are the steps to inserting or copy audio into your audio track:** 
 
-1. **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit -> Copy**. 
-2. Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit -> Paste** to insert the copied clip.
+1. **Select** a few seconds of audio from the middle of your recorded audio, then, in the main menu, select **Edit > Copy**. 
+2. Somewhere else in your audio track, where there is a gap in speaking, click on the timeline and then select **Edit > Paste** to insert the copied clip.
 
 You can follow this same copy/paste process to move any audio from any Audacity track to another.
 
-> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **Edit -> Copy / Edit -> Paste**.  
+> **NOTE**: the locations of buttons in Audacity's interface vary from version to version and system to system (i.e., Windows, Mac, or Linux). If you do not find what you are looking for, rely on the main menu to **Edit > Copy / Edit > Paste**.  
 
 <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
@@ -72,8 +72,8 @@ Fading in and out of a track also signals to your listener that your track is ab
 
 Here are the steps to add fades to your audio track:
 
-1. **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect -> Fade In**.
-2. **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect -> Fade Out**.
+1. **Fade the beginning** of your audio by **selecting the first 3 or 4 seconds audio** (on the far left of the track), and then on the top menu select **Effect > Fade In**.
+2. **Fade the end** of your audio track by **selecting the last 3 or 4 seconds of audio** (on the far right of the track) and then on the top menu select **Effect > Fade Out**.
 
 You can also apply these fade techniques to any part of an Audacity track, including music, which we will learn about later.
 
@@ -90,7 +90,7 @@ We still have more to do for a finished product, like adding music "bumpers" (tr
 
 Before we begin, note that **"saving" your file is different than "exporting" an audio track**—in this case our audio track is our podcast.
 
-In Audacity, selecting **File -> Save** will save the Audacity project, which has a ".aup" file extension. On the other hand, "exporting" your file combines, or mixes, everything in your Audacity tracks down into one audio file. This file can then be played on an audio player or audio software, like any other digital audio file. 
+In Audacity, selecting **File > Save** will save the Audacity project, which has a ".aup" file extension. On the other hand, "exporting" your file combines, or mixes, everything in your Audacity tracks down into one audio file. This file can then be played on an audio player or audio software, like any other digital audio file. 
 
 To get used to the export process, let’s **practice adding metadata (track information)** and then **exporting an MP3 file**. 
 
@@ -102,7 +102,7 @@ Here are the steps for exporting your audio track:
 
 **<mark>TIP</mark>**: the latest version of Audacity (version 3.0 and up) will allow you to export MP3 files by default. However, if for some reason you are not able to update to the latest version of Audacity, or you are using particular versions of Linux, you may need to install something called the "LAME MP3 Encoder." See these instructions for details: [Installing LAME](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame).
 
-1. In Audacity's main/top menu, select **File -> Export Audio**.
+1. In Audacity's main/top menu, select **File > Export Audio**.
 >**NOTE** that the first time you do this, you might see a popup that allows you to choose from two options: "Share to audio.com" and "Export to computer." Choose the "Export to computer option." You can also disable this recurring popup by selecting the "Don't show again" checkbox to the bottom-left of the popup. 
 >
 ><img src="images/podcast-edit-export-popup.png" alt="Audacity's export file popup choices" style="width:600px;">
@@ -136,7 +136,7 @@ Congratulations <span style='font-size:20px;'>&#127881;</span>! You have now cre
 
 Anything we do from here will add extra polish to your podcast. You already know the core skills of how to trim, fade, and export your audio file.
 
-When you are ready, move on to the final part of the basics for podcast creation: adding music and voiceovers... 
+When you are ready, move on to the final part of the basics for podcast creation: adding music... 
 
 <script>  
 
