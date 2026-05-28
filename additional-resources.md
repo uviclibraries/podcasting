@@ -21,6 +21,11 @@ nav_order: 10
 - Sterne, J., Morris, J., Baker, M. B., & Freire, A. M. (2008). [The politics of podcasting](http://thirteen.fibreculturejournal.org/fcj-087-thepolitics-of-podcasting/){:target="_blank"}. The Fibreculture Journal, 13.
 - Andrew J. Salvati, [Podcasting the Past: Hardcore History, Fandom, and DIY Histories](https://www.academia.edu/18933306/Podcasting_the_Past_Hardcore_History_Fandom_and_DIY_Histories){:target="_blank"}, Journal of Radio & Audio Media 22. N.2 (2015): 231-239
 
+## Hardware suggestions
+The Digital Scholarship Commons does not receive any commercial endorsements. These recommendations are given because our staff has already used these products for their own projects, or have been given feedback directly from those who have. 
+
+- **ZOOM H2essential Multi-Mic Handy Recorder**: the ZOOM (company name, and no affiliation with the Zoom, the video conferencing software) makes an excellent **portable audio recorder** for the price (roughly $250 CDN after tax), called the [H2essential Multi-Mic Handy Recorder](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h2essential/). This recorder runs on AA batteries, and is about the size of a cellphone. It is designed for interviews, music, field recordings, and more. ZOOM made and older model, which is also excellent, called the H2N, which you might still be able to find on Ebay. Finally, check out the [ZOOM H1n Portable Recorder](https://zoomcorp.com/en/ca/handheld-recorders/handheld-recorders/h1n-vp-handy-recorder/), which is cheaper (roughly $150 CDN), smaller, and with fewer options, but is a great audio-recording upgrade compared to a smartphone. 
+
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
