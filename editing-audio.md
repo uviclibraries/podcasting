@@ -150,5 +150,5 @@ When you are ready, move on to the final part of the basics for podcast creation
     }
 </script>
 
-[NEXT STEP: Music & Voiceovers](editing-audio-transitions-voiceovers.html){: .btn .btn-blue }
+[NEXT STEP: Adding music](editing-audio-transitions.html){: .btn .btn-blue }
 
