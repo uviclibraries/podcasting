@@ -13,30 +13,47 @@ Planning, or pre-production, is an important part of podcast creation. The more 
 
 ## Podcast idea checklist
 
-As you start thinking about your new podcast ideas, you can use this **checklist of considerations** to help sketch it into shape.
+As you start thinking about your new podcast ideas, you can use this **checklist of considerations** to help refine it into shape.
 
-- [ ] **Clarify your concept** 
-What topic is the podcast or audio story about? Does it have a What makes you excited about the topic? 
-- [ ] **Who is the audience?** Who is your target audience? This will probably be people with the same passion or interest as you. Thinking about who will be listening is helpful to keep in mind to keep the show focused and on track.
-- [ ] **What is the format?**  Typical formats include:
-- Solo: Also known as a monologue, this is one person talking about a topic. A solo podcast is easier and faster to set up, as you don’t need to rely on other schedules. However, it can be intimidating for the beginning podcaster to do an entire show by themselves.
-- Co-host: Presenting with a friend or colleague. Find someone you have good chemistry with so that you have someone to bounce ideas around or to debate
-- Interview: A host interviewing someone. The interviewee is usually an expert or someone with a vested interest in the topic. Interviewing is a skill that you need to hone through practice
-- Roundtable: A host and a number of guests, talking through a specific topic or topics
-- [x] **Wrangle your recording** Where are you going to get the equipment needed to record the audio? Where are you going to record (hopefully in a quiet place)? See the Podcasting Tip handout for help.
+- [x] **Clarify your concept** 
+
+What topic is the podcast or audio story about? Being personally connected to your work is helpful in any creative project. So, ask yourself what excites you about your concept and build on that. Maybe you were inspired by another podcast, or an aspect of one you want to explore in more detail. What about that inspirational podcast worked for you and what did not? With so many podcasts currently available, having a niche perspective or specific subject can be an advantage. 
+
+- [x] **Ascertain your audience?** 
+
+Narrowing down your audience will give your podcast project some helpful focus. It will also encourage you script your work consistently. If your concept is something specific, then your audience will probably be people with the same passion or interest as you. But, within that imagined group, think through who will be your likeliest listeners.
+
+- [x] **What is the format?** 
+
+By "format" we mean the style or structure of the show and how it is presented to an audience. Here are a few common formats to consider: 
+	- **Solo**: also known as a monologue, this is one person talking about a topic. A solo podcast is easier and faster to setup and you can set your own recording schedule. However, it can be intimidating for beginners to carry a whole show alone.
+	- **Co-host**: this is a two-person format. Finding someone with whom you have good chemistry is key to an engaging co-host format. In this format, it can be helpful to have a clear idea about roles. For example, one host could provide facts while the other provides comic relief. Or, maybe you are co-host equals. The co-host format is popular for a reason, as it creates an interesting compelling dynamic. 
+	- **Interview**: this format has a host interviewing someone else. The interviewee is usually an expert or someone with a vested interest in the topic. Interviewing is a skill that you need to hone through practice, and it is nuanced enough to deserve some serious consideration, especially if you think that just being natural at it is enough. See [this Podcast Marketing Academy article](https://podcastmarketingacademy.com/how-to-become-better-podcast-interviewer/) to get a sense of what being a good interviewer can take.  
+	- **Roundtable**: A host and a number of guests, talking through a specific topic or topics, either as interviews or as conversations. 
+
 - [x] **Determine duration**
-Podcast lengths vary significantly but the average is probably around 20 or 30 minutes. The length of your podcast should be dependent on your topic and audience. Err on the side of a shorter podcast. Initially, a podcast that is 30 minutes long in its final form will take at least 3 to 4 hours to record, edit, and publish. As you practice you will get quicker at editing.
-- [x] **Figure out frequency** 
-Set a goal of how frequently you will make episodes. It is better to have an excellent podcast every month instead of a mediocre podcast every week. 
-- [ ] **Settle on a series or single episode** 
-Will your podcast be a single recording or an ongoing series? If it is a series, will every episode use the same format and topics? Or, maybe you want to produce a single episode that could be expanded into a series, later. 
-- [ ] **What existing podcasts do I find engaging?** What do I find engaging about them? What lessons can I take from these examples as I plan my own podcast? 
 
-## Planning Your Episodes
+Podcast lengths vary significantly but the average is probably around 20 or 30 minutes. The length of your podcast should be dependent on your topic and audience. Err on the side of a shorter podcast. Initially, a podcast that is 30 minutes long in its final form will take at least 3 to 4 hours to record, edit, and publish. As you practice you will get quicker at editing.
+
+- [x] **Figure out frequency** 
+
+Set a goal of how frequently you will make episodes. It is better to have an excellent podcast every month instead of a mediocre podcast every week. 
+
+- [x] **Settle on a series or single episode** 
+
+Will your podcast be a single recording or an ongoing series? If it is a series, will every episode use the same format and topics? Or, maybe you want to produce a single episode that could be expanded into a series, later. 
+
+- [x] **Wrangle your recording tech and location** 
+
+Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your plans for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
+
+
+## Planning your episodes
 Every podcast has some amount of scripting. Some are entirely written ahead of time, while others have only small parts that are scripted. Even if you're joking around with friends, you still need an introduction explaining the podcast to your listeners. Or if you are interviewing someone, you need to introduce them. Here are some tips for getting started writing an audio script. 
 
-### Writing Audio Scripts for a Solo or Co-Host format podcast:
-1. **Research**: ​Whether you’re discussing a new medical procedure or interviewing a local historian, conduct extensive research on your topic. Explore news, academic journals, blogs, personal websites. Your research will lead to more questions to explore and interesting new insights.
+### Writing audio scripts for a solo or co-host format podcast
+
+1. **Research**: Whether you’re discussing a new medical procedure or interviewing a local historian, conduct extensive research on your topic. Explore news, academic journals, blogs, personal websites. Your research will lead to more questions to explore and interesting new insights.
 2. **Storytelling**: A common storytelling structure is ABDCE: Action, Background, Development, Climax, Ending. Try to figure out how your narrative could fit into that flow. Focus on the action that happens in each step. What do you stand to gain or lose? Why is what happens in the story important to you?
 3. **Tone**: Don't be too formal. Use a conversational tone and short sentences.
 4. **Pace**: Try to keep your sentences short, with one key idea per sentence. This is easier for people to understand.
@@ -46,7 +63,8 @@ Every podcast has some amount of scripting. Some are entirely written ahead of t
  
 Whether you're interviewing a single guest or leading a roundtable, you should prepare some structure to your interview. Use your research to guide the interview. Think about what surprised or amused you. 
 
-### Preparing for an Interview or Round Table format podcast:
+### Preparing for an interview or round table format podcast
+
 1. **Research**: If possible, do research on your interview subject's background. Use this information to guide interview questions. Think about what part of your subject's biography you want to know more about.
 2. **Brainstorm Questions**: Have a list of at least 15 questions. Generate more questions than you think you need. These don't need to be in any particular order.
 3. **Ask open-ended questions**: Start questions with “How” “Why” “What” “Who” - not questions that can be answered with a yes or no answer.
