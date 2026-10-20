@@ -25,27 +25,27 @@ Narrowing down your audience will give your podcast project some helpful focus. 
 
 - [x] **What is the format?** 
 
-By "format" we mean the style or structure of the show and how it is presented to an audience. Here are a few common formats to consider: 
-	- **Solo**: also known as a monologue, this is one person talking about a topic. A solo podcast is easier and faster to setup and you can set your own recording schedule. However, it can be intimidating for beginners to carry a whole show alone.
+	By "format" we mean the style or structure of the show and how it is presented to an audience. Here are a few common formats to consider: 
+	- **Solo**: also known as a monologue, this is one 	person talking about a topic. A solo podcast is easier and faster to setup and you can set your own recording schedule. However, it can be intimidating for beginners to carry a whole show alone.
 	- **Co-host**: this is a two-person format. Finding someone with whom you have good chemistry is key to an engaging co-host format. In this format, it can be helpful to have a clear idea about roles. For example, one host could provide facts while the other provides comic relief. Or, maybe you are co-host equals. The co-host format is popular for a reason, as it creates an interesting compelling dynamic. 
 	- **Interview**: this format has a host interviewing someone else. The interviewee is usually an expert or someone with a vested interest in the topic. Interviewing is a skill that you need to hone through practice, and it is nuanced enough to deserve some serious consideration, especially if you think that just being natural at it is enough. See [this Podcast Marketing Academy article](https://podcastmarketingacademy.com/how-to-become-better-podcast-interviewer/) to get a sense of what being a good interviewer can take.  
 	- **Roundtable**: A host and a number of guests, talking through a specific topic or topics, either as interviews or as conversations. 
 
 - [x] **Determine duration**
 
-Podcast lengths vary significantly but the average is probably around 20 or 30 minutes. The length of your podcast should be dependent on your topic and audience. Err on the side of a shorter podcast. Initially, a podcast that is 30 minutes long in its final form will take at least 3 to 4 hours to record, edit, and publish. As you practice you will get quicker at editing.
+	Podcast lengths vary significantly but the average is probably around 20 or 30 minutes. The length of your podcast should be dependent on your topic and audience. Err on the side of a shorter podcast. Initially, a podcast that is 30 minutes long in its final form will take at least 3 to 4 hours to record, edit, and publish. As you practice you will get quicker at editing.
 
 - [x] **Figure out frequency** 
 
-Set a goal of how frequently you will make episodes. It is better to have an excellent podcast every month instead of a mediocre podcast every week. 
+	Set a goal of how frequently you will make episodes. It is better to have an excellent podcast every month instead of a mediocre podcast every week. 
 
 - [x] **Settle on a series or single episode** 
 
-Will your podcast be a single recording or an ongoing series? If it is a series, will every episode use the same format and topics? Or, maybe you want to produce a single episode that could be expanded into a series, later. 
+	Will your podcast be a single recording or an ongoing series? If it is a series, will every episode use the same format and topics? Or, maybe you want to produce a single episode that could be expanded into a series, later. 
 
 - [x] **Wrangle your recording tech and location** 
 
-Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your plans for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
+	Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your plans for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
 
 
 ## Planning your episodes
