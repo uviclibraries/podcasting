@@ -16,12 +16,15 @@ Planning, or pre-production, is an important part of podcast creation. The more 
 As you start thinking about your new podcast ideas, you can use this **checklist of considerations** to help refine it into shape.
 
 - [x] **Clarify your concept** 
+
 	What topic is the podcast or audio story about? Being personally connected to your work is helpful in any creative project. So, ask yourself what excites you about your concept and build on that. Maybe you were inspired by another podcast, or an aspect of one you want to explore in more detail. What about that inspirational podcast worked for you and what did not? With so many podcasts currently available, having a niche perspective or specific subject can be an advantage. 
 
 - [x] **Ascertain your audience?** 
+
 	Narrowing down your audience will give your podcast project some helpful focus. It will also encourage you script your work consistently. If your concept is something specific, then your audience will probably be people with the same passion or interest as you. But, within that imagined group, think through who will be your likeliest listeners.
 
 - [x] **What is the format?** 
+
 	By "format" we mean the style or structure of the show and how it is presented to an audience. Here are a few common formats to consider: 
 	- **Solo**: also known as a monologue, this is one 	person talking about a topic. A solo podcast is easier and faster to setup and you can set your own recording schedule. However, it can be intimidating for beginners to carry a whole show alone.
 	- **Co-host**: this is a two-person format. Finding someone with whom you have good chemistry is key to an engaging co-host format. In this format, it can be helpful to have a clear idea about roles. For example, one host could provide facts while the other provides comic relief. Or, maybe you are co-host equals. The co-host format is popular for a reason, as it creates an interesting compelling dynamic. 
@@ -32,13 +35,16 @@ As you start thinking about your new podcast ideas, you can use this **checklist
 
 	Podcast lengths vary significantly but the average is probably around 20 or 30 minutes. The length of your podcast should be dependent on your topic and audience. Err on the side of a shorter podcast. Initially, a podcast that is 30 minutes long in its final form will take at least 3 to 4 hours to record, edit, and publish. As you practice you will get quicker at editing.
 
-- [x] **Figure out frequency** 
+- [x] **Figure out frequency**
+
 	Set a goal of how frequently you will make episodes. It is better to have an excellent podcast every month instead of a mediocre podcast every week. 
 
 - [x] **Settle on a series or single episode** 
+
 	Will your podcast be a single recording or an ongoing series? If it is a series, will every episode use the same format and topics? Or, maybe you want to produce a single episode that could be expanded into a series, later. 
 
-- [x] **Wrangle your recording tech and location** 
+- [x] **Wrangle your recording tech and location**
+
 	Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your plans for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
 
 
