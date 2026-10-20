@@ -75,10 +75,10 @@ Pace relates to structure, in Try to keep your sentences short, with one key ide
 Develop the structure of your podcast. A typical podcast starts with an introduction, then will transition into an interview, then maybe listener questions and conclude with a call to action (i.e. review and rate the podcast) and credits.
 
 #### Smooth out your transitions
-By transitions, we mean moving from one topic to another, or from one segment of your podcast to another. Script your transitions and make it clear to your audience that you are about to make a change. Gernally, transitions follow the same approach as good essays: (1) tell them what you are about to tell them (introduce the segment), (2)tell them (do the segment), (3) then tell them what you just told them (quickly summarize the segment), then repeat.
+By transitions, we mean moving from one topic to another, or from one segment of your podcast to another. Script your transitions and make it clear to your audience that you are about to make a change. Generally, podcasts follow the same approach as good essays: (1) tell them what you are about to tell them (introduce the segment), (2) tell them (do the segment), (3) then tell them what you just told them (quickly summarize the segment before moving on), then repeat.
 
 #### Think beyond the script alone 
-By this we mean that podcasts are primarily a talking/voice medium, but thabout how to incorporate additional sounds, like music and sound effects, to enhance the sensory elements of the project. include these notes in your script.
+By this we mean that podcasts are primarily a talking/voice medium, but you can also incorporate additional sounds, like music and sound effects, to enhance the sensory elements of the project.
  
 Whether you're interviewing a single guest or leading a round table, you should prepare some structure to your interview. Use your research to guide the interview. Think about what surprised or amused you. 
 
