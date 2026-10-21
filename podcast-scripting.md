@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Scripting Your Podcast
+title: 2-Scripting Your Podcast
 nav_order: 3
 parent: Planning and Tips
 ---
