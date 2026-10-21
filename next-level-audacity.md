@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/podcast-edit-01.png" style="float:right;width:180px;" alt="podcasting icon">
 
-# Next level Audacity tips
+# Next Level Audacity Tips
 
 This section is our Audacity tips and troubleshooting guide. It is intended for folks who have some practice with the basics of working in Audacity, as described in the [Podcast recording with Audacity workshop](https://uviclibraries.github.io/podcasting/recording-audio.html) and who want to learn more tricks and tips to improve audio quality, or level-up their Audacity skills a little more.  
 
