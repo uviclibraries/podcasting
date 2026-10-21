@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2-Podcasting Production Tips
+title: 2-Producing Your Podcast
 nav_order: 4
 parent: Planning and Tips
 ---
 <img src="images/podcasting-logo.png" style="float:right;width:180px;" alt="podcasting icon">
-# Podcasting Tips
+# Producing Your Podcast
 A podcast is a series of digital audio files, often focused on a particular topic, that are posted on the Internet for people to download and listen to. This guide will walk you through the steps of creating your own podcast series or stand-alone audio recording from planning to publishing. At a very high level, you should follow the steps below:
 
 1. **Brainstorm a name, topic, and format**:
