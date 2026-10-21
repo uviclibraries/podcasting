@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Sample Podcast Script
-nav_order: 4
+title: 3-Podcast Scripting
+nav_order: 3
 parent: Planning and Tips
 ---
 <img src="images/podcast-sample.png" style="float:right;width:180px;" alt="document icon">
