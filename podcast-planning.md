@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1-Planning your Podcast
+title: 1-Planning Your Podcast
 nav_order: 2
 parent: Planning and Tips
 ---
