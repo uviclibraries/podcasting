@@ -47,4 +47,4 @@ Sound Effect - Helicopter sound.<br>
 
 Closing Music.<br>
 
-[NEXT STEP: Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Producing Your Podcast](podcast-production.html){: .btn .btn-blue }
