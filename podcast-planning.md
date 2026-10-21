@@ -9,7 +9,7 @@ parent: Planning and Tips
 # Planning your podcast
 ### Where to start...
 
-Planning, or pre-production, is an important part of podcast creation. **The more time you put into preparation, the easier it will be to record and edit your audio**. 
+Planning, or pre-production, is an important part of podcast creation. **The more time you put into preparation, the easier it will be to record and edit your audio**.
 
 ## Podcast planning checklist
 <img src="images/podcast-plan-checklist.png" style="float:right;width:180px;" alt="checklist icon">
@@ -55,8 +55,8 @@ As you start thinking about your new podcast ideas, you can use this **checklist
 
 Depending on what type of podcast format you choose, you might find some of the following resources more valuable than others.
 
-### Resources for episode planning 
-
+### Resources for episode outlines 
+<img src="images/podcast-plan-outlines.png" style="float:right;width:180px;" alt="two people interviewing at table icon">
 Assuming that you have worked through the planning checklist, it will be time to create a **podcast outline**. The outline is different from the podcast script, which we look at soon. 
 
 The podcast outline an organizational tool used to map out each of your episode's topics, questions, and segments, or "acts"—most podcast episodes have three acts. 
@@ -69,7 +69,7 @@ Once you have each of your episode(s) in outline form you will be able to see be
 
 
 ### Resources for podcast interviews
-
+<img src="images/podcast-plan-interviewing.png" style="float:right;width:180px;" alt="two people interviewing at table icon">
 Whatever podcast format you choose, at some point you will be acting as an interviewer of some kind. We have assembled this list of additional resources to help you along that path: 
 
 - [Columbia Journalism Review: "The art of the interview"](https://www.cjr.org/realtalk/the_art_of_the_interview.php)
