@@ -79,4 +79,4 @@ Whatever podcast format you choose, at some point you will be acting as an inter
 
 
 
-[NEXT STEP: Podcasting Production Tips](podcasting-tips.html){: .btn .btn-blue }
+[NEXT STEP: Scripting Your Podcast](podcasting-scripting.html){: .btn .btn-blue }
