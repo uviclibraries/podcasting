@@ -12,7 +12,7 @@ parent: Planning and Tips
 Planning, or pre-production, is an important part of podcast creation. **The more time you put into preparation, the easier it will be to record and edit your audio**. 
 
 ## Podcast planning checklist
-
+<img src="images/podcast-plan-checklist.png" style="float:right;width:180px;" alt="checklist icon">
 As you start thinking about your new podcast ideas, you can use this **checklist of considerations** to help refine it into shape.
 
 - [x] **Clarify your concept** 
