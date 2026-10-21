@@ -6,12 +6,12 @@ parent: Planning and Tips
 ---
 <img src="images/podcast-plan.png" style="float:right;width:180px;" alt="podcasting icon">
 
-# Planning your Podcast
-### How to start
+# Planning your podcast
+### Where to start...
 
-Planning, or pre-production, is an important part of podcast creation. The more time you put into preparation, the easier it will be to record and edit your audio. 
+Planning, or pre-production, is an important part of podcast creation. **The more time you put into preparation, the easier it will be to record and edit your audio**. 
 
-## Podcast idea checklist
+## Podcast planning checklist
 
 As you start thinking about your new podcast ideas, you can use this **checklist of considerations** to help refine it into shape.
 
@@ -29,9 +29,9 @@ As you start thinking about your new podcast ideas, you can use this **checklist
 
 	Here are a few common formats to consider: 
 	- **Solo**: also known as a monologue, this is one 	person talking about a topic. A solo podcast is easier and faster to setup and you can set your own recording schedule. However, it can be intimidating for beginners to carry a whole show alone.
-	- **Co-host**: this is a two-person format. Finding someone with whom you have good chemistry is key to an engaging co-host format. In this format, it can be helpful to have a clear idea about roles. For example, one host could provide facts while the other provides comic relief. Or, maybe you are co-host equals. The co-host format is popular for a reason, as it creates an interesting compelling dynamic. 
+	- **Co-host**: this is a two-person format. Finding someone with whom you have good chemistry is key to an engaging co-host format. In this format, it can be helpful to have a clear idea about roles. For example, one host could provide facts while the other provides comic relief. Or, maybe you are co-host equals. The co-host format is popular for a reason, as it creates an interesting and compelling dynamic. 
 	- **Interview**: this format has a host interviewing someone else. The interviewee is usually an expert or someone with a vested interest in the topic. Interviewing is a skill that you need to hone through practice, and it is nuanced enough to deserve some serious consideration, especially if you think that just being natural at it is enough. See [this Podcast Marketing Academy article](https://podcastmarketingacademy.com/how-to-become-better-podcast-interviewer/) to get a sense of what being a good interviewer can take.  
-	- **Roundtable**: A host and a number of guests, talking through a specific topic or topics, either as interviews or as conversations. 
+	- **Roundtable**: in this format, a host and a number of guests talk through a specific topic or topics, either as interviews or as conversations. Note that roundtable podcasts can increase the complexity of the recording and editing process. 
 
 - [x] **Determine your duration**
 
@@ -49,56 +49,33 @@ As you start thinking about your new podcast ideas, you can use this **checklist
 
 - [x] **Wrangle your recording tech and location**
 
-	Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your plans for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
+	Finally, consider where and how you will record your podcast audio. We cover this in the following [Podcasting Tips](podcasting-tips.html) section of this workshop, but in the planning phase, consider your options for a consistently available location and appropriate and reliable equipment. Not every podcast needs to sound polished—in fact, some of the best ones are not—but they should sound consistent.  
+
+## Additional podcast planning resources
+
+Depending on what type of podcast format you choose, you might find some of the following resources more valuable than others.
+
+### Resources for episode planning 
+
+Assuming that you have worked through the planning checklist, it will be time to create a **podcast outline**. The outline is different from the podcast script, which we look at soon. 
+
+The podcast outline an organizational tool used to map out each of your episode's topics, questions, and segments, or "acts"—most podcast episodes have three acts. 
+
+Once you have each of your episode(s) in outline form you will be able to see better where you need to make changes, so that your episodes are consistent in terms of pace, content, and duration.  
+
+- [Talks.co: "7 Podcast Outline Templates, Examples, Outros, Scripts + Guide 2027"](https://talks.co/p/podcast-outline-templates/)
+- [Lower Street: "The Podcast Outline Guide"](https://lowerstreet.co/how-to/podcast-outline)
+- [Podcastools: "Free Podcast Outline Templates & Builder"](https://www.podcastools.com/podcast-outline-builder)
 
 
-## Planning your episodes
-Every podcast has some amount of scripting. Some are entirely written ahead of time, while others have only small parts that are scripted. Even if you're joking around with friends, you still need an introduction explaining the podcast to your listeners. Or, if you are interviewing someone, you need to introduce them properly and consistently. 
+### Resources for podcast interviews
 
-Here are some tips for getting started writing an audio script. 
+Whatever podcast format you choose, at some point you will be acting as an interviewer of some kind. We have assembled this list of additional resources to help you along that path: 
 
-### Tips for writing audio scripts for a solo or co-host format podcast
-
-#### Do your research
-Whether you’re discussing a new medical procedure or interviewing a local historian, conduct extensive research on your topic. Explore news, academic journals, blogs, personal websites, and other sources helpful for your topic. Your research work will inevitably lead to more questions to explore and interesting new insights to discuss later.
-
-#### Find a way to tell a story
-Even if you are discussing dry or unrelated subjects, find a way to relate your information as a narrative. A common storytelling structure is ABDCE: Action, Background, Development, Climax, Ending. Try to figure out how your narrative could fit into that flow. Focus on the action that happens in each step of the story. 
-
-#### Tone tells its own story
-How you deliver your content, from formal to casual, sets the tone of your podcast. Podcasts are rarely formal and generally do better in a conversational tone and short sentences. Arguably, it is that lack of formality that has made so many podcasts so popular. 
-
-#### Pace yourself
-Pace relates to structure, in Try to keep your sentences short, with one key idea per sentence. This is easier for people to understand.
-
-#### Structure your podcast to support your subject
-Develop the structure of your podcast. A typical podcast starts with an introduction, then will transition into an interview, then maybe listener questions and conclude with a call to action (i.e. review and rate the podcast) and credits.
-
-#### Smooth out your transitions
-By transitions, we mean moving from one topic to another, or from one segment of your podcast to another. Script your transitions and make it clear to your audience that you are about to make a change. Generally, podcasts follow the same approach as good essays: (1) tell them what you are about to tell them (introduce the segment), (2) tell them (do the segment), (3) then tell them what you just told them (quickly summarize the segment before moving on), then repeat.
-
-#### Think beyond the script alone 
-By this we mean that podcasts are primarily a talking/voice medium, but you can also incorporate additional sounds, like music and sound effects, to enhance the sensory elements of the project.
- 
-Whether you're interviewing a single guest or leading a round table, you should prepare some structure to your interview. Use your research to guide the interview. Think about what surprised or amused you. 
-
-#### Preparing for an interview or round table format podcast
-
-1. **Research**: If possible, do research on your interview subject's background. Use this information to guide interview questions. Think about what part of your subject's biography you want to know more about.
-2. **Brainstorm Questions**: Have a list of at least 15 questions. Generate more questions than you think you need. These don't need to be in any particular order.
-3. **Ask open-ended questions**: Start questions with “How” “Why” “What” “Who” - not questions that can be answered with a yes or no answer.
-4. **Specific questions**: Try to get the subject to tell a visual story. Be specific in your questions and ask the subject to clarify - “And then what happened?” “And then what did he say?” “And what did you say?”
-5. **Tone**: In the interview, conduct the interview like a conversation. Don’t ask all the questions in order. Be genuinely curious. Let there be silences - the subject will often fill in the silence with more information.
-6. **Additional resources**: 
-- [Columbia Journalism Review: The art of the interview](http://archives.cjr.org/realtalk/the_art_of_the_interview.php?link){:target="_blank"}
-- [Scholastic: How to conduct a journalistic interview](https://www.scholastic.com/teachers/articles/teaching-content/how-conduct-journalistic-interview/){:target="_blank"}
-- [Poynter: How journalists can become better interviewers](https://www.poynter.org/news/how-journalists-can-become-better-interviewers){:target="_blank"}
-- [Columbia Journalism: Interviewing Principles](http://www.columbia.edu/itc/journalism/isaacs/edit/MencherIntv1.html){:target="_blank"}
-- [Transom: Before the First Question](https://transom.org/2012/before-the-first-question/){:target="_blank"}
-
-[Based on the CC-licensed VCU podcasting guide](https://guides.library.vcu.edu/podcast/){:target="_blank"}
-
-[NEXT STEP: Podcasting Tips](podcasting-tips.html){: .btn .btn-blue }
+- [Columbia Journalism Review: "The art of the interview"](https://www.cjr.org/realtalk/the_art_of_the_interview.php)
+- [Reporter Union: "How to Conduct a Journalistic Interview: Step-by-Step Guide"](https://reporterunion.com/learn/how-to-conduct-an-interview/)
+- [Poynter: How journalists can become better interviewers](https://www.poynter.org/reporting-editing/2013/how-journalists-can-become-better-interviewers/)
+- [Columbia Journalism: "Interviewing Principles"](https://columbia.edu/itc/journalism/isaacs/edit/MencherIntv1.html)
 
 
-
+[NEXT STEP: Podcasting Production Tips](podcasting-tips.html){: .btn .btn-blue }
