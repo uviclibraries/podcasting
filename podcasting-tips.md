@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Podcasting Tips
-nav_order: 3
+title: 2-Podcasting Production Tips
+nav_order: 4
 parent: Planning and Tips
 ---
 <img src="images/podcasting-logo.png" style="float:right;width:180px;" alt="podcasting icon">
