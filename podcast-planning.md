@@ -80,7 +80,7 @@ Here is a list of **resources to introduce you to the art of interviewing** and,
 - [Reporter Union: "How to Conduct a Journalistic Interview: Step-by-Step Guide"](https://reporterunion.com/learn/how-to-conduct-an-interview/)
 - [Poynter: How journalists can become better interviewers](https://www.poynter.org/reporting-editing/2013/how-journalists-can-become-better-interviewers/)
 - [Columbia Journalism: "Interviewing Principles"](https://columbia.edu/itc/journalism/isaacs/edit/MencherIntv1.html)
-
+- [So Many Questions: "What Makes a Good Podcast Conversation? A Guide to Conversational Podcasting"](https://somanyquestions.show/podcast/conversational-podcasts-guide/)
 
 
 [NEXT STEP: Scripting Your Podcast](podcasting-scripting.html){: .btn .btn-blue }
