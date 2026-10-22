@@ -59,9 +59,11 @@ Depending on what type of podcast format you choose, you might find some of the 
 <img src="images/podcast-plan-outlines.png" style="float:right;width:180px;" alt="two people interviewing at table icon">
 Assuming that you have worked through the planning checklist, it will be time to create a **podcast outline**. The outline is different from the podcast script, which we look at soon. 
 
-The podcast outline an organizational tool used to map out each of your episode's topics, questions, and segments, or "acts"—most podcast episodes have three acts. 
+The podcast outline is an organizational tool used to map out each of your episode's topics, questions, and segments, or "acts"—most podcast episodes have three acts. 
 
-Once you have each of your episode(s) in outline form you will be able to see better where you need to make changes, so that your episodes are consistent in terms of pace, content, and duration.  
+Once you have each of your episode(s) in outline form you will be able to see better where you need to make changes, so that your episodes are consistent in terms of pace, content, and duration. 
+
+Here is a list of **resources to get you started on podcast outlines**: 
 
 - [Talks.co: "7 Podcast Outline Templates, Examples, Outros, Scripts + Guide 2027"](https://talks.co/p/podcast-outline-templates/)
 - [Lower Street: "The Podcast Outline Guide"](https://lowerstreet.co/how-to/podcast-outline)
@@ -70,7 +72,9 @@ Once you have each of your episode(s) in outline form you will be able to see be
 
 ### Resources for podcast interviews
 <img src="images/podcast-plan-interviewing.png" style="float:right;width:180px;" alt="two people interviewing at table icon">
-Whatever podcast format you choose, at some point you will be acting as an interviewer of some kind. We have assembled this list of additional resources to help you along that path: 
+Whatever podcast format you choose, at some point you will be acting as an interviewer of some kind. Even if you are not formally interviewing your guests, there is an art and practice to using the right kinds of questions to put your guests or co-hosts at ease and to get interesting conversations rolling.   
+
+Here is a list of **resources to introduce you to the art of interviewing** and, by extension, the art of guided conversation: 
 
 - [Columbia Journalism Review: "The art of the interview"](https://www.cjr.org/realtalk/the_art_of_the_interview.php)
 - [Reporter Union: "How to Conduct a Journalistic Interview: Step-by-Step Guide"](https://reporterunion.com/learn/how-to-conduct-an-interview/)
