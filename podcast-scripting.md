@@ -68,4 +68,12 @@ Here is a list of **resources on how to create your own podcast scripts**:
 - [Descript: "How to Write a Podcast Script: Step-by-Step in 2026"](https://www.descript.com/blog/article/podcast-script)
 - [Spotify for Podcasters: "How to Write Podcast Scripts: Tips and Templates to Structure Your Episodes"](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts)
 
-[NEXT STEP: Producing Your Podcast](podcast-production.html){: .btn .btn-blue }
+## Next steps: produce your podcast! 
+
+Assuming that you have your script in place and you are ready to record, please return, unless you have not been there already, to this workshop's walkthrough of how to record your first podcast: 
+
+**NOTE for UVic students, staff, and faculty:** UVic offers resources for podcasting and audio recording, including bookable media-creation rooms. The Mearns Centre for Learning, in the McPherson Library, has a [dedicated podcast room](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). UVic students can also use the [podcast corner](https://www.uvic.ca/systems/labs/rooms-drop-ins/find-space/labs/podcast-corner.php) in the Human & Social Development Building. In addition, the McPherson Library and HSD building have dedicated [sound and video rooms](https://www.uvic.ca/systems/labs/rooms-drop-ins/media-spaces/index.php#ipn-sound-video-production). Another option is to [borrow media equipment from the McPherson Library](https://www.uvic.ca/library/rooms-technology/laptops-equipment/index.php#ipn-equipment-details-mearns-mcpherson-library-) by going to the [Ask Us Desk](https://www.uvic.ca/library/visit-and-contact/mearns-mcpherson-library/index.php#ipn-ask-us-desk) on the main floor. 
+
+If you haven't done so already, please download and install Audacity on your laptop. If you missed it, [step 1 of the Pre-Workshop Activities page](https://uviclibraries.github.io/podcasting/pre-workshop.html) has download links for Mac and Windows computers.  
+
+[NEXT STEP: Podcast Recording with Audacity](recording-audio.html){: .btn .btn-blue }
