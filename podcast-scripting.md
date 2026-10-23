@@ -52,10 +52,18 @@ Here is **an example of what a scripted interview podcast looks like when writte
 
 **[_Closing music_]**<br>
 
-Here are some websites with suggestions on how to create your own podcast script:
-- [Podcast script sections and elements (from Descript.com)](https://www.descript.com/blog/article/podcast-script){:target="_blank"}
+
+## Choose a script that works for you
+
+Generally, your script would be as detailed as your project demands. For example, a casual conversation between friends that all share the same or similar expertise might need only a script with talking-point prompts to keep things on track. Or, if you are doing a solo podcast that does deep dive into a complex historical subject, you would likely benefit from a robust script with written dialogue and a clear and easily followed structure. 
+
+Here is a list of **resources on how to create your own podcast scripts**:
+
+- [AudioDramaProduction.com: "Podcast Script – Definition & Detailed Explanation"](https://audiodramaproduction.com/podcast-production-glossary/podcast-script/)
+- [Podcast Pontifications: "Podcast Script Examples: Templates for Solo, Interview, and Narrative Shows"](https://podcastpontifications.com/uncategorized/podcast-script-examples/)
+- [Podcast script sections and elements (from Descript.com)](https://www.descript.com/blog/article/podcast-script)
 - [How to write podcast
 scripts: Tips and templates
-to structure your episodes (Spotify for Podcasters)](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts){:target="_blank"}
+to structure your episodes (Spotify for Podcasters)](https://podcasters.spotify.com/resources/learn/create/how-to-write-podcast-scripts)
 
 [NEXT STEP: Producing Your Podcast](podcast-production.html){: .btn .btn-blue }
