@@ -4,9 +4,9 @@ title: 2-Scripting Your Podcast
 nav_order: 3
 parent: Planning and Tips
 ---
-<img src="images/podcast-sample.png" style="float:right;width:180px;" alt="document icon">
-# Scripting your podcast
 
+# Scripting your podcast
+<img src="images/podcast-scripting-compass.png" style="float:right;width:180px;" alt="compass icon">
 A podcast script is **a document that defines the structure of your podcast episode's content**. 
 
 Think of the script as your content compass: it will help you keep on track if you start to get lost. 
@@ -17,7 +17,7 @@ Here is **an example of what a scripted interview podcast looks like when writte
 
 
 ## Educational Robotics script example<br>
-
+<img src="images/podcast-sample.png" style="float:right;width:180px;" alt="document icon">
 **[_Opening music_]**<br>
 
 **[Introduction]**<br>
