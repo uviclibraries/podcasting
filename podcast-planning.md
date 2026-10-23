@@ -9,7 +9,7 @@ parent: Planning and Tips
 # Planning your podcast
 ### Where to start...
 
-This section on podcast planning, and the next section called [Scripting Your Podcast](https://uviclibraries.github.io/podcasting/podcast-scripting.html), are intended to provide some helpful ways to approach the planning side of podcasts: the work to be done before you hit record. You can read through both sections and then return to the [Podcast Recording with Audacity page[(https://uviclibraries.github.io/podcasting/recording-audio.html) to begin the workshop actives on recording and editing your podcast. 
+This section on podcast planning, and the next section called [Scripting Your Podcast](https://uviclibraries.github.io/podcasting/podcast-scripting.html), are intended to provide some helpful ways to approach the planning side of podcasts: the work to be done before you hit record. You can read through both sections and then return to the [Podcast Recording with Audacity page](https://uviclibraries.github.io/podcasting/recording-audio.html) to begin the workshop actives on recording and editing your podcast. 
 
 Planning, or pre-production, is an important part of podcast creation. **The more time you put into preparation, the easier it will be to record and edit your audio**.
 
