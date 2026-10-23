@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4-Next level Audacity tips
-nav_order: 5
+title: 3-Next level Audacity tips
+nav_order: 4
 parent: Planning and Tips
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
