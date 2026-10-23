@@ -10,7 +10,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 ## Introduction
 
-Once you’ve planned out your show, you can begin recording audio. Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location. 
+Once you have planned out your show, you can begin recording audio. **See our section called [Podcast Planning and Tips](https://uviclibraries.github.io/podcasting/planning-tips.html) as needed** if you want to learn more about overall planning ideas and podcast scripts. Then, you can return to this page to start your podcast production.
+
+Podcasts can be made with the simple set-up of a computer with a built-in microphone and access to the internet. But, you will produce a higher quality podcast if you use better recording equipment and put a little work into your recording location. 
 
 > **NOTE**: If you are participating remotely, some find it difficult to participate in the video conference session and record audio in Audacity. If that is the case for you, please install Audacity, then practice recording audio as outlined in the activities that follow. You can also use [this optional audio file](https://uviclibraries.github.io/podcasting/images/goat-girl.mp3), which is provided in the [Editing Audio](https://uviclibraries.github.io/podcasting/editing-audio.html) section of this workshop. 
 
