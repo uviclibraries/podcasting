@@ -21,5 +21,6 @@ To participate fully, please do the following **before the workshop.**
 - [Planning your Podcast](podcast-planning.html) (5 min) 
 - [Sample Podcast Script](sample-podcast-script.html) (2 min)
 - OPTIONAL: [Podcasting 101 from PRX & Google Podcasts](https://www.youtube.com/playlist?list=PL7I-Eysv4kq4P9a_942suQdE1_0WiFxFo) is an excellent series of 10 short videos that cover the podcasting creation process from start to finish. They include a video on monetization, which is a topic not covered in this DSC workshop.
+- OPTIONAL (for in-person workshop participants): review the [introductory slides](https://docs.google.com/presentation/d/1vRFxxqluG62jjOwkSjjBBoGSZUBUaKfcXDCA5PAWtWM/edit?usp=sharing)
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
