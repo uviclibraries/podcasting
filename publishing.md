@@ -11,7 +11,7 @@ When your podcast is completed, you need a place to host your episodes. Media ho
 
 Here's a **list of options to consider**: 
 
-1. [**Libsyn**](http://bit.ly/2KS8Pdw): no free tier; see their [plans and pricing page](https://libsyn.com/plans-and-pricing/) for details.
+1. [**Libsyn**](https://libsyn.com/plans-and-pricing/): no free tier; see their [plans and pricing page](https://libsyn.com/plans-and-pricing/) for details.
 2. [**Spotify for Creators**](https://creators.spotify.com/): formerly Anchor.fm, this podcast host has a free tier that we recommend for beginners. Some helpful Spotify for Creator services include the following:
     - record audio on your phone, tablet or web browser
     - edit audio in a web browser, on a phone or tablet
