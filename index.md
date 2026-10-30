@@ -13,9 +13,15 @@ Introductory presentation: 10 min
 
 Hands-on activities: 80 min
 
-## Why Audacity? 
+## What is Audacity? 
 
 Audacity is an [open-source software](https://en.wikipedia.org/wiki/Open-source_software) that allows you to edit and add effects to your audio projects. This software has numerous features that will help develop your podcasting skills. Learn more about these features through our workshop activities.
+
+## The Audacity interface
+
+The Audacity interface seems to take its design from analogue devices, as you can see in this image that compares Audacity with a vintage cassette player. 
+
+<img src="images/podcasting-podcast-introduction-01.png" style="width:100%;" alt="comparing vintage cassette and Audacity interface"> 
 
 ## Learning objectives 
 
