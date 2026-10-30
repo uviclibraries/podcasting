@@ -15,7 +15,7 @@ Hands-on activities: 80 min
 
 ## Why Audacity? 
 
-[Audacity](https://www.audacityteam.org/) is an [open-source software](https://en.wikipedia.org/wiki/Open-source_software) that allows you to edit and add effects to your audio projects. This software has numerous features that will help develop your podcasting skills. Learn more about these features through our workshop activities.
+Audacity is an [open-source software](https://en.wikipedia.org/wiki/Open-source_software) that allows you to edit and add effects to your audio projects. This software has numerous features that will help develop your podcasting skills. Learn more about these features through our workshop activities.
 
 ## Learning objectives 
 
