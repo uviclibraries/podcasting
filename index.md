@@ -22,6 +22,7 @@ Audacity is an [open-source software](https://en.wikipedia.org/wiki/Open-source_
 The Audacity interface seems to take its design from analogue devices, as you can see in this image that compares Audacity with a vintage cassette player. 
 
 <img src="images/podcasting-podcast-introduction-01.png" style="width:100%;" alt="comparing vintage cassette and Audacity interface"> 
+[Cassette player image credit](https://commons.wikimedia.org/wiki/File:Yamaha_CT-1000_cassette_deck_(1979,_Europe).svg)
 
 ## Learning objectives 
 
