@@ -16,6 +16,7 @@ To participate fully, please do the following **before the workshop.**
 
 ### Choose your operating system
 
+<br>
 <details><summary>Install Audacity on a Mac computer (mac OS)</summary>
 <br>
 
