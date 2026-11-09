@@ -22,7 +22,7 @@ To participate fully, please do the following **before the workshop.**
 </details>
 
 <details><summary>Install Audacity on a <b>Windows computer (Windows 11)</b></summary>
-<p><b>For a <b>Windows computer</b>, use this <a href="https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe">64 bit installer.</b></p>
+<p><b>For a <b>Windows computer</b>, use this <a href="https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe">64 bit installer</a>.</b></p>
 <p>If none of the above installers work, especially for an older computer or operating system, then choose from this list of <a href="https://www.fosshub.com/Audacity-old.html">older Audacity versions</a>.</p>
 </details>
 
