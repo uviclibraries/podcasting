@@ -10,17 +10,16 @@ To participate fully, please do the following **before the workshop.**
 
 ## 1. Install Audacity on your laptop
 
-<mark>**IMPORTANT: we need you to install the correct version of Audacity, so please follow these install instructions completely before proceeding.**</mark> Take your time and walk through each of the steps. 
+**<mark>IMPORTANT: we need you to install the correct version of Audacity, so please follow these install instructions completely before proceeding.</mark>** Take your time and walk through each of the steps. 
 
 **Choose your operating system:** 
 
 <details><summary>Install Audacity on a Mac computer (mac OS)</summary>
 
-- For **newer Mac computers** (~2019 onward), use this [ARM 64 dmg Apple Silicon installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-arm64.dmg).
->**NOTE**: for **older Macs** (typically before 2019), use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). If you end up on Audacity's [Downloads page](https://www.audacityteam.org/download/), **we do not recommend using any installers named "Audacity installer (recommended) via MuseHub**," becasue MuseHub is [bloatware](https://en.wikipedia.org/wiki/Software_bloat#Bloatware) that will be installed along with the Audacity installation.
+**For newer Mac computers (~2019 onward), download this [Universal macOS installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg).** 
 
+**NOTE: older Intel Macs** (typically before 2019) use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). 
 </details>
-
 
 <details><summary>Install Audacity on a Windows computer (Windows 11)</summary>
 
@@ -29,6 +28,12 @@ To participate fully, please do the following **before the workshop.**
   - If none of the above installers work, especially for an older computer or operating system, then choose from this list of [older Audacity versions](https://www.fosshub.com/Audacity-old.html).  
 
 </details>
+
+If you end up on Audacity's [Downloads page](https://www.audacityteam.org/download/), **we _do not_ recommend using any installers named "Audacity installer (recommended) via MuseHub**," becasue MuseHub is [bloatware](https://en.wikipedia.org/wiki/Software_bloat#Bloatware) that will be installed along with the Audacity installation.
+
+<img src="images/podcast-muse-warning.png" style="width:100%;" alt="MuseHub do not install warning">
+
+**DO NOT use any installers that include MuseHub.**
 
 ## 2. Review the following videos: 
 - [Should I Make a Podcast?](https://www.youtube.com/watch?v=zzLdlGDujZc) (4 min)
