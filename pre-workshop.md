@@ -18,7 +18,6 @@ To participate fully, please do the following **before the workshop.**
 
 <br>
 <details><summary>Install Audacity on a Mac computer (mac OS)</summary>
-<br>
 
 **For newer Mac computers (~2019 onward), download this [Universal macOS installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg).** 
 
@@ -27,7 +26,6 @@ To participate fully, please do the following **before the workshop.**
 </details>
 <br>
 <details><summary>Install Audacity on a Windows computer (Windows 11)</summary>
-<br>
 
 For a **Windows computer**, use this [64 bit installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe).
 
