@@ -19,9 +19,9 @@ To participate fully, please do the following **before the workshop.**
 <details><summary>Install Audacity on a Mac computer (mac OS)</summary>
 
 
-> **For newer Mac computers (~2019 onward), download this [Universal macOS installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg).** 
+**For newer Mac computers (~2019 onward), download this [Universal macOS installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.9/audacity-macOS-3.7.9-universal.dmg).** 
 
-> **NOTE: older Intel Macs** (typically before 2019) use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). 
+**NOTE: older Intel Macs** (typically before 2019) use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg). 
 
 
 </details>
