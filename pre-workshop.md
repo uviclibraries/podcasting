@@ -12,7 +12,7 @@ To participate fully, please do the following **before the workshop.**
 
 <mark>IMPORTANT: we need you to install the correct version of Audacity!<mark> 
 
-**Please follow these install instructions completely before proceeding in the workshop.</mark>** 
+**Please follow these install instructions completely before proceeding in the workshop.** 
 
 ### Choose your operating system
 
