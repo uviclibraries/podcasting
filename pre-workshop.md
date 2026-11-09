@@ -27,11 +27,12 @@ To participate fully, please do the following **before the workshop.**
 </details>
 
 <details><summary>Install Audacity on a <b>Linux computer</b></summary>
-<p>Audacity also has a <a href="https://www.audacityteam.org/download/linux/">Linux installer</a>. See this <a href="https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html">Installing and updating Audacity on Linux page</a> for details as needed.</p>
+<p>Audacity also has a <a href="https://www.audacityteam.org/download/linux/">Linux installer</a>.</p> 
+<p>See this <a href="https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html">Installing and updating Audacity on Linux page</a> for details as needed.</p>
 </details>
 
 
-### Important install tips
+### Important installation tips
 
 If you end up on Audacity's [Downloads page](https://www.audacityteam.org/download/), **we _do not_ recommend using any installers named "Audacity installer (recommended) via MuseHub**," becasue MuseHub is [bloatware](https://en.wikipedia.org/wiki/Software_bloat#Bloatware) that will be installed along with the Audacity installation.
 
