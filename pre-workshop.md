@@ -10,9 +10,11 @@ To participate fully, please do the following **before the workshop.**
 
 ## 1. Install Audacity on your laptop
 
-**<mark>IMPORTANT: we need you to install the correct version of Audacity, so please follow these install instructions completely before proceeding.</mark>** Take your time and walk through each of the steps. 
+**<mark>IMPORTANT: we need you to install the correct version of Audacity!<mark>** 
 
-**Choose your operating system:** 
+**Please follow these install instructions completely before proceeding in the workshop.</mark>** 
+
+### Choose your operating system
 
 <details><summary>Install Audacity on a Mac computer (mac OS)</summary>
 <br>
