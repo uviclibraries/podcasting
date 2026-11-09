@@ -21,12 +21,12 @@ To participate fully, please do the following **before the workshop.**
 <p><b>NOTE: older Intel Macs</b> (typically before 2019) use this [x86_64 dmg Intel installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-x86_64.dmg).</p>
 </details>
 
-<details><summary>Install Audacity on a Windows computer (Windows 11)</summary>
+<details><summary>Install Audacity on a <b>Windows computer (Windows 11)</b></summary>
 <p><b>For a <b>Windows computer</b>, use this [64 bit installer](https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-win-3.7.7-64bit.exe).</b></p>
 <p>If none of the above installers work, especially for an older computer or operating system, then choose from this list of [older Audacity versions](https://www.fosshub.com/Audacity-old.html).</p>
 </details>
 
-<details><summary>Install Audacity on a Linux computer</summary>
+<details><summary>Install Audacity on a <b>Linux computer</b></summary>
 <p>Audacity also has a [Linux installer](https://www.audacityteam.org/download/linux/). See this [Installing and updating Audacity on Linux page](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html) for details as needed.</p>
 </details>
 
