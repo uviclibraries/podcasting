@@ -41,7 +41,7 @@ Audacity also has a [Linux installer](https://www.audacityteam.org/download/linu
 </details>
 
 
-## Important install tips
+### Important install tips
 
 If you end up on Audacity's [Downloads page](https://www.audacityteam.org/download/), **we _do not_ recommend using any installers named "Audacity installer (recommended) via MuseHub**," becasue MuseHub is [bloatware](https://en.wikipedia.org/wiki/Software_bloat#Bloatware) that will be installed along with the Audacity installation.
 
