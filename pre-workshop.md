@@ -10,7 +10,7 @@ To participate fully, please do the following **before the workshop.**
 
 ## 1. Install Audacity on your laptop
 
-**<mark>IMPORTANT: we need you to install the correct version of Audacity!<mark>** 
+<mark>IMPORTANT: we need you to install the correct version of Audacity!<mark> 
 
 **Please follow these install instructions completely before proceeding in the workshop.</mark>** 
 
