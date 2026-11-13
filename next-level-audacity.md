@@ -102,7 +102,7 @@ For the purposes of this demonstration, we will apply the Compressor effect to a
 
 # Audacity tips
 
-## Installing FFmpeg
+## Tip 1: Installing FFmpeg
 
 Depending on what type of audio files you import or export in Audacity (and your version of Audacity), you might be prompted by Audacity to install a software suite called [FFmpeg](https://en.wikipedia.org/wiki/FFmpeg). 
 
@@ -110,19 +110,19 @@ Basically, FFmpeg allows you to work with a variety of audio file types not alre
 
 **Audacity's Support website** walks you through **how to install FFmeg** for Windows, Mac, and Linux. **See [Installing FFmpeg](https://support.audacityteam.org/basics/installing-ffmpeg)** for more.
 
-## Convert your files to MP3 using VLC media player
+## Tip 2: Convert your files to MP3 using VLC media player
 
 **Purpose**: to convert smartphone (iPhone, Android) voice memo file types (M4A, or .m4a) into MP3 format for use in Audacity. 
 
-**Note** that **Audacity cannot open or edit M4A files by default because of "[patent restrictions](https://support.audacityteam.org/basics/installing-ffmpeg)."** The preferred and permanent way to enable M4A import to Audacity is to [install](https://support.audacityteam.org/basics/installing-ffmpeg) the FFmpeg file library. 
+> **Note** that **Audacity cannot open or edit M4A files by default because of "[patent restrictions](https://support.audacityteam.org/basics/installing-ffmpeg)."** The preferred and permanent way to enable M4A import to Audacity is to [install](https://support.audacityteam.org/basics/installing-ffmpeg) the FFmpeg file library. 
 
-An alternative to installing FFmpeg is to use a file converter, like the one in the freeware and open source media player called [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player). **One bonus of installing VLC is that you can you use it to covert a number formats, both audio and video, to other formats.** 
+> An alternative to installing FFmpeg is to use a file converter, like the one in the freeware and open source media player called [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player). **One bonus of installing VLC is that you can you use it to covert a number formats, both audio and video, to other formats.** 
 
 **VLC menu location**: File > Convert/Stream...
 
 ### How to use VLC Media Player to convert M4A to MP3 files 
 
-These instructions assume that have downloaded your M4A to somewhere you can locate on your computer. 
+**These instructions assume that have already downloaded/moved your M4A file to somewhere you can locate on your computer.** 
 
 1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
 2. In VLC's main menu, **select File > Convert/Stream...**. You will see the Convert & Stream popup. 
