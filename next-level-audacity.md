@@ -127,13 +127,13 @@ An alternative to installing FFmpeg is to use a file converter, like the one in 
 
 1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
 2. In VLC's main menu, **select File > Convert/Stream...**. You will see the Convert & Stream popup. 
-<img src="images/vlc-convert-01.png" style="width:700px;" alt="VLC file to convert/stream menu"><br>
+<img src="images/vlc-convert-01.png" style="width:80%;" alt="VLC file to convert/stream menu"><br>
 3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**. 
-<img src="images/vlc-convert-02.png" style="width:700px;" alt="VLC file to convert/stream menu"><br>
+<img src="images/vlc-convert-02.png" style="width:80%;" alt="VLC file to convert/stream menu"><br>
 Then, click on the "Open" button, which will return you to the Convert & Stream popup.
-<img src="images/vlc-convert-03.png" style="width:700px;" alt="VLC file selection dialogue"><br>
+<img src="images/vlc-convert-03.png" style="width:80%;" alt="VLC file selection dialogue"><br>
 4. Back in the Convert & Stream popup, in the **"Choose Profile"** area, click on the **list of options** and choose **"Audio - MP3."**
-<img src="images/vlc-convert-04.png" style="width:700px;" alt="VLC file  conversion options list"><br>
+<img src="images/vlc-convert-04.png" style="width:80%;" alt="VLC file  conversion options list"><br>
 5. Still in the Convert & Stream popup, the **"Choose Destination"** area, click on the **"Save as File" button**. Doing so will reveal another step in the process: naming and choosing where to save your MP3 file. 
 6. Still in the Convert & Stream popup > **"Choose Destination"** area, click on the **"Browse" button** and choose a file-save, or "output," location on your computer. 
 7. In the **"Save As" area** of the file-saving popup, **name your file**. **IMPORTANT: add ".mp3" to your file name,** for example: Sample.mp3. 
