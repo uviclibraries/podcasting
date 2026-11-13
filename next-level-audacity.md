@@ -100,7 +100,7 @@ For the purposes of this demonstration, we will apply the Compressor effect to a
 
 <!--## Adding background music -->
 
-# Audacity troubleshooting
+# Audacity tips
 
 ## Installing FFmpeg
 
@@ -109,6 +109,33 @@ Depending on what type of audio files you import or export in Audacity (and your
 Basically, FFmpeg allows you to work with a variety of audio file types not already handled by Audacity by default. In other words, you will be able to import and export pretty much any file type you would ever need to if you have FFmpeg installed.  
 
 **Audacity's Support website** walks you through **how to install FFmeg** for Windows, Mac, and Linux. **See [Installing FFmpeg](https://support.audacityteam.org/basics/installing-ffmpeg)** for more.
+
+## Convert your files to MP3 using VLC media player
+
+**Purpose**: to convert smartphone (iPhone, Android) voice memo file types (M4A, or .m4a) into MP3 format for use in Audacity. 
+
+**Note** that **Audacity cannot open or edit M4A files by default because of "[patent restrictions](https://support.audacityteam.org/basics/installing-ffmpeg)."** The preferred and permanent way to enable M4A import to Audacity is to [install](https://support.audacityteam.org/basics/installing-ffmpeg) the FFmpeg file library. 
+
+An alternative to installing FFmpeg is to use a file converter, like the one in the freeware and open source media player called [VLC media player](https://en.wikipedia.org/wiki/VLC_media_player). **One bonus of installing VLC is that you can you use it to covert a number formats, both audio and video, to other formats.** 
+
+**VLC menu location**: File > Convert/Stream...
+
+### How to use VLC Media Player to convert M4A to MP3 files 
+
+These instructions assume that have downloaded your M4A to somewhere you can locate on your computer. 
+
+1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
+2. In VLC's main menu, **select File > Convert/Stream...**. You will see the Convert & Stream popup. 
+3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**. 
+4. Still in the Convert & Stream popup, in the **"Choose Profile"** area, click on the **list of options** and choose **"Audio - MP3."**
+5. Still in the Convert & Stream popup, the **"Choose Destination"** area, click on the **"Save as File" button**. Doing so will reveal another step in the process: naming and choosing where to save your MP3 file. 
+6. Still in the Convert & Stream popup > **"Choose Destination"** area, click on the **"Browse" button** and choose a file-save, or "output," location on your computer. 
+7. In the **"Save As" area** of the file-saving popup, **name your file**. **IMPORTANT: add ".mp3" to your file name,** for example: Sample.mp3. 
+8. Still in the file-saving popup, click on the **"Save" button**. Doing so will take you back to the Convert & Stream popup. 
+9. Still in the **Convert & Stream popup**, click on the **"Save" button**. 
+10. Finally, navigate to where you saved the file to **confirm that the conversion and output worked**. 
+
+Congrats! You should now have an MP3 audio file that you can import into Audacity. 
 
 
 <script>  
