@@ -128,7 +128,7 @@ An alternative to installing FFmpeg is to use a file converter, like the one in 
 1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
 2. In VLC's main menu, **select File > Convert/Stream...**. You will see the Convert & Stream popup. 
 <img src="images/vlc-convert-01.png" style="width:70%;" alt="VLC file to convert/stream menu"><br>
-3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**. 
+3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**.<br> 
 <img src="images/vlc-convert-02.png" style="width:70%;" alt="VLC file to convert/stream menu"><br>
 Then, click on the "Open" button, which will return you to the Convert & Stream popup.
 <img src="images/vlc-convert-03.png" style="width:70%;" alt="VLC file selection dialogue"><br>
