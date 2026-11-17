@@ -127,19 +127,28 @@ An alternative to installing FFmpeg is to use a file converter, like the one in 
 
 1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
 2. In VLC's main menu, **select File > Convert/Stream...**. You will see the Convert & Stream popup. 
+
 <img src="images/vlc-convert-01.png" style="width:70%;" alt="VLC file to convert/stream menu"><br>
-3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**.<br> 
+3. In the **Convert & Stream popup**, click on the **Open media...** button and **navigate to your M4A file**.
+
 <img src="images/vlc-convert-02.png" style="width:70%;" alt="VLC file to convert/stream menu"><br>
 Then, click on the "Open" button, which will return you to the Convert & Stream popup.
+
 <img src="images/vlc-convert-03.png" style="width:70%;" alt="VLC file selection dialogue"><br>
 4. Back in the Convert & Stream popup, in the **"Choose Profile"** area, click on the **list of options** and choose **"Audio - MP3."**
+
 <img src="images/vlc-convert-04.png" style="width:70%;" alt="VLC file  conversion options list"><br>
 5. Still in the Convert & Stream popup, in the **"Choose Destination"** area, click on the **"Save as File" button**, then click on the **"Browse" button**.
+
 <img src="images/vlc-convert-05.png" style="width:70%;" alt="VLC saving file buttons"><br>  
 6. In the **"Save As" area** of the file-saving popup, **name your file**. **IMPORTANT: add ".mp3" to your file name,** for example: Sample.mp3. Then click on the **"Save" button**.
+
 <img src="images/vlc-convert-06.png" style="width:70%;" alt="VLC finding file save location and naming file"><br> 
-7. Still in the **Convert & Stream popup**, click on the **"Save" button**. <img src="images/vlc-convert-07.png" style="width:70%;" alt="VLC finding file save location and naming file"><br>
+7. Still in the **Convert & Stream popup**, click on the **"Save" button**. 
+
+<img src="images/vlc-convert-07.png" style="width:70%;" alt="VLC finding file save location and naming file"><br>
 Note that it may take time to convert your file, depending on its length, input file type, and file size. 
+
 8. Finally, navigate to where you saved the converted file to **confirm that the output (in this case an MP3 file) worked**. 
 
 Congratulations 🎉! You should now have an MP3 audio file that you can import into Audacity. 
