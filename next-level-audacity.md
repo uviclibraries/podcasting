@@ -58,12 +58,19 @@ The goal is to make sure that this section of audio sounds similar to the rest, 
 
 1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of loud audio**. 
 2. In Audacity's main menu, **select Effect > Volume and Compression > Normalize**. You will see the Normalize popup. 
-3. **Leave the default settings** alone and click on the **Apply** button. Here is an image of the process: <br><img src="images/audacity-nextlevel-normalize-process.png" style="width:70%;" alt="Audacity normalize process"><br> And here is an image of the results on the selected audio. Notice how the clip we selected has peaks much closer to the audio on either side of it: <img src="images/audacity-nextlevel-normalize-result.png" style="width:70%;" alt="Audacity normalize result">
+3. **Leave the default settings** alone and click on the **Apply** button. Here is an image of the process:
+
+    <img src="images/audacity-nextlevel-normalize-process.png" style="width:70%;" alt="Audacity normalize process">
+    
+    And here is an image of the results on the selected audio. Notice how the clip we selected has peaks much closer to the audio on either side of it:
+
+   <img src="images/audacity-nextlevel-normalize-result.png" style="width:70%;" alt="Audacity normalize result">
 
 **Tips**: you can apply Normalize to an entire clip (mono or stereo) by double-clicking anywhere in the track to select it (the track will have a blue overlay to show it is selected), and applying Normalize. 
 
-Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This option can be helpful when you want to preserve the relative balance of levels in each track independently.<br>
-<img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:70%;" alt="Audacity normalize stereo option">
+Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This option can be helpful when you want to preserve the relative balance of levels in each track independently.
+
+    <img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:70%;" alt="Audacity normalize stereo option">
 
 **More info**: see the [Audacity Manual page on Normalize](https://manual.audacityteam.org/man/normalize.html) for more details. See also Audacity's [Amplify and Normalize](https://manual.audacityteam.org/man/amplify_and_normalize.html) guide for the differences between Amplify and Normalize, and ideal times to use each. 
 
@@ -88,10 +95,15 @@ For the purposes of this demonstration, we will apply the Compressor effect to a
 
 1. Double-click anywhere in the track to select it (the track will have a blue overlay to show it is selected). 
 2. In Audacity's main menu, **select Effect > Volume and Compression > Compressor**. You will see the Compressor popup. 
-3. **Click** on the **Presets & settings** button, hover over **Factory Presets**, then select **Podcast/Radio**. <br>
-<img src="images/audacity-nextlevel-compressor-select.png" style="width:70%;" alt="Audacity Compressor select process"> This will return you to the Compressor popup, so we can preview the effect before applying it. 
-4. In the Compressor popup, **click on the Preview button**.<br>
-<img src="images/audacity-nextlevel-compressor-preview.png" style="width:70%;" alt="Audacity Compressor preview process"> 
+3. **Click** on the **Presets & settings** button, hover over **Factory Presets**, then select **Podcast/Radio**.
+
+    <img src="images/audacity-nextlevel-compressor-select.png" style="width:70%;" alt="Audacity Compressor select process">
+    
+   This will return you to the Compressor popup, so we can preview the effect before applying it. 
+4. In the Compressor popup, **click on the Preview button**.
+
+    <img src="images/audacity-nextlevel-compressor-preview.png" style="width:70%;" alt="Audacity Compressor preview process"> 
+
 5. Assuming that you are happy with the results, **click on the Apply button** to complete your changes. 
 
 **Tips**: assuming that you are working with spoken word voice tracks from your podcast interview(s), try other Compressor Factory Presets to see if they work better for you. For example, Audacity has **Vocal Touch-Up** and **Voice Memos Balancer**, which might work well for spoken word recordings.  
