@@ -132,8 +132,7 @@ An alternative to installing FFmpeg is to use a file converter, like the one in 
 
 ### How to use VLC Media Player to convert M4A to MP3 files 
 
-
-**These instructions assume that have already downloaded/moved your M4A file to somewhere you can locate on your computer.** 
+These instructions assume that you have already downloaded/moved your M4A file to somewhere you can locate on your computer.
 
 1. Install [VLC Media Player](https://www.videolan.org/vlc/). 
 
