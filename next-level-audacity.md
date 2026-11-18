@@ -70,7 +70,7 @@ The goal is to make sure that this section of audio sounds similar to the rest, 
 
 Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This option can be helpful when you want to preserve the relative balance of levels in each track independently.
 
-    <img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:70%;" alt="Audacity normalize stereo option">
+<img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:70%;" alt="Audacity normalize stereo option">
 
 **More info**: see the [Audacity Manual page on Normalize](https://manual.audacityteam.org/man/normalize.html) for more details. See also Audacity's [Amplify and Normalize](https://manual.audacityteam.org/man/amplify_and_normalize.html) guide for the differences between Amplify and Normalize, and ideal times to use each. 
 
