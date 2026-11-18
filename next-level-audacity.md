@@ -25,7 +25,7 @@ We have curated this list to appeal to beginners. Where helpful, we provide link
 
 In overall terms, we first have to teach Noise Reduction tool to identify the noise we want to remove, then we apply the effect. 
 
-1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of the waveform that contains only the noise we want to remove**. For example, in the case of a buzzing sound during an interview, you would select the part of the waveform between people talking. <br><img src="images/audacity-nextlevel-noise-selection.png" style="width:700px;" alt="Audacity noise portion selection"><br>
+1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of the waveform that contains only the noise we want to remove**. For example, in the case of a buzzing sound during an interview, you would select the part of the waveform between people talking. <br><img src="images/audacity-nextlevel-noise-selection.png" style="width:70%;" alt="Audacity noise portion selection"><br>
 2. In Audacity's main menu, **select Effect > Volume and Compression > Noise Reduction**. You will see the Noise Reduction popup. 
 3. In Noise Reduction popup, click on the **Get Noise Profile** button. **NOTE** that the popup window will close. This is normal: **it has now gathered a noise profile that will remain until you close Audacity**. 
 4. Select all or some of the track to which you want to apply  the Noise Reduction effect. 
@@ -34,7 +34,7 @@ In overall terms, we first have to teach Noise Reduction tool to identify the no
     - **Noise Reduction (dB)**: controls the volume of reduction to be applied to the noise, in other words, how much of the noise to remove, relative to the rest of the sounds. The default setting is 6, but this will likely need to change. 
     - **Sensitivity**: determines how much of the audio is  considered "noise." This setting is important to get right. If you set this too high, then your track will have "artifacts," like strange tones or chirps. The default setting is setting is 6.00, but experiment with this. 
     - **Frequency Smoothing (bands)**: sounds are collections of various frequencies, and this tool allows you to tweak which ranges of frequencies are changed by the Noise Reduction effect, based on the noise profile you gathered when you clicked on the Get Noise Profile button. If your noise is light, try setting this to 0 (off). In general, settings lower than 6 (the default) favour music and higher settings favour spoken word. 
-    - **<mark>TIP</mark>**: to preview _just_ the noise being removed, select on the **Residue** button, then the **Preview** button. <br><img src="images/audacity-nextlevel-noise-popup.png" style="width:700px;" alt="Audacity noise reduction popup"><br>
+    - **<mark>TIP</mark>**: to preview _just_ the noise being removed, select on the **Residue** button, then the **Preview** button. <br><img src="images/audacity-nextlevel-noise-popup.png" style="width:70%;" alt="Audacity noise reduction popup"><br>
 7. Assuming that you are happy with the results of your tweaks, click on the **OK button** to apply your effect. 
 
 
@@ -58,12 +58,12 @@ The goal is to make sure that this section of audio sounds similar to the rest, 
 
 1. Use the [Selection Tool](https://manual.audacityteam.org/man/selection_tool.html) to **select a portion of loud audio**. 
 2. In Audacity's main menu, **select Effect > Volume and Compression > Normalize**. You will see the Normalize popup. 
-3. **Leave the default settings** alone and click on the **Apply** button. Here is an image of the process: <br><img src="images/audacity-nextlevel-normalize-process.png" style="width:700px;" alt="Audacity normalize process"><br> And here is an image of the results on the selected audio. Notice how the clip we selected has peaks much closer to the audio on either side of it: <img src="images/audacity-nextlevel-normalize-result.png" style="width:700px;" alt="Audacity normalize result">
+3. **Leave the default settings** alone and click on the **Apply** button. Here is an image of the process: <br><img src="images/audacity-nextlevel-normalize-process.png" style="width:70%;" alt="Audacity normalize process"><br> And here is an image of the results on the selected audio. Notice how the clip we selected has peaks much closer to the audio on either side of it: <img src="images/audacity-nextlevel-normalize-result.png" style="width:70%;" alt="Audacity normalize result">
 
 **Tips**: you can apply Normalize to an entire clip (mono or stereo) by double-clicking anywhere in the track to select it (the track will have a blue overlay to show it is selected), and applying Normalize. 
 
 Note that with stereo tracks, you have the option to "Normalize stereo channels independently." This option can be helpful when you want to preserve the relative balance of levels in each track independently.<br>
-<img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:500px;" alt="Audacity normalize stereo option">
+<img src="images/audacity-nextlevel-normalize-stereo-option.png" style="width:70%;" alt="Audacity normalize stereo option">
 
 **More info**: see the [Audacity Manual page on Normalize](https://manual.audacityteam.org/man/normalize.html) for more details. See also Audacity's [Amplify and Normalize](https://manual.audacityteam.org/man/amplify_and_normalize.html) guide for the differences between Amplify and Normalize, and ideal times to use each. 
 
@@ -89,9 +89,9 @@ For the purposes of this demonstration, we will apply the Compressor effect to a
 1. Double-click anywhere in the track to select it (the track will have a blue overlay to show it is selected). 
 2. In Audacity's main menu, **select Effect > Volume and Compression > Compressor**. You will see the Compressor popup. 
 3. **Click** on the **Presets & settings** button, hover over **Factory Presets**, then select **Podcast/Radio**. <br>
-<img src="images/audacity-nextlevel-compressor-select.png" style="width:700px;" alt="Audacity Compressor select process"> This will return you to the Compressor popup, so we can preview the effect before applying it. 
+<img src="images/audacity-nextlevel-compressor-select.png" style="width:70%;" alt="Audacity Compressor select process"> This will return you to the Compressor popup, so we can preview the effect before applying it. 
 4. In the Compressor popup, **click on the Preview button**.<br>
-<img src="images/audacity-nextlevel-compressor-preview.png" style="width:700px;" alt="Audacity Compressor preview process"> 
+<img src="images/audacity-nextlevel-compressor-preview.png" style="width:70%;" alt="Audacity Compressor preview process"> 
 5. Assuming that you are happy with the results, **click on the Apply button** to complete your changes. 
 
 **Tips**: assuming that you are working with spoken word voice tracks from your podcast interview(s), try other Compressor Factory Presets to see if they work better for you. For example, Audacity has **Vocal Touch-Up** and **Voice Memos Balancer**, which might work well for spoken word recordings.  
