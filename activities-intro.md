@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 2
 parent: Workshop Activities
 ---
-# Hands-On Activities Introduction
+# Hands-On Self-Directed Introduction
 
 If you are are participating online (remotely) or in-person for this workshop, please review the following:
 
