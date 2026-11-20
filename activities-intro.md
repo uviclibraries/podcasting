@@ -4,7 +4,7 @@ title: Self-Directed Introduction
 nav_order: 2
 parent: Workshop Activities
 ---
-# Hands-On Self-Directed Introduction
+# Introduction for Self-Directed Learners
 
 If you are are participating online (remotely) or in-person for this workshop, please review the following:
 
